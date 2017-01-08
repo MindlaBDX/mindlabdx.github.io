@@ -19,8 +19,8 @@ description: >
   Le MindLaBdx est un laboratoire citoyen ouvert en Intelligence Artificielle et Sciences Cognitives.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mindlabdx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @neuronalX
-github_username:  mindlabdx
+twitter_username: "@neuronalX"
+github_username:  "mindlabdx"
 
 # Build settings
 markdown: kramdown
