@@ -24,7 +24,7 @@ En plus des projet tutoré, le MindLaBdx héberge des groupes de réflexions aut
 ### Intelligence artificielle
 
 Plein de projets sont possibles ! Des compétitions Kaggle à des projets de Vie Artificielle (les automates cellulaires en sont un exemple sympa) ! Mais on peut faire des chatbots qui discutent de la vie, thème chère à @phillipe : si vous avez du temps à perdre allez voir les voir [discuter](https://www.twitch.tv/seebotschat).
-![Chatbots dans des google Home qui discutent entre eux. Source : https://www.twitch.tv/seebotschat](../images/2017-01-07-seebotschat-meaning-of-life.png)
+![Chatbots dans des google Home qui discutent entre eux. Source : https://www.twitch.tv/seebotschat](/images/2017-01-07-seebotschat-meaning-of-life.png)
 
 ## Animer les sciences cognitives à Bordeaux
 
