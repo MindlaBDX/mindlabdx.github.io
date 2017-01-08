@@ -44,4 +44,4 @@ Toutes ces initiatives seront encadrées par un comité chargé de veiller à ce
 
 ## Vous êtes intéressé ?
 
-Rien de plus simple ! Rejoignez-nous sur le [mindlabdx.slack.com](Slack du MindLaBdx) en cliquant [mindlabdx.herokuapp.com](=> ICI <=)
+Rien de plus simple ! Rejoignez-nous sur le [Slack du MindLaBdx](mindlabdx.slack.com) en cliquant [=> ICI <=](mindlabdx.herokuapp.com)
