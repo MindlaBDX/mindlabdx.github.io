@@ -1,8 +1,6 @@
-Laboratoire ouvert en Intelligence Artificielle et Sciences Cognitives
+*Laboratoire citoyen ouvert* en _Intelligence Artificielle_ et _Sciences Cognitives_
 
-## Le MindLaBdx
-
-Le MindLaBdx est un laboratoire en intelligence artificielle et sciences cognitives ouvert. N’importe quelle personne intéressée par les sciences cognitives ou par l’intelligence artificielle sur Bordeaux peut rejoindre le Lab et participer. Il est destiné à accueillir, héberger et soutenir des projets en IA et SciCog, lesquels seront ouverts. Le MindLaBdx n’est pas, pour l’instant une association. C’est un Slack avec un peu plus de 30 personnes inscrites, intéressées pour réaliser des projets ensemble. Il regroupe des étudiants de licence MIASHS, Master Sciences Cognitives, étudiants d’ingésup, de DUT informatique ainsi qu’une dizaine de doctorants et chercheurs de l’INRIA (équipes POTIOC, Mnemosyne et Flowers).
+C'est pour qui ? N’importe quelle personne intéressée par les sciences cognitives ou par l’intelligence artificielle sur Bordeaux peut rejoindre le Lab et participer. Il est destiné à accueillir, héberger et soutenir des projets en IA et SciCog, lesquels seront ouverts. Le MindLaBdx n’est pas, pour l’instant une association. C’est un Slack avec un peu plus de 30 personnes inscrites, intéressées pour réaliser des projets ensemble. Il regroupe des étudiants de licence MIASHS, Master Sciences Cognitives, étudiants d’ingésup, de DUT informatique ainsi qu’une dizaine de doctorants et chercheurs de l’INRIA (équipes POTIOC, Mnemosyne et Flowers).
 
 ## Projet tutoré
 
@@ -18,32 +16,32 @@ Ces projets seront libres et disposeront d’une visibilité sur le site du Mind
 
 En plus des projet tutoré, le MindLaBdx héberge des groupes de réflexions autour de plusieurs thèmes :
 
-    - Le rêve lucide
-    - L’intelligence artificielle
-    - Ethique et morale en sciences cognitives
-    - A travers ces thèmes, des projets pourront être développés soit sous forme de tutorat ou de collaborations entre étudiants/chercheurs/curieux/...
+- Le rêve lucide
+- L’intelligence artificielle
+- Ethique et morale en sciences cognitives
+- A travers ces thèmes, des projets pourront être développés soit sous forme de tutorat ou de collaborations entre étudiants/chercheurs/curieux/...
 
 ## Animer les sciences cognitives à Bordeaux
 
 En plus des projets soutenus par le MindLaBdx, des événements verront le jour, qu’ils s’agissent de :
 
-    - Workshops bitrimestriels internes au MindLaBdx (mais ouvert à tous) ;
-    - D’organisation de rencontres étudiants-chercheurs ;
-    - Visites de laboratoires de recherche pour les étudiants ;
-    - Meet-up sur la thèse (bourses, conditions...) entre étudiants de master et doctorants, postdoc et chercheurs ;
-    - Aide à l’organisation de la 2e édition du forum de l’intelligence artificielle ;
-    - Le lab aura vocation à dynamiser la vie des sciences cognitives à Bordeaux comme le milieu plus confidentiel, mais très à la mode, de l’intelligence artificielle ;
-    - Hackathon de machine learning autour d’un thème, d’un algorithme bien précis ou d’une problématique appliquée au monde de la santé, de l’entreprise ou sociétal...
+- Workshops bitrimestriels internes au MindLaBdx (mais ouvert à tous) ;
+- D’organisation de rencontres étudiants-chercheurs ;
+- Visites de laboratoires de recherche pour les étudiants ;
+- Meet-up sur la thèse (bourses, conditions...) entre étudiants de master et doctorants, postdoc et chercheurs ;
+- Aide à l’organisation de la 2e édition du forum de l’intelligence artificielle ;
+- Le lab aura vocation à dynamiser la vie des sciences cognitives à Bordeaux comme le milieu plus confidentiel, mais très à la mode, de l’intelligence artificielle ;
+- Hackathon de machine learning autour d’un thème, d’un algorithme bien précis ou d’une problématique appliquée au monde de la santé, de l’entreprise ou sociétal...
 
 Toutes ces initiatives seront encadrées par un comité chargé de veiller à ce que tout ce qui est entrepris au sein du MindLaBdx soit conforme aux standards d’exigences éthiques et moraux de la communauté scientifique ainsi que de la loi. Si tous ces projets et événements ne peuvent pas être mis en places dans les mois à venir, voici une liste de ce qui doit être réalisé dans les 2 mois qui suivent la réunion du 25 août 2016 :
 
-    - Mise en place d’un mini-site hébergé sur GitHub (présentation du MindLaBdx et de ses projets en cours) ;
-    - Deux à trois projets, dont celui du site internet en Django ;
-    - Le meet-up sur la thèse ;
-    - Organisation du premier workshop pour présenter les projets ;
+- Mise en place d’un mini-site hébergé sur GitHub (présentation du MindLaBdx et de ses projets en cours) ;
+- Deux à trois projets, dont celui du site internet en Django ;
+- Le meet-up sur la thèse ;
+- Organisation du premier workshop pour présenter les projets ;
 
 Toutes ces initiatives seront encadrées par un comité chargé de veiller à ce que tout ce qui est entrepris au sein du MindLaBdx soit conforme aux standards d’exigences éthiques et moraux de la communauté scientifique ainsi que de la loi.
 
 ## Vous êtes intéressé ?
 
-Rien de plus simple ! Rejoignez-nous sur le Slack du MindLaBdx en cliquant [MindLaBdxdx.herokuapp.com](=> ICI <=)
+Rien de plus simple ! Rejoignez-nous sur le [mindlabdx.slack.com](Slack du MindLaBdx) en cliquant [mindlabdx.herokuapp.com](=> ICI <=)
