@@ -1,11 +1,11 @@
-#MindLab Bordeaux
+# MindLab Bordeaux
 Laboratoire ouvert en Intelligence Artificielle et Sciences Cognitives
 
-##Le MindLab
+## Le MindLab
 
 Le Mindlab est un laboratoire en intelligence artificielle et sciences cognitives ouvert. N’importe quelle personne intéressée par les sciences cognitives ou par l’intelligence artificielle sur Bordeaux peut rejoindre le Lab et participer. Il est destiné à accueillir, héberger et soutenir des projets en IA et SciCog, lesquels seront ouverts. Le Mindlab n’est pas, pour l’instant une association. C’est un Slack avec un peu plus de 30 personnes inscrites, intéressées pour réaliser des projets ensemble. Il regroupe des étudiants de licence MIASHS, Master Sciences Cognitives, étudiants d’ingésup, de DUT informatique ainsi qu’une dizaine de doctorants et chercheurs de l’INRIA (équipes POTIOC, Mnemosyne et Flowers).
 
-##Projet tutoré
+## Projet tutoré
 
 Depuis la « création » du Mindlab, une idée a très rapidement germé dans les esprits de nombreux Mindlabiens ; Créer un ensemble de projets proposés par les chercheurs et doctorants aux étudiants intéressés sous forme de tutorat.
 
@@ -15,7 +15,7 @@ L’intérêt : le tuteur aura l’opportunité de lancer son projet ou de le fa
 
 Ces projets seront libres et disposeront d’une visibilité sur le site du Mindlab. Il n’y aura pas de deadline. Cependant une présentation de l’avancement du projet pourra être effectuée lors des workshops du Mindlab (voir plus bas).
 
-##Groupe de réflexion et d’expérimentation
+## Groupe de réflexion et d’expérimentation
 
 En plus des projet tutoré, le Mindlab héberge des groupes de réflexions autour de plusieurs thèmes :
 
@@ -24,7 +24,7 @@ En plus des projet tutoré, le Mindlab héberge des groupes de réflexions autou
     - Ethique et morale en sciences cognitives
     - A travers ces thèmes, des projets pourront être développés soit sous forme de tutorat ou de collaborations entre étudiants/chercheurs/curieux/...
 
-##Animer les sciences cognitives à Bordeaux
+## Animer les sciences cognitives à Bordeaux
 
 En plus des projets soutenus par le Mindlab, des événements verront le jour, qu’ils s’agissent de :
 
@@ -45,6 +45,6 @@ Toutes ces initiatives seront encadrées par un comité chargé de veiller à ce
 
 Toutes ces initiatives seront encadrées par un comité chargé de veiller à ce que tout ce qui est entrepris au sein du Mindlab soit conforme aux standards d’exigences éthiques et moraux de la communauté scientifique ainsi que de la loi.
 
-##Vous êtes intéressé ?
+## Vous êtes intéressé ?
 
 Rien de plus simple ! Rejoignez-nous sur le Slack du Mindlab en cliquant [mindlabdx.herokuapp.com](=> ICI <=)
