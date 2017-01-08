@@ -16,7 +16,7 @@ Ces projets seront libres et disposeront d’une visibilité sur le site du Mind
 
 En plus des projet tutoré, le MindLaBdx héberge des groupes de réflexions autour de plusieurs thèmes :
 
-- Le rêve lucide
+- Le rêve lucide (le [Hackpad](https://hackpad.com/Mindlab-Rve-Lucide-0ZOGsg4t4h1)) 
 - L’intelligence artificielle
 - Ethique et morale en sciences cognitives
 - A travers ces thèmes, des projets pourront être développés soit sous forme de tutorat ou de collaborations entre étudiants/chercheurs/curieux/...
