@@ -1,4 +1,4 @@
-*Laboratoire citoyen ouvert* en _Intelligence Artificielle_ et _Sciences Cognitives_
+**Laboratoire citoyen ouvert** en _Intelligence Artificielle_ et _Sciences Cognitives_
 
 C'est pour qui ? N’importe quelle personne intéressée par les sciences cognitives ou par l’intelligence artificielle sur Bordeaux peut rejoindre le Lab et participer. Il est destiné à accueillir, héberger et soutenir des projets en IA et SciCog, lesquels seront ouverts. Le MindLaBdx n’est pas, pour l’instant une association. C’est un Slack avec un peu plus de 30 personnes inscrites, intéressées pour réaliser des projets ensemble. Il regroupe des étudiants de licence MIASHS, Master Sciences Cognitives, étudiants d’ingésup, de DUT informatique ainsi qu’une dizaine de doctorants et chercheurs de l’INRIA (équipes POTIOC, Mnemosyne et Flowers).
 
@@ -16,10 +16,15 @@ Ces projets seront libres et disposeront d’une visibilité sur le site du Mind
 
 En plus des projet tutoré, le MindLaBdx héberge des groupes de réflexions autour de plusieurs thèmes :
 
-- Le rêve lucide (le [Hackpad](https://hackpad.com/Mindlab-Rve-Lucide-0ZOGsg4t4h1)) 
+- Le rêve lucide (le [Hackpad](https://hackpad.com/Mindlab-Rve-Lucide-0ZOGsg4t4h1))
 - L’intelligence artificielle
 - Ethique et morale en sciences cognitives
 - A travers ces thèmes, des projets pourront être développés soit sous forme de tutorat ou de collaborations entre étudiants/chercheurs/curieux/...
+
+### Intelligence artificielle
+
+Plein de projets sont possibles ! Des compétitions Kaggle à des projets de Vie Artificielle (les automates cellulaires en sont un exemple sympa) ! Mais on peut faire des chatbots qui discutent de la vie, thème chère à @phillipe : si vous avez du temps à perdre allez voir les voir [discuter](https://www.twitch.tv/seebotschat).
+![Chatbots dans des google Home qui discutent entre eux. Source : https://www.twitch.tv/seebotschat](2017-01-07-seebotschat-meaning-of-life.png)
 
 ## Animer les sciences cognitives à Bordeaux
 
