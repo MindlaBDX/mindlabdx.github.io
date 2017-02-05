@@ -1,6 +1,6 @@
 ---
-layout: A propos du MindLaBDX
-title: A propos du MindLaBDX
+layout: page
+title: A propos du Mindlab
 permalink: /about/
 ---
 
