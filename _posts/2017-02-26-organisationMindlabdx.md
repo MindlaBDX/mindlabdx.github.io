@@ -9,14 +9,14 @@ categories: organisation
  
 
 ## Comité de pilotage
-Le comité de pilotage a pour but d’encadrer les activités du Mindlab et ses projets sur le plan éthique, organisationnel et de suivi de projet. 
+Le comité de pilotage a pour but d’encadrer les activités du Mindlabdx et ses projets sur le plan éthique, organisationnel et de suivi de projet. 
 
 Pour ce faire, chaque porteur de projet envoie une description du projet au comité pour vérifier la faisabilité et si ce dernier correspond aux valeurs éthique et morale de la communauté scientifique. (A définir plus précisément) 
 
 Les membres du comité sont : 
 
-- Les responsables du Mindlab (Xavier et Philippe)
-- Les porteurs de projet du mindlab 
+- Les responsables du Mindlabdx (Xavier et Philippe)
+- Les porteurs de projet du Mindlabdx 
 - Les chercheurs, doctorants et post-doc du Mindlab
 
 De plus, le comité pourra accueillir de manière ponctuelle une ou plusieurs personnes pour évaluer ou encadrer l’activité d’un projet. 
@@ -34,6 +34,6 @@ Twitter : mindlabdx
 
 ## Financement
 
-Le Mindlab ne possède pas pour l’instant de compte en banque ni de fonds propres. 
+Le Mindlabdx ne possède pas pour l’instant de compte en banque ni de fonds propres. 
 Mais restez à l'écoute ;)
 
