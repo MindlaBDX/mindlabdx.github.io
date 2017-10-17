@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  "Appel a projets pour 'Hack'1 Cerveau!' le hackathon sur le Cerveau et IA"
+title:  "Appel à projets pour \"Hack'1 Cerveau!\": le hackathon sur le Cerveau et l'IA"
+categories: event
 ---
 
-# Appel à projets
+# Hack’1 Cerveau !
+#### [Le Hackathon du Cerveau et de l'IA]
 
-Ici, sera bientôt l'appel à projets
+## News !
+### Appel à projets
+Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ? Lisez la suite et proposez votre projet !
+Date limite : 1er novembre
