@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "**Hack'1 Cerveau!** le hackathon sur le Cerveau et l'IA"
+title:  "Hack'1 Cerveau! le hackathon sur le Cerveau et l'IA"
 categories: event
 permalink: /hack1cerveau/
 ---
 
 ## News !
-### Appel à projets
-Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ? Lisez la suite et proposez votre projet !
-Date limite : 1er novembre
+- __Appel à projets__ : Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ? [Lisez la suite et proposez votre projet !](#AAP)
 
 ## Qui ?
 Les associations autour des sciences cognitives MindLaBDX et Ascoergo, en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
@@ -27,7 +25,7 @@ Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives e
 
 Nous organisons un hackathon sur le cerveau et l’intelligence en mettant en place des « garde-fous » pour que les projets restent réalistes. Les potentiels projets seront proposés et encadrés par des scientifiques et professionnels des domaines concernés. Le fait de proposer des projets réalisables en un week-end et potentiellement orientés vers la médiation scientifique permettra aux personnes venant de tous horizons (scientifiques, designers, artistes … ou simples passionnés) de partager leurs compétences et connaissances, car la pluridisciplinarité sera de mise.
 
-## Appel à projets
+## Appel à projets<a name="AAP"></a>
 
 Nous faisons un appel aux experts dans les domaines Sciences Cognitives (neurosciences, psychologie), apprentissage machine, médiation, vulgarisation, etc. afin qu’ils proposent des projets innovants qui soient « réalisables en un week-end intensif » tout en restant ambitieux bien sûr. C’est pour cela que nous avons besoin de vous qui êtes expert d’un ou plusieurs de ces domaines.
 Comment faire pour proposer un projet ? Rien de plus simple : renvoyez un email à mindlabordeaux@gmail.com avec une description rapide du projet (voir un exemple de structure en bas de la page).
@@ -67,7 +65,7 @@ A l'occasion de ce hackathon, cela sera l'occasion de mettre en contact :
 Les objectifs sont de créer des projets innovants pouvant être utiles au monde académique ou industriel, d’une part, et de créer des contenus de vulgarisation d’autre part. Un objectif sous-jacent est de créer des ponts et des discussions entre professionnels des domaines (chercheurs, enseignants, doctorants, entrepreneurs …), professionnels d’autres domaines (designers, ingénieurs, journalistes …) et grand public. Cela permettra de partager les visions et les angles d’approches. Cela sera une bonne occasion pour les académiques, notamment les doctorants, de prendre du recul sur leur spécialité. Cela peut constituer une formation enrichissante pour les doctorants, et prouver leur expérience dans ce genre de projet innovant ; à terme, la participation au hackathon pourrait d’ailleurs être couplée avec une formation sur la gestion de projet innovant ou la vulgarisation scientifique. Enfin, cela permettra au grand public d’être acteur et même producteur de l’innovation, de la vulgarisation et de la diffusion scientifique, et pas seulement consommateur … car la tentation semble grande de nos jours de percevoir les résultats en neurosciences, sciences cognitives et intelligence artificielle comme des choses « magiques » inaccessibles et incompréhensibles.
 
 ## Public concerné
-Tout le monde !
+Tout le monde ! (à partir de 15 ans)
 
 Nous encouragerons la formation d'équipes pluridisciplinaires avec potentiellement :
 - étudiants et professionnels en graphisme / design / art
