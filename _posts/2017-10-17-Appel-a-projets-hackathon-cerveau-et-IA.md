@@ -17,7 +17,7 @@ permalink: /hack1cerveau/
 * [Quoi ?](#quoi) : un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) : par équipes autour d'un projet proposé par un expert.
 * [Pour qui?](#pour_qui) : pour toutes et tous à partir de 15 ans !
-* [Appel à projets](#AAP) : experts en IA, Neuro, Robots, SciCog ... proposez votre projet : __appel à projets ouvert jusqu'au 1er novembre__ !
+* [Appel à projets](#AAP) : experts en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet : __l'appel à projets ouvert jusqu'au 1er novembre__ !
 * [Pourquoi ?](#pourquoi) : pour se rencontrer, créer, imaginer, réaliser ...
 * [Participez](#participez) : vous voulez participer au hackathon ?
 * [Langue](#quel_langue) : Français principalement, mais ouvert aux autres langues !
@@ -45,7 +45,7 @@ Nous organisons un hackathon sur le cerveau et l’intelligence en mettant en pl
 Le hackathon commencera le vendredi soir par une présentation des projets proposés par leurs "experts" (ceux qui auront proposé le projet). Ensuite les [hack]teurs du week-end (participants) se regrouperont autour du projet qui les intéresse le plus afin de former une équipe.
 
 #### Matériel
-L'imprimante 3D, la découpeuse laser, la découpeuse vinyl, les bombes de peinture, ... attendent impatiemment les participants. [En savoir plus sur le matériel du 127°](https://www.fablab127.net/?_escaped_fragment_=/machines#!/machines).
+L'imprimante 3D, la découpeuse laser, la découpeuse vinyle, les bombes de peinture, ... attendent impatiemment les participants. [En savoir plus sur le matériel du 127°](https://www.fablab127.net/?_escaped_fragment_=/machines#!/machines).
 
 #### Déroulement
 Du samedi matin au dimanche milieu d’après-midi, les équipes travailleront sur leurs projets respectifs.
@@ -137,7 +137,7 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
 <img src="/images/LOGO_Nouvelle_Aquitaine.jpg" width="500">
-[//]: # ([![La région Nouvelle-Aquitaine](/images/LOGO_Nouvelle_Aquitaine.jpg)](https://www.nouvelle-aquitaine.fr))
+
 
 ## Partagez ... <a name="partagez"></a>
 Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
