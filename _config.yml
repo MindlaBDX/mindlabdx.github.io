@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MindLaBdx
-email: mindlabordeaux<at>gmail[dot]com
+email: mindlabordeaux(at)gmail[dot]com
 description: > 
   Le MindLaBdx est un laboratoire citoyen ouvert en Intelligence Artificielle et Sciences Cognitives.
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -25,6 +25,9 @@ permalink: /hack1cerveau/
 ## #Hashtags
 #cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
 
+Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
+Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo)) !
+
 ## News ! <a name="news"></a>
 - __Appel à projets__ : Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ? [Lisez la suite et proposez votre projet !](#AAP)
 
@@ -35,7 +38,7 @@ Les associations autour des sciences cognitives MindLaBDX et Ascoergo, en parten
 Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et dimanche de 9h à 19h.
 
 ## Où ?  <a name="ou"></a>
-Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de Cap Sciences. À deux pas de l'arrêt du tram B "Cité du vin". L'imprimante 3D, la découpeuse laser, la découpeuse vinyl, les bombes de peinture, ... attendent impatiemment les participants. [En savoir plus sur le matériel du 127°](https://www.fablab127.net/?_escaped_fragment_=/machines#!/machines).
+Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de Cap Sciences. À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
 
 ## Quoi ?  <a name="quoi"></a>
 Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives et de l’Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivés, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
@@ -45,6 +48,9 @@ Nous organisons un hackathon sur le cerveau et l’intelligence en mettant en pl
 ## Comment ?  <a name="comment"></a>
 #### Equipes guidées par des experts
 Le hackathon commencera le vendredi soir par une présentation des projets proposés par leurs "experts" (ceux qui auront proposé le projet). Ensuite les [hack]teurs du week-end (participants) se regrouperont autour du projet qui les intéresse le plus afin de former une équipe.
+
+#### Matériel
+L'imprimante 3D, la découpeuse laser, la découpeuse vinyl, les bombes de peinture, ... attendent impatiemment les participants. [En savoir plus sur le matériel du 127°](https://www.fablab127.net/?_escaped_fragment_=/machines#!/machines).
 
 #### Déroulement
 Du samedi matin au dimanche milieu d’après-midi, les équipes travailleront sur leurs projets respectifs.
