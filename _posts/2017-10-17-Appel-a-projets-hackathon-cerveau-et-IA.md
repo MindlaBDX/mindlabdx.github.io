@@ -5,17 +5,17 @@ categories: event
 permalink: /hack1cerveau/
 ---
 
-# ---le hackathon sur le Cerveau et l'IA ---
+# --- le hackathon sur le Cerveau et l'IA ---
 
 <img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
-<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="370">
+<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
 
 ## En bref
-* [News](#news) : appel à projets ouvert jusqu'au 1er novembre !
+* [News](#news) : __appel à projets ouvert jusqu'au 1er novembre__ !
 * [Qui ?](#qui) : les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
-* [Quand ?](#quand) : le week-end du 8 au 10 décembre 2017.
+* [Quand ?](#quand) : le week-end __du 8 au 10 décembre 2017__.
 * [Où ?](#ou) : au 127°, le fablab de Cap Sciences, à Bordeaux.
-* [Quoi ?](#quoi) : un hackathon : un marathon pour réaliser des projets innovants !
+* [Quoi ?](#quoi) : un ~~hackathon~~ : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) : par équipes autour d'un projet proposé par un expert.
 * [Pour qui?](#pour_qui) : pour toutes et tous à partir de 15 ans !
 * [Appel à projets](#AAP) : experts, proposez votre projet avant le 1er novembre !
