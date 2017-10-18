@@ -5,14 +5,13 @@ categories: event
 permalink: /hack1cerveau/
 ---
 
-# le hackathon sur le Cerveau et l'IA
+# ----- le hackathon sur le Cerveau et l'IA -----
 
-[News](#news) \| [Qui ?](#qui) \| [Quand ?](quand) \| [Où ?](#ou) \| [Quoi ?](#quoi) | [Comment ?](#comment) | [Pour qui?](#pour_qui) | [Appel à projets](#AAP) | [Pourquoi ?](#pourquoi) | [Langue](#quel_langue) | [Contact](#contact)
 
 ## En bref
 * [News](#news) : appel à projets ouvert jusqu'au 1er novembre !
 * [Qui ?](#qui) : les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
-* [Quand ?](quand) : le week-end du 8 au 10 décembre 2017.
+* [Quand ?](#quand) : le week-end du 8 au 10 décembre 2017.
 * [Où ?](#ou) : au 127°, le fablab de Cap Sciences, à Bordeaux.
 * [Quoi ?](#quoi) : un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) : par équipes autour d'un projet proposé par un expert.
@@ -20,7 +19,8 @@ permalink: /hack1cerveau/
 * [Appel à projets](#AAP) : experts, proposez votre projet !
 * [Pourquoi ?](#pourquoi) : pour se rencontrer, créer, imaginer, réaliser ...
 * [Langue](#quel_langue) : Français principalement, mais ouvert aux autres langues !
-* [Contact](#contact) : plus d'infos pour nous contacter.
+* [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
+* [Partenaires](#partenaires) : ceux qui nous soutiennent !
 
 ## #Hashtags
 #cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
@@ -119,5 +119,8 @@ Contactez-nous par email à mindlabordeaux<arobase>gmail[point]com !
 
 Pour discuter, vous tenir au courant de l'actualité et découvrir les autres événements sur le Cerveau et l'Intelligance Artificielle ... Rejoignez-nous sur le [Slack du MindLaBdx](http://mindlabdx.slack.com) en cliquant [=> ICI <=](http://mindlabdx.herokuapp.com)
 
-## Partenaires de l'événement
-![Logo Nouvelle-Aquitaine](/images/LOGO_Nouvelle_Aquitaine.jpg)
+## Partenaires de l'événement <a name="partenaires"></a>
+Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
+- Cap Sciences et le 127°
+- La région Nouvelle-Aquitaine
+![https://www.nouvelle-aquitaine.fr](/images/LOGO_Nouvelle_Aquitaine.jpg)
