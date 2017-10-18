@@ -2,6 +2,7 @@
 layout: post
 title:  "Hack'1 Cerveau! le hackathon sur le Cerveau et l'IA"
 categories: event
+permalink: /hack1cerveau/
 ---
 
 ## News !
