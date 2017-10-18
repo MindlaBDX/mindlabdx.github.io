@@ -14,8 +14,8 @@ permalink: /hack1cerveau/
 * [News](#news) : __appel à projets ouvert jusqu'au 1er novembre__ !
 * [Qui ?](#qui) : les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
 * [Quand ?](#quand) : le week-end __du 8 au 10 décembre 2017__.
-* [Où ?](#ou) : au 127°, le fablab de Cap Sciences, à Bordeaux.
-* [Quoi ?](#quoi) : un ~~hackathon~~ : un marathon pour réaliser des projets innovants !
+* [Où ?](#ou) : __au 127°__, le __fablab de Cap Sciences__, à Bordeaux.
+* [Quoi ?](#quoi) : un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) : par équipes autour d'un projet proposé par un expert.
 * [Pour qui?](#pour_qui) : pour toutes et tous à partir de 15 ans !
 * [Appel à projets](#AAP) : experts, proposez votre projet avant le 1er novembre !
