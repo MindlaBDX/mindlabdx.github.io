@@ -8,7 +8,7 @@ permalink: /hack1cerveau/
 # ---le hackathon sur le Cerveau et l'IA ---
 
 <img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
-<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="350">
+<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="370">
 
 ## En bref
 * [News](#news) : appel à projets ouvert jusqu'au 1er novembre !
@@ -18,7 +18,7 @@ permalink: /hack1cerveau/
 * [Quoi ?](#quoi) : un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) : par équipes autour d'un projet proposé par un expert.
 * [Pour qui?](#pour_qui) : pour toutes et tous à partir de 15 ans !
-* [Appel à projets](#AAP) : experts, proposez votre projet !
+* [Appel à projets](#AAP) : experts, proposez votre projet avant le 1er novembre !
 * [Pourquoi ?](#pourquoi) : pour se rencontrer, créer, imaginer, réaliser ...
 * [Langue](#quel_langue) : Français principalement, mais ouvert aux autres langues !
 * [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
