@@ -7,8 +7,8 @@ permalink: /hack1cerveau/
 
 # ---le hackathon sur le Cerveau et l'IA ---
 
-<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="400">
-<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="400">
+<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
+<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="350">
 
 ## En bref
 * [News](#news) : appel à projets ouvert jusqu'au 1er novembre !
@@ -41,6 +41,7 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et d
 
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
+
 
 ## Quoi ?  <a name="quoi"></a>
 Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives et de l’Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivés, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
