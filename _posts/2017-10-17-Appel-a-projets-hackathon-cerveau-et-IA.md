@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hack'1 Cerveau!\nle hackathon sur le Cerveau et l'IA"
+title:  "Hack'1 Cerveau! le hackathon sur le Cerveau et l'IA"
 categories: event
 ---
 
