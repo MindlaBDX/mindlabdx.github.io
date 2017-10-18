@@ -128,6 +128,6 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 
 ## Partenaires de l'événement <a name="partenaires"></a>
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
-- [Cap Sciences](www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
+- [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
 [![La région Nouvelle-Aquitaine](/images/LOGO_Nouvelle_Aquitaine.jpg)](https://www.nouvelle-aquitaine.fr)
