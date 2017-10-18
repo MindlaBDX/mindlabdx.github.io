@@ -7,8 +7,8 @@ permalink: /hack1cerveau/
 
 # ---le hackathon sur le Cerveau et l'IA ---
 
-<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="100">
-<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="100">
+<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="400">
+<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="400">
 
 ## En bref
 * [News](#news) : appel à projets ouvert jusqu'au 1er novembre !
