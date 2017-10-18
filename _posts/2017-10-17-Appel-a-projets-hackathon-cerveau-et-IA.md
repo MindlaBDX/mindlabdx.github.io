@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Hack'1 Cerveau! le hackathon sur le Cerveau et l'IA"
+title:  "**Hack'1 Cerveau!** le hackathon sur le Cerveau et l'IA"
 categories: event
 permalink: /hack1cerveau/
 ---
 
 ## News !
 ### Appel à projets
-Vous êtes un "expert" de votre domaine (doctorant, chercheur, professionnel, artiste, ...) ? Vous avez une idée de projet à proposer pour ce Hackathon ? Lisez la suite et proposez votre projet !
+Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ? Lisez la suite et proposez votre projet !
 Date limite : 1er novembre
 
 ## Qui ?
