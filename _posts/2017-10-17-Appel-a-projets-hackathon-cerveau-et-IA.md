@@ -16,7 +16,7 @@ Les associations autour des sciences cognitives MindLaBDX et Ascoergo, en parten
 Au Fablab 127° à CapSciences.
 
 ## Quand ?
-Du vendredi 8 au dimanche 10 décembre 2017. Le vendredi de 18h à 21h et le samedi-dimanche de 9h à 19h.
+Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et dimanche de 9h à 19h.
 
 ## #Hashtags
 #cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
@@ -34,14 +34,14 @@ Comment faire pour proposer un projet ? Rien de plus simple : renvoyez un email 
 #### Qu'entendons-nous par "expert" ?
 Personne qui est suffisamment familière avec le domaine du sujet qu'il propose. Si l'on veut donner un niveau d'études, il s'agirait d'un niveau master ou équivalent en années d'expérience professionnel/artistique/...
 
-Dépéchez vous ! Car seul 6-8 projets pourront être sélectionnés !
+Dépêchez vous ! Car seul 6-8 projets pourront être sélectionnés !
 
 #### Dépôt du projet
 Date limite : 1er novembre
 
 Formulaire : (bientôt disponible)
 
-Questions sur l'appel à projets ? Contactez nous par email : mindlabdx arobase gmail point com
+Des questions sur l'appel à projets ? Contactez nous : mindlabdx arobase gmail.com
 
 
 ## Planning
@@ -71,6 +71,6 @@ Tout le monde !
 Nous encouragerons la formation d'équipes pluridisciplinaires avec potentiellement :
 - étudiants et professionnels en graphisme / design / art
 - étudiants et professionnels en neurosciences / sciences cognitives/ psychologie
-- étudiants et professionnels en informatique, « machine learning », analyse de données et robotique
+- étudiants et professionnels en informatique, apprentissage machine, analyse de données et robotique
 - citoyens de formation non scientifiques, mais intéressés par les sciences et par la diffusion du savoir
 - etc.
