@@ -26,7 +26,7 @@ permalink: /hack1cerveau/
 #cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
 
 Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
-Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo)) !
+Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
 
 ## News ! <a name="news"></a>
 - __Appel à projets__ : Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ? [Lisez la suite et proposez votre projet !](#AAP)
@@ -38,7 +38,7 @@ Les associations autour des sciences cognitives MindLaBDX et Ascoergo, en parten
 Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et dimanche de 9h à 19h.
 
 ## Où ?  <a name="ou"></a>
-Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de Cap Sciences. À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
+Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
 
 ## Quoi ?  <a name="quoi"></a>
 Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives et de l’Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivés, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
@@ -123,10 +123,10 @@ Contactez-nous par email à mindlabordeaux<arobase>gmail[point]com !
 
 (Pourquoi une adresse email si bizarre ? C'est parce que nous n'aimons pas les robots (enfin si, mais pas les robots qui envoient du SPAM ou autres pourriels). --> Remplacez le <arobose> par @ et le [point] par .)
 
-Pour discuter, vous tenir au courant de l'actualité et découvrir les autres événements sur le Cerveau et l'Intelligance Artificielle ... Rejoignez-nous sur le [Slack du MindLaBdx](http://mindlabdx.slack.com) en cliquant [=> ICI <=](http://mindlabdx.herokuapp.com)
+Pour discuter, vous tenir au courant de l'actualité et découvrir les autres événements sur le Cerveau et l'Intelligance Artificielle ... Rejoignez-nous sur le [Slack du MindLaBdx](http://mindlabdx.slack.com) en cliquant [=> ICI <=](http://mindlabdx.herokuapp.com).
 
 ## Partenaires de l'événement <a name="partenaires"></a>
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
-- Cap Sciences et le 127°
-- La région Nouvelle-Aquitaine
-![https://www.nouvelle-aquitaine.fr](/images/LOGO_Nouvelle_Aquitaine.jpg)
+- [Cap Sciences](www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
+- La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
+[![La région Nouvelle-Aquitaine](/images/LOGO_Nouvelle_Aquitaine.jpg)](https://www.nouvelle-aquitaine.fr)
