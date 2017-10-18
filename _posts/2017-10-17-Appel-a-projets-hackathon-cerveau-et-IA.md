@@ -19,9 +19,11 @@ permalink: /hack1cerveau/
 * [Pour qui?](#pour_qui) : pour toutes et tous à partir de 15 ans !
 * [Appel à projets](#AAP) : experts en IA, Neuro, Robots, SciCog ... proposez votre projet : __appel à projets ouvert jusqu'au 1er novembre__ !
 * [Pourquoi ?](#pourquoi) : pour se rencontrer, créer, imaginer, réaliser ...
+* [Participez](#participez) : vous voulez participer au hackathon ?
 * [Langue](#quel_langue) : Français principalement, mais ouvert aux autres langues !
 * [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
 * [Partenaires](#partenaires) : ceux qui nous soutiennent !
+* [Partagez](#partagez) : parlez-en autour de vous !
 
 ## Qui ?  <a name="qui"></a>
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
@@ -53,6 +55,11 @@ A noter que dans la mesure du possible, les équipes seront encouragées à prop
 
 ## Pour qui ?  <a name="pour_qui"></a>
 Public concerné : Tout le monde ! (à partir de 15 ans)
+
+[//]: # (Vous êtes :)
+[//]: # (- chercheur / enseinant-chercheur en informatique, neurosciences, ingénierie, ... : [proposez un projet](#AAP).)
+[//]: # (- étudiant )
+[//]: # (- lycéen : tu es passionné )
 
 Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qui mélangeront :
 - citoyens avec ou sans formation scientifique, intéressés par les sciences et par la diffusion du savoir,
@@ -103,12 +110,15 @@ A l'occasion de ce hackathon, cela sera l'occasion de mettre en contact :
 - des chercheurs et doctorants travaillant sur l'apprentissage artificiel (Inria, LaBRI, ...), neurosciences (laboratoires du NeuroCampus, ...), sciences cognitives (Université de Bordeaux, Inria, ...).
 - des citoyens intéressés par ces domaines scientifiques et motivés pour mettre la main à la pâte !
 
-#### Petit à petit ...
+#### Objectifs à long terme ...
 Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le hackathon s'inscrit :
 - Le développement d’outils scientifiques et « open source » : de plus en plus d’outils et logiciels utilisés dans les laboratoires sont « open source », c’est-à-dire accessibles et pouvant être modifiées et adaptés par tout un chacun pour ses propres besoins. Le fait que le code source d'un logiciel soit accessible permet de savoir ce qui est "vraiment fait" par un programme, et de garantir qu'il n'y a pas de "fonctions cachées" (cela rejoint donc la problématique de la réplicabilité).
-- L’expérimentation accessible à tous : un appel sera envoyé aux professionnels des domaines (aussi bien académiques que non-académiques) de la région Nouvelle-Aquitaine afin de proposer des idées d'expériences réalisables en un week-end. Il s'agit ici de se différencier de beaucoup d'hackathons qui par excès d'ambition ne cadrent pas assez des projets irréalistes …
 - La « réplicabilité » d’expériences scientifiques : le problème de non réplicabilité en sciences prend de plus en plus d’ampleur, et c’est par exemple une des raisons de la création du journal ReScience (http://rescience.github.io) par une équipe d’Inria Bordeaux. Il est important de sensibiliser le public à ces questions dont les problématiques ne sont pas évidentes au premier abord (« Pourquoi aurait-on besoin de refaire une expérience qui a déjà été faite ? »).
-- La vulgarisation : les participants seront encouragés à réaliser des projets sous forme d'ateliers, de mini-expos, de jeux de société, de posters … qui pourront être utilisés tels quels ou adaptés pour être réutilisés par des lieux comme Cap Sciences, ou par des associations de vulgarisation comme Cogni’Junior.
+- La vulgarisation : les participants seront encouragés à réaliser des projets sous forme d'ateliers, de mini-expos, de jeux de société, de posters ... qui pourront être utilisés tels quels ou adaptés pour être réutilisés par des lieux comme Cap Sciences, ou par des associations de vulgarisation comme Cogni’Junior.
+
+## Participez ! <a name="participez"></a>
+Vous voulez participer au hackathon ! Patientez encore un peu, les inscriptions seront bientôt ouvertes !
+Pour être au courant de l'ouverture des inscriptions, surveillez le [compte twitter du MindLaBdx].
 
 ## En quel langue ?<a name="quel_langue"></a>
 Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais toutes les langues sont les bienvenues, quels soient locales ou internationales. Si vous avez des amis ou collègues que cela peut intéressez, proposez leur de participer et de nous contacter.
@@ -126,9 +136,10 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
-[![La région Nouvelle-Aquitaine](/images/LOGO_Nouvelle_Aquitaine.jpg)](https://www.nouvelle-aquitaine.fr)
+<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" width="500">
+[//]: # ([![La région Nouvelle-Aquitaine](/images/LOGO_Nouvelle_Aquitaine.jpg)](https://www.nouvelle-aquitaine.fr))
 
-## Partagez ?
+## Partagez ... <a name="partagez"></a>
 Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
 Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
 
