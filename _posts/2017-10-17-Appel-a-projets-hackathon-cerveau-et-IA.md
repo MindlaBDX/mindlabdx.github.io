@@ -11,24 +11,20 @@ permalink: /hack1cerveau/
 <img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
 
 ## En bref
-* [News](#news) : __appel à projets ouvert jusqu'au 1er novembre__ !
 * [Qui ?](#qui) : les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
 * [Quand ?](#quand) : le week-end __du 8 au 10 décembre 2017__.
 * [Où ?](#ou) : __au 127°__, le __fablab de Cap Sciences__, à Bordeaux.
 * [Quoi ?](#quoi) : un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) : par équipes autour d'un projet proposé par un expert.
 * [Pour qui?](#pour_qui) : pour toutes et tous à partir de 15 ans !
-* [Appel à projets](#AAP) : experts, proposez votre projet avant le 1er novembre !
+* [Appel à projets](#AAP) : experts en IA, Neuro, Robots, SciCog ... proposez votre projet : __appel à projets ouvert jusqu'au 1er novembre__ !
 * [Pourquoi ?](#pourquoi) : pour se rencontrer, créer, imaginer, réaliser ...
 * [Langue](#quel_langue) : Français principalement, mais ouvert aux autres langues !
 * [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
 * [Partenaires](#partenaires) : ceux qui nous soutiennent !
 
-## News ! <a name="news"></a>
-- __Appel à projets__ : Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ? [Lisez la suite et proposez votre projet !](#AAP)
-
 ## Qui ?  <a name="qui"></a>
-Les associations autour des sciences cognitives MindLaBDX et Ascoergo, en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
+Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
 
 ## Quand ?  <a name="quand"></a>
 Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et dimanche de 9h à 19h.
@@ -68,18 +64,21 @@ Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qu
 - etc.
 
 ## Appel à projets <a name="AAP"></a>
-Nous faisons un appel aux experts dans les domaines Sciences Cognitives (neurosciences, psychologie), apprentissage machine, médiation, vulgarisation, etc. afin qu’ils proposent des projets innovants qui soient « réalisables en un week-end intensif » tout en restant ambitieux bien sûr. C’est pour cela que nous avons besoin de vous qui êtes expert d’un ou plusieurs de ces domaines.
-Comment faire pour proposer un projet ? Rien de plus simple : renvoyez un email à mindlabordeaux@gmail.com avec une description rapide du projet (voir un exemple de structure en bas de la page).
+Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ?
+
+Nous faisons un appel aux experts dans les domaines des neurosciences, des sciences cognitives, de l'apprentissage machine, vulgarisation, etc. afin qu’ils proposent des projets innovants qui soient « réalisables en un week-end intensif » tout en restant ambitieux bien sûr. C’est pour cela que __nous avons besoin de vous__ qui êtes expert d’un ou plusieurs de ces domaines.
 
 #### Qu'entendons-nous par "expert" ?
 Personne qui est suffisamment familière avec le domaine du sujet qu'il propose. Si l'on veut donner un niveau d'études, il s'agirait d'un niveau master ou équivalent en années d'expérience professionnel/artistique/...
 
 Dépêchez vous ! Car seul 6-8 projets pourront être sélectionnés !
 
-#### Dépôt du projet
+#### Déposez un projet
 Date limite : 1er novembre
 
-Formulaire :
+Comment faire pour proposer un projet ? Rien de plus simple : remplissez le formulaire ci-dessous.
+
+Information sur le formulaire :
 - préparez-vous à répondre aux questions suivantes
   - titre du projet
   - résumé de 10 à 20 lignes présentant le projet
@@ -97,7 +96,7 @@ Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {aro
 #### Les objectifs
 Les objectifs sont de créer des projets innovants pouvant être utiles au monde académique ou industriel, d’une part, et de créer des contenus de vulgarisation d’autre part. Un objectif sous-jacent est de créer des ponts et des discussions entre grand public, professionnels des domaines (chercheurs, enseignants, doctorants, entrepreneurs …), professionnels d’autres domaines (designers, ingénieurs, journalistes …). Cela sera une occasion incroyable de partager toutes ces différentes visions et point de vues.
 
-Ainsi, le grand public peut être [hack]teur et même producteur de l’innovation, de la vulgarisation et de la diffusion scientifique, et pas seulement consommateur … car la tentation semble grande de nos jours de percevoir les résultats en neurosciences, sciences cognitives et intelligence artificielle comme des choses « magiques » inaccessibles, incompréhensibles, reservés à une élite ... Ce hackathon est là pour prouver le contraire !
+Ainsi, le grand public peut être [hack]teur et même producteur de l’innovation, de la vulgarisation et de la diffusion scientifique, et pas seulement consommateur ... car la tentation semble grande de nos jours de percevoir les résultats en neurosciences, sciences cognitives et intelligence artificielle comme des choses « magiques » inaccessibles, incompréhensibles, reservés à une élite ... Ce hackathon est là pour prouver le contraire !
 
 #### Rencontres
 A l'occasion de ce hackathon, cela sera l'occasion de mettre en contact :
@@ -112,7 +111,7 @@ Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le 
 - La vulgarisation : les participants seront encouragés à réaliser des projets sous forme d'ateliers, de mini-expos, de jeux de société, de posters … qui pourront être utilisés tels quels ou adaptés pour être réutilisés par des lieux comme Cap Sciences, ou par des associations de vulgarisation comme Cogni’Junior.
 
 ## En quel langue ?<a name="quel_langue"></a>
-Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais toutes les langues sont les bienvenues, quels soient locales ou internationales.
+Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais toutes les langues sont les bienvenues, quels soient locales ou internationales. Si vous avez des amis ou collègues que cela peut intéressez, proposez leur de participer et de nous contacter.
 
 We will mainly talk French, but several people will be able to help you and translate to English, Spanish, Italian, German, ... Just contact us to know more about this possibility, so we can plan it in advance!
 
@@ -130,7 +129,7 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 [![La région Nouvelle-Aquitaine](/images/LOGO_Nouvelle_Aquitaine.jpg)](https://www.nouvelle-aquitaine.fr)
 
 ## Partagez ?
-#cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
-
 Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
 Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
+
+#cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
