@@ -1,11 +1,26 @@
 ---
 layout: post
-title:  "Hack'1 Cerveau! le hackathon sur le Cerveau et l'IA"
+title:  "Hack'1 Cerveau!"
 categories: event
 permalink: /hack1cerveau/
 ---
 
-[News](#news) | [Qui ?](#qui) | [Quand ?](quand) | [Où ?](#ou) | [Quoi ?](#quoi) | [Comment ?](#comment) | [Pour qui?](#pour_qui) | [Appel à projets](#AAP) | [Pourquoi ?](#pourquoi) | [Langue](#quel_langue) | [Contact](#contact)
+# le hackathon sur le Cerveau et l'IA
+
+[News](#news) \| [Qui ?](#qui) \| [Quand ?](quand) \| [Où ?](#ou) \| [Quoi ?](#quoi) | [Comment ?](#comment) | [Pour qui?](#pour_qui) | [Appel à projets](#AAP) | [Pourquoi ?](#pourquoi) | [Langue](#quel_langue) | [Contact](#contact)
+
+## En bref
+* [News](#news) : appel à projets ouvert jusqu'au 1er novembre !
+* [Qui ?](#qui) : les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
+* [Quand ?](quand) : le week-end du 8 au 10 décembre 2017.
+* [Où ?](#ou) : au 127°, le fablab de Cap Sciences, à Bordeaux.
+* [Quoi ?](#quoi) : un hackathon : un marathon pour réaliser des projets innovants !
+* [Comment ?](#comment) : par équipes autour d'un projet proposé par un expert.
+* [Pour qui?](#pour_qui) : pour toutes et tous à partir de 15 ans !
+* [Appel à projets](#AAP) : experts, proposez votre projet !
+* [Pourquoi ?](#pourquoi) : pour se rencontrer, créer, imaginer, réaliser ...
+* [Langue](#quel_langue) : Français principalement, mais ouvert aux autres langues !
+* [Contact](#contact) : plus d'infos pour nous contacter.
 
 ## #Hashtags
 #cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
@@ -20,7 +35,7 @@ Les associations autour des sciences cognitives MindLaBDX et Ascoergo, en parten
 Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et dimanche de 9h à 19h.
 
 ## Où ?  <a name="ou"></a>
-Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) à Cap Sciences. À deux pas de l'arrêt du tram B "Cité du vin". L'imprimante 3D, la découpeuse laser, la découpeuse vinyl, les bombes de peinture, ... attendent impatiemment les participants.
+Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de Cap Sciences. À deux pas de l'arrêt du tram B "Cité du vin". L'imprimante 3D, la découpeuse laser, la découpeuse vinyl, les bombes de peinture, ... attendent impatiemment les participants. [En savoir plus sur le matériel du 127°](https://www.fablab127.net/?_escaped_fragment_=/machines#!/machines).
 
 ## Quoi ?  <a name="quoi"></a>
 Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives et de l’Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivés, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
@@ -61,7 +76,16 @@ Dépêchez vous ! Car seul 6-8 projets pourront être sélectionnés !
 #### Dépôt du projet
 Date limite : 1er novembre
 
-Formulaire : (bientôt disponible)
+Formulaire :
+- préparez-vous à répondre aux questions suivantes
+  - titre du projet
+  - résumé de 10 à 20 lignes présentant le projet
+  - quel(s) domaine(s) ?
+  - quel matériel ?
+  - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 au 10) ?
+  - êtes-vous disponible
+  - quel expertise proposez-vous ? (et quels sont les parties du projet qui font parties de votre expertise et celles qui n'en sont pas)
+- (lien du formulaire très très bientôt disponible)
 
 Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut<arobase>inria[point]fr
 
@@ -92,3 +116,5 @@ We will mainly talk French, but several people will be able to help you and tran
 Contactez-nous par email à mindlabordeaux<arobase>gmail[point]com !
 
 (Pourquoi une adresse email si bizarre ? C'est parce que nous n'aimons pas les robots (enfin si, mais pas les robots qui envoient du SPAM ou autres pourriels). --> Remplacez le <arobose> par @ et le [point] par .)
+
+Pour discuter, vous tenir au courant de l'actualité et découvrir les autres événements sur le Cerveau et l'Intelligance Artificielle ... Rejoignez-nous sur le [Slack du MindLaBdx](http://mindlabdx.slack.com) en cliquant [=> ICI <=](http://mindlabdx.herokuapp.com)
