@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Appel à projets pour \"Hack'1 Cerveau!\": le hackathon sur le Cerveau et l'IA"
+title:  "Hack'1 Cerveau!\nle hackathon sur le Cerveau et l'IA"
 categories: event
 ---
-
-# Hack’1 Cerveau !
-#### [Le Hackathon du Cerveau et de l'IA]
 
 ## News !
 ### Appel à projets
