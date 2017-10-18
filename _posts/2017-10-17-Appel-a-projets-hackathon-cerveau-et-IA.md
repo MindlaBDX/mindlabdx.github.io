@@ -7,6 +7,8 @@ permalink: /hack1cerveau/
 
 # ---le hackathon sur le Cerveau et l'IA ---
 
+<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="100">
+<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="100">
 
 ## En bref
 * [News](#news) : appel à projets ouvert jusqu'au 1er novembre !
@@ -90,7 +92,7 @@ Formulaire :
   - domaine(s) (ex: IA, neurosciences, vulgarisation, ...)
   - de quel matériel avez-vous besoin ?
   - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 au 10) ?
-  - êtes-vous disponible un soir de novembre pour présenter votre projet (en amont du hackathon) ?
+  - êtes-vous disponible un soir de novembre pour présenter votre projet en amont du hackathon ?
   - quel expertise proposez-vous ? (et quels sont les parties du projet qui font parties de votre expertise et celles qui n'en sont pas)
 - (lien du formulaire très très bientôt disponible)
 
@@ -120,7 +122,7 @@ Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais
 We will mainly talk French, but several people will be able to help you and translate to English, Spanish, Italian, German, ... Just contact us to know more about this possibility, so we can plan it in advance!
 
 ## Des questions ?<a name="contact">
-Contactez-nous par email à mindlabordeaux<arobase>gmail[point]com !
+Contactez-nous par email à mindlabordeaux<arobase>gmail[point]com ! :point_up:
 
 (Pourquoi une adresse email si bizarre ? C'est parce que nous n'aimons pas les robots (enfin si, mais pas les robots qui envoient du SPAM ou autres pourriels). --> Remplacez le <arobose> par @ et le [point] par .)
 
