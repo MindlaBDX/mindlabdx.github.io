@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos du Mindlab
+title: A propos du Mindlabdx
 permalink: /about/
 ---
 

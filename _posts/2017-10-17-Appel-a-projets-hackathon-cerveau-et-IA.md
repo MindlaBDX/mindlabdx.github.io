@@ -24,12 +24,6 @@ permalink: /hack1cerveau/
 * [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
 * [Partenaires](#partenaires) : ceux qui nous soutiennent !
 
-## #Hashtags
-#cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
-
-Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
-Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
-
 ## News ! <a name="news"></a>
 - __Appel à projets__ : Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ? [Lisez la suite et proposez votre projet !](#AAP)
 
@@ -134,3 +128,9 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
 [![La région Nouvelle-Aquitaine](/images/LOGO_Nouvelle_Aquitaine.jpg)](https://www.nouvelle-aquitaine.fr)
+
+## Partagez ?
+#cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
+
+Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
+Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
