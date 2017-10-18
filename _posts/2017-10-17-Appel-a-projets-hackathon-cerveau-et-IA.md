@@ -5,7 +5,7 @@ categories: event
 permalink: /hack1cerveau/
 ---
 
-# ----- le hackathon sur le Cerveau et l'IA -----
+# ---le hackathon sur le Cerveau et l'IA ---
 
 
 ## En bref
