@@ -86,14 +86,15 @@ Formulaire :
 - préparez-vous à répondre aux questions suivantes
   - titre du projet
   - résumé de 10 à 20 lignes présentant le projet
-  - quel(s) domaine(s) ?
-  - quel matériel ?
+  - mots-clés
+  - domaine(s) (ex: IA, neurosciences, vulgarisation, ...)
+  - de quel matériel avez-vous besoin ?
   - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 au 10) ?
-  - êtes-vous disponible
+  - êtes-vous disponible un soir de novembre pour présenter votre projet (en amont du hackathon) ?
   - quel expertise proposez-vous ? (et quels sont les parties du projet qui font parties de votre expertise et celles qui n'en sont pas)
 - (lien du formulaire très très bientôt disponible)
 
-Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut<arobase>inria[point]fr
+Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {arobase} inria[point]fr
 
 ## Pourquoi ?  <a name="pourquoi"></a>
 #### Les objectifs
