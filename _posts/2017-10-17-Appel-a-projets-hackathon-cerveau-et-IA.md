@@ -15,9 +15,9 @@ permalink: /hack1cerveau/
 * [Quand ?](#quand) : le week-end __du 8 au 10 décembre 2017__.
 * [Où ?](#ou) : __au 127°__, le __fablab de Cap Sciences__, à Bordeaux.
 * [Quoi ?](#quoi) : un hackathon : un marathon pour réaliser des projets innovants !
-* [Comment ?](#comment) : par équipes autour d'un projet proposé par un expert.
-* [Pour qui?](#pour_qui) : pour toutes et tous à partir de 15 ans !
-* [Appel à projets](#AAP) : experts en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet : __l'appel à projets ouvert jusqu'au 1er novembre__ !
+* [Comment ?](#comment) : par équipes autour d'un projet proposé par un-e expert-e.
+* [Pour qui?](#pour_qui) : pour toutes et tous de 15 ans à 115 ans !
+* [Appel à projets](#AAP) : expert-e-s en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet : __l'appel à projets ouvert jusqu'au 1er novembre__ !
 * [Pourquoi ?](#pourquoi) : pour se rencontrer, créer, imaginer, réaliser ...
 * [Participez](#participez) : vous voulez participer au hackathon ?
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
@@ -41,8 +41,8 @@ Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives e
 Nous organisons un hackathon sur le cerveau et l’intelligence en mettant en place des « garde-fous » pour que les projets restent réalistes. Les potentiels projets seront proposés et encadrés par des scientifiques et professionnels des domaines concernés. Le fait de proposer des projets réalisables en un week-end et potentiellement orientés vers la médiation scientifique permettra aux personnes venant de tous horizons (scientifiques, designers, artistes … ou simples passionnés) de partager leurs compétences et connaissances, car la pluridisciplinarité sera de mise.
 
 ## Comment ?  <a name="comment"></a>
-#### Equipes guidées par des experts
-Le hackathon commencera le vendredi soir par une présentation des projets proposés par leurs "experts" (ceux qui auront proposé le projet). Ensuite les [hack]teurs du week-end (participants) se regrouperont autour du projet qui les intéresse le plus afin de former une équipe.
+#### Equipes guidées par des expert-e-s
+Le hackathon commencera le vendredi soir par une présentation des projets proposés par leurs "expert-e-s" (ceux qui auront proposé le projet). Ensuite les [hack]teurs du week-end (participants) se regrouperont autour du projet qui les intéresse le plus afin de former une équipe.
 
 #### Matériel
 L'imprimante 3D, la découpeuse laser, la découpeuse vinyle, les bombes de peinture, ... attendent impatiemment les participants. [En savoir plus sur le matériel du 127°](https://www.fablab127.net/?_escaped_fragment_=/machines#!/machines).
@@ -51,7 +51,7 @@ L'imprimante 3D, la découpeuse laser, la découpeuse vinyle, les bombes de pein
 Du samedi matin au dimanche milieu d’après-midi, les équipes travailleront sur leurs projets respectifs.
 A l'issu du week-end (le dimanche vers 17h), chaque équipe présentera le projet qu’elle aura réalisé et un jury décernera des prix aux projets les plus innovants et aboutis, avec un prix spécial pour la meilleure vulgarisation.
 A noter que dans la mesure du possible, les équipes seront encouragées à proposer un prototype de leur réalisation au public de Cap Sciences.
-(A chaque fin de journée, les participants, bénévoles et experts auront l'occasion de se retrouver autour d'un verre pour continuer de discuter et de refaire le monde.)
+(A chaque fin de journée, les participants, bénévoles et expert-e-s auront l'occasion de se retrouver autour d'un verre pour continuer de discuter et de refaire le monde.)
 
 ## Pour qui ?  <a name="pour_qui"></a>
 Public concerné : Tout le monde ! (de 15 à 115 ans)
@@ -71,11 +71,11 @@ Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qu
 - etc.
 
 ## Appel à projets <a name="AAP"></a>
-Vous êtes un "expert" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ?
+Vous êtes un "expert-e" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ?
 
-Nous faisons un appel aux experts dans les domaines des neurosciences, des sciences cognitives, de l'apprentissage machine, vulgarisation, etc. afin qu’ils proposent des projets innovants qui soient « réalisables en un week-end intensif » tout en restant ambitieux bien sûr. C’est pour cela que __nous avons besoin de vous__ qui êtes expert d’un ou plusieurs de ces domaines.
+Nous faisons un appel aux expert-e-s dans les domaines des neurosciences, des sciences cognitives, de l'apprentissage machine, vulgarisation, etc. afin qu’ils proposent des projets innovants qui soient « réalisables en un week-end intensif » tout en restant ambitieux bien sûr. C’est pour cela que __nous avons besoin de vous__ qui êtes expert-e d’un ou plusieurs de ces domaines.
 
-#### Qu'entendons-nous par "expert" ?
+#### Qu'entendons-nous par "expert-e" ?
 Personne qui est suffisamment familière avec le domaine du sujet qu'il propose. Si l'on veut donner un niveau d'études, il s'agirait d'un niveau master ou équivalent en années d'expérience professionnel/artistique/...
 
 Dépêchez vous ! Car seul 6-8 projets pourront être sélectionnés !
