@@ -133,9 +133,9 @@ Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais
 We will mainly talk French, but several people will be able to help you and translate to English, Spanish, Italian, German, ... Just contact us to know more about this possibility, so we can plan it in advance!
 
 ## Des questions ?<a name="contact">
-Contactez-nous par email à mindlabordeaux<arobase>gmail[point]com ! :point_up:
+Contactez-nous par email à mindlabordeaux(arobase)gmail[point]com ! :point_up:
 
-(Pourquoi une adresse email si bizarre ? C'est parce que nous n'aimons pas les robots (enfin si, mais pas les robots qui envoient du SPAM ou autres pourriels). --> Remplacez le <arobose> par @ et le [point] par .)
+(Pourquoi une adresse email si bizarre ? C'est parce que nous n'aimons pas les robots (enfin si, mais pas les robots qui envoient du SPAM ou autres pourriels). --> Remplacez le (arobose) par @ et le [point] par .)
 
 Pour discuter, vous tenir au courant de l'actualité et découvrir les autres événements sur le Cerveau et l'Intelligance Artificielle ... Rejoignez-nous sur le [Slack du MindLaBdx](http://mindlabdx.slack.com) en cliquant [=> ICI <=](http://mindlabdx.herokuapp.com).
 
