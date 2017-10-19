@@ -54,7 +54,7 @@ A noter que dans la mesure du possible, les équipes seront encouragées à prop
 (A chaque fin de journée, les participants, bénévoles et experts auront l'occasion de se retrouver autour d'un verre pour continuer de discuter et de refaire le monde.)
 
 ## Pour qui ?  <a name="pour_qui"></a>
-Public concerné : Tout le monde ! (à partir de 15 ans)
+Public concerné : Tout le monde ! (de 15 à 115 ans)
 
 [//]: # (Vous êtes :)
 [//]: # (- chercheur / enseinant-chercheur en informatique, neurosciences, ingénierie, ... : [proposez un projet](#AAP).)
@@ -62,10 +62,10 @@ Public concerné : Tout le monde ! (à partir de 15 ans)
 [//]: # (- lycéen : tu es passionné )
 
 Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qui mélangeront :
-- citoyens avec ou sans formation scientifique, intéressés par les sciences et par la diffusion du savoir,
-- chercheurs-en-herbes, géo-trouve-tout, visiteurs de fablab et autres tiers-lieux, ...
-- étudiants, professionnels, enseignants, doctorants, chercheurs venant de différents domaine :
-  - apprentis en graphisme / design / art / ...
+- citoyen-ne-s avec ou sans formation scientifique, intéressés par les sciences et par la diffusion du savoir,
+- chercheur/se-s-en-herbes, géo-trouve-tout, visiteurs de fablab et autres tiers-lieux, ...
+- étudiant-e-s, professionnels, enseignant-e-s, doctorant-e-s, chercheur/se-s venant de différents domaine :
+  - graphisme / design / art / ...
   - neurosciences / sciences cognitives / psychologie / ...
   - informatique / apprentissage machine / analyse de données / robotique / ...
 - etc.
@@ -101,14 +101,14 @@ Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {aro
 
 ## Pourquoi ?  <a name="pourquoi"></a>
 #### Les objectifs
-Les objectifs sont de créer des projets innovants pouvant être utiles au monde académique ou industriel, d’une part, et de créer des contenus de vulgarisation d’autre part. Un objectif sous-jacent est de créer des ponts et des discussions entre grand public, professionnels des domaines (chercheurs, enseignants, doctorants, entrepreneurs …), professionnels d’autres domaines (designers, ingénieurs, journalistes …). Cela sera une occasion incroyable de partager toutes ces différentes visions et point de vues.
+Les objectifs sont de créer des projets innovants pouvant être utiles au monde académique ou industriel, d’une part, et de créer des contenus de vulgarisation d’autre part. Un objectif sous-jacent est de créer des ponts et des discussions entre grand public, professionnels des domaines (chercheur/ses, enseignant-e-s, doctorant-e-s, entrepreneur/ses …), professionnels d’autres domaines (designers, ingénieur-e-s, journalistes …). Cela sera une occasion incroyable de partager toutes ces différentes visions et point de vues.
 
 Ainsi, le grand public peut être [hack]teur et même producteur de l’innovation, de la vulgarisation et de la diffusion scientifique, et pas seulement consommateur ... car la tentation semble grande de nos jours de percevoir les résultats en neurosciences, sciences cognitives et intelligence artificielle comme des choses « magiques » inaccessibles, incompréhensibles, reservés à une élite ... Ce hackathon est là pour prouver le contraire !
 
 #### Rencontres
 A l'occasion de ce hackathon, cela sera l'occasion de mettre en contact :
-- des chercheurs et doctorants travaillant sur l'apprentissage artificiel (Inria, LaBRI, ...), neurosciences (laboratoires du NeuroCampus, ...), sciences cognitives (Université de Bordeaux, Inria, ...).
-- des citoyens intéressés par ces domaines scientifiques et motivés pour mettre la main à la pâte !
+- des chercheur/ses et doctorant-e-s travaillant sur l'apprentissage artificiel (Inria, LaBRI, ...), neurosciences (laboratoires du NeuroCampus, ...), sciences cognitives (Université de Bordeaux, Inria, ...).
+- des citoyen-ne-s intéressés par ces domaines scientifiques et motivés pour mettre la main à la pâte !
 
 #### Objectifs à long terme ...
 Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le hackathon s'inscrit :
