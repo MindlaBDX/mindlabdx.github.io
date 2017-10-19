@@ -34,8 +34,6 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et d
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
 
-[//]: # (image cap science top page qui ne marche pas car transparant : http://www.cap-sciences.net/sites/cap-sciences.compagnie-hyperactive.net/themes/capsciences_bootstrap/logo.png )
-
 <img src="http://www.cap-sciences.net/sites/default/files/kcfinder/files/VIGNETTE_PRES127.jpg" align="middle">
 
 
@@ -145,15 +143,17 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
+
 [//]: # (autre lien cap science juste le logo grisé en petit : http://www.cap-sciences.net/sites/default/files/kcfinder/files/20150625-AB-CapSciences-W-Homepage-modif%20logos.jpg)
-<img src="https://i.ytimg.com/vi/RH9H8lKyQ9Y/maxresdefault.jpg" align="middle">
+<img src="https://i.ytimg.com/vi/RH9H8lKyQ9Y/maxresdefault.jpg" align="middle" width="450">
 
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
-<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="400">
+<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="450">
 
 
 ## Partagez ... <a name="partagez"></a>
 Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
 Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
 
-#cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovant #cap-sciences #fablab #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl
+Pour finir, des #mots-dièse dans le désordre :
+#cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovation #cap-sciences #fablab #idées #synesthésies #pixel-art #réseaux-de-neurones #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl #graphisme #design #art #art-et-science #replication #open-science #psychologie #informatique #apprentissage-machine #machine-learning #analyse-de-données #data-mining #open-data #robotique
