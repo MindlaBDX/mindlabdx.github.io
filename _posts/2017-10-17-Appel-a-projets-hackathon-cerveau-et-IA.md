@@ -34,6 +34,9 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et d
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
 
+<img src="http://www.cap-sciences.net/sites/cap-sciences.compagnie-hyperactive.net/themes/capsciences_bootstrap/logo.png">
+<img src="http://www.cap-sciences.net/sites/default/files/kcfinder/files/VIGNETTE_PRES127.jpg">
+
 
 ## Quoi ?  <a name="quoi"></a>
 Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives et de l’Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivés, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
@@ -87,15 +90,18 @@ Comment faire pour proposer un projet ? Rien de plus simple : remplissez le form
 
 Information sur le formulaire :
 - préparez-vous à répondre aux questions suivantes
+  - prénom(s), nom(s) et email(s) des porteur/se-s du projet
   - titre du projet
-  - résumé de 10 à 20 lignes présentant le projet
   - mots-clés
-  - domaine(s) (ex: IA, neurosciences, vulgarisation, ...)
-  - de quel matériel avez-vous besoin ?
+  - résumé de 10 à 20 lignes présentant le projet
+  - domaine(s) concerné(s) (ex: IA, neurosciences, sciences cognitives, machine learning, data mining / analyse de données, vulgarisation, ...)
+  - de quel matériel avez-vous besoin ? (que vous pouvez fournir ou que nous pouvons éventuellement acheter)
   - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 au 10) ?
   - êtes-vous disponible un soir de novembre pour présenter votre projet en amont du hackathon ?
   - voulez-vous proposer ce projet avec d'autres personnes ? (si oui, indiquez les disponibilités de chaque personne pour le soir de présentation et le week-end)
-  - quel expertise proposez-vous ? (et quels sont les parties du projet qui font parties de votre expertise et celles qui n'en sont pas)
+  - quel expertise proposez-vous ? (et quels sont les parties du projet qui font parties de votre expertise et celles qui n'en sont pas et qu'un des participant-e-s pourra avoir)
+  - (optionnel) image présentant le projet (pour convier rapidement une idée sur le projet lors de la publication sur le site)
+  - (optionnel) page(s) web en lien avec le projet
 - (lien du formulaire très très bientôt disponible)
 
 Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {arobase} inria[point]fr
@@ -113,9 +119,9 @@ A l'occasion de ce hackathon, cela sera l'occasion de mettre en contact :
 
 #### Objectifs à long terme ...
 Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le hackathon s'inscrit :
-- Le développement d’outils scientifiques et « open source » : de plus en plus d’outils et logiciels utilisés dans les laboratoires sont « open source », c’est-à-dire accessibles et pouvant être modifiées et adaptés par tout un chacun pour ses propres besoins. Le fait que le code source d'un logiciel soit accessible permet de savoir ce qui est "vraiment fait" par un programme, et de garantir qu'il n'y a pas de "fonctions cachées" (cela rejoint donc la problématique de la réplicabilité).
-- La « réplicabilité » d’expériences scientifiques : le problème de non réplicabilité en sciences prend de plus en plus d’ampleur, et c’est par exemple une des raisons de la création du journal ReScience (http://rescience.github.io) par une équipe d’Inria Bordeaux. Il est important de sensibiliser le public à ces questions dont les problématiques ne sont pas évidentes au premier abord (« Pourquoi aurait-on besoin de refaire une expérience qui a déjà été faite ? »).
-- La vulgarisation : les participants seront encouragés à réaliser des projets sous forme d'ateliers, de mini-expos, de jeux de société, de posters ... qui pourront être utilisés tels quels ou adaptés pour être réutilisés par des lieux comme Cap Sciences, ou par des associations de vulgarisation comme Cogni’Junior.
+- Le développement d’__outils scientifiques et « open source »__ : de plus en plus d’outils et logiciels utilisés dans les laboratoires sont « open source », c’est-à-dire accessibles et pouvant être modifiées et adaptés par tout un chacun pour ses propres besoins. Le fait que le code source d'un logiciel soit accessible permet de savoir ce qui est "vraiment fait" par un programme, et de garantir qu'il n'y a pas de "fonctions cachées" (cela rejoint donc la problématique de la réplicabilité).
+- La __« réplicabilité » d’expériences scientifiques__ : le problème de non réplicabilité en sciences prend de plus en plus d’ampleur, et c’est par exemple une des raisons de la création du [journal ReScience](http://rescience.github.io) (gratuit, en ligne et processus de review publics) par l'équipe Mnemosyne d’Inria Bordeaux. Il est important de sensibiliser le public à ces questions dont les problématiques ne sont pas évidentes au premier abord (« Pourquoi aurait-on besoin de refaire une expérience qui a déjà été faite ? »).
+- La __vulgarisation__ : les participants seront encouragés à réaliser des projets sous forme d'ateliers, de mini-expos, de jeux de société, de posters ... qui pourront être utilisés tels quels ou adaptés pour être réutilisés par des lieux comme Cap Sciences, ou par des associations de vulgarisation comme Cogni’Junior.
 
 ## Participez ! <a name="participez"></a>
 Vous voulez participer au hackathon ! Patientez encore un peu, les inscriptions seront bientôt ouvertes !
@@ -136,6 +142,7 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 ## Partenaires de l'événement <a name="partenaires"></a>
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
+<img src="http://www.cap-sciences.net/sites/default/files/kcfinder/files/20150625-AB-CapSciences-W-Homepage-modif%20logos.jpg">
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
 <img src="/images/LOGO_Nouvelle_Aquitaine.jpg" width="500">
 
