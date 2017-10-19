@@ -34,8 +34,9 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et d
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
 
-<img src="http://www.cap-sciences.net/sites/cap-sciences.compagnie-hyperactive.net/themes/capsciences_bootstrap/logo.png">
-<img src="http://www.cap-sciences.net/sites/default/files/kcfinder/files/VIGNETTE_PRES127.jpg">
+[//]: # (image cap science top page qui ne marche pas car transparant : http://www.cap-sciences.net/sites/cap-sciences.compagnie-hyperactive.net/themes/capsciences_bootstrap/logo.png )
+
+<img src="http://www.cap-sciences.net/sites/default/files/kcfinder/files/VIGNETTE_PRES127.jpg" align="middle">
 
 
 ## Quoi ?  <a name="quoi"></a>
@@ -59,6 +60,7 @@ A noter que dans la mesure du possible, les équipes seront encouragées à prop
 ## Pour qui ?  <a name="pour_qui"></a>
 Public concerné : Tout le monde ! (de 15 à 115 ans)
 
+[//]: # (TOUT CE QU'IL Y A CI-DESSOUS SONT DES COMMENTAIRES, LAISSER COMME TEL)
 [//]: # (Vous êtes :)
 [//]: # (- chercheur / enseinant-chercheur en informatique, neurosciences, ingénierie, ... : [proposez un projet](#AAP).)
 [//]: # (- étudiant )
@@ -141,10 +143,13 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 
 ## Partenaires de l'événement <a name="partenaires"></a>
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
+
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
-<img src="http://www.cap-sciences.net/sites/default/files/kcfinder/files/20150625-AB-CapSciences-W-Homepage-modif%20logos.jpg">
+[//]: # (autre lien cap science juste le logo grisé en petit : http://www.cap-sciences.net/sites/default/files/kcfinder/files/20150625-AB-CapSciences-W-Homepage-modif%20logos.jpg)
+<img src="https://i.ytimg.com/vi/RH9H8lKyQ9Y/maxresdefault.jpg" align="middle">
+
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
-<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" width="500">
+<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="400">
 
 
 ## Partagez ... <a name="partagez"></a>
