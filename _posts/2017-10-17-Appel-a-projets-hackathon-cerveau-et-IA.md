@@ -145,9 +145,11 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
 
 [//]: # (autre lien cap science juste le logo grisé en petit : http://www.cap-sciences.net/sites/default/files/kcfinder/files/20150625-AB-CapSciences-W-Homepage-modif%20logos.jpg)
-<img src="https://i.ytimg.com/vi/RH9H8lKyQ9Y/maxresdefault.jpg" align="middle" width="450">
+
+<img src="https://i.ytimg.com/vi/RH9H8lKyQ9Y/maxresdefault.jpg" align="middle" width="650">
 
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
+
 <img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="450">
 
 
@@ -156,4 +158,4 @@ Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
 Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
 
 Pour finir, des #mots-dièse dans le désordre :
-#cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovation #cap-sciences #fablab #idées #synesthésies #pixel-art #réseaux-de-neurones #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl #graphisme #design #art #art-et-science #replication #open-science #psychologie #informatique #apprentissage-machine #machine-learning #analyse-de-données #data-mining #open-data #robotique
+#cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovation #cap-sciences #fablab #idées #synesthésies #pixel-art #réseaux-de-neurones #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl #graphisme #design #art #art-et-science #replication #open-science #psychologie #informatique #block-chain #ethereum #apprentissage-machine #machine-learning #analyse-de-données #data-mining #open-data #robotique
