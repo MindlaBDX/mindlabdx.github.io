@@ -94,6 +94,7 @@ Information sur le formulaire :
   - de quel matériel avez-vous besoin ?
   - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 au 10) ?
   - êtes-vous disponible un soir de novembre pour présenter votre projet en amont du hackathon ?
+  - voulez-vous proposer ce projet avec d'autres personnes ? (si oui, indiquez les disponibilités de chaque personne pour le soir de présentation et le week-end)
   - quel expertise proposez-vous ? (et quels sont les parties du projet qui font parties de votre expertise et celles qui n'en sont pas)
 - (lien du formulaire très très bientôt disponible)
 
