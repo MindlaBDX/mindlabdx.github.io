@@ -20,7 +20,7 @@ permalink: /hack1cerveau/
 * [Appel à projets](#AAP) : experts en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet : __l'appel à projets ouvert jusqu'au 1er novembre__ !
 * [Pourquoi ?](#pourquoi) : pour se rencontrer, créer, imaginer, réaliser ...
 * [Participez](#participez) : vous voulez participer au hackathon ?
-* [Langue](#quel_langue) : Français principalement, mais ouvert aux autres langues !
+* [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
 * [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
 * [Partenaires](#partenaires) : ceux qui nous soutiennent !
 * [Partagez](#partagez) : parlez-en autour de vous !
@@ -120,7 +120,7 @@ Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le 
 Vous voulez participer au hackathon ! Patientez encore un peu, les inscriptions seront bientôt ouvertes !
 Pour être au courant de l'ouverture des inscriptions, surveillez le [compte twitter du MindLaBdx].
 
-## En quel langue ?<a name="quel_langue"></a>
+## En quelle langue ?<a name="quelle_langue"></a>
 Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais toutes les langues sont les bienvenues, quels soient locales ou internationales. Si vous avez des amis ou collègues que cela peut intéressez, proposez leur de participer et de nous contacter.
 
 We will mainly talk French, but several people will be able to help you and translate to English, Spanish, Italian, German, ... Just contact us to know more about this possibility, so we can plan it in advance!
