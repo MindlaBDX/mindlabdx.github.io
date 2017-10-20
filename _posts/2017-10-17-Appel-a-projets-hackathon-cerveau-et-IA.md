@@ -23,6 +23,7 @@ permalink: /hack1cerveau/
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
 * [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
 * [Partenaires](#partenaires) : ceux qui nous soutiennent !
+* [Aidez](#aidez) : vous voulez nous donner un coup de main ?
 * [Partagez](#partagez) : parlez-en autour de vous !
 
 ## Qui ?  <a name="qui"></a>
@@ -33,11 +34,12 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et d
 
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
-<img src="/images/from_website/VIGNETTE_PRES127.jpg" align="middle">
+
+![Le 127°](/images/from_website/VIGNETTE_PRES127.jpg){: .center-image }
 
 
 ## Quoi ?  <a name="quoi"></a>
-Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives et de l’Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivés, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
+Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives et de l’Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivé-e-s, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
 
 Nous organisons un hackathon sur le cerveau et l’intelligence en mettant en place des « garde-fous » pour que les projets restent réalistes. Les potentiels projets seront proposés et encadrés par des scientifiques et professionnels des domaines concernés. Le fait de proposer des projets réalisables en un week-end et potentiellement orientés vers la médiation scientifique permettra aux personnes venant de tous horizons (scientifiques, designers, artistes … ou simples passionnés) de partager leurs compétences et connaissances, car la pluridisciplinarité sera de mise.
 
@@ -147,11 +149,11 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
 <img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500">
 
-## Aidez !
+## Aidez ... <a name="aidez"></a>
 Vous voulez nous aider à organiser le hackathon ? Inscrivez-vous sur le [Slack](mindlabdx.slack.com) à l'adresse ci-dessous et dites "je veux aider #hack1cerveau !" :
 - [mindlabdx.herokuapp.com](http://mindlabdx.herokuapp.com)
 
-## Partagez ... <a name="partagez"></a>
+## Partagez ! <a name="partagez"></a>
 Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
 Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
 
