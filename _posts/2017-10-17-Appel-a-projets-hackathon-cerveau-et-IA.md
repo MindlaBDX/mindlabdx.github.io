@@ -30,7 +30,7 @@ permalink: /hack1cerveau/
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
 
 ## Quand ?  <a name="quand"></a>
-Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et dimanche de 9h à 19h.
+Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi de 9h à 21h et dimanche de 9h30 à 18h.
 
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
@@ -82,12 +82,12 @@ Nous faisons un appel aux expert-e-s dans les domaines des neurosciences, des sc
 #### Qu'entendons-nous par "expert-e" ?
 Personne qui est suffisamment familière avec le domaine du sujet qu'il propose. Si l'on veut donner un niveau d'études, il s'agirait d'un niveau master ou équivalent en années d'expérience professionnel/artistique/...
 
-Dépêchez vous ! Car seul 6-8 projets pourront être sélectionnés !
+[//]: # (Dépêchez vous ! Car seul 6-8 projets pourront être sélectionnés !)
 
 #### Déposez un projet
 Date limite : 1er novembre
 
-Comment faire pour proposer un projet ? Rien de plus simple : remplissez le formulaire ci-dessous.
+Comment faire pour proposer un projet ? Rien de plus simple : remplissez [ce formulaire](https://framaforms.org/appel-a-projets-pour-hack1-cerveau-1508447544).
 
 Information sur le formulaire :
 - préparez-vous à répondre aux questions suivantes
@@ -96,14 +96,12 @@ Information sur le formulaire :
   - mots-clés
   - résumé de 10 à 20 lignes présentant le projet
   - domaine(s) concerné(s) (ex: IA, neurosciences, sciences cognitives, machine learning, data mining / analyse de données, vulgarisation, ...)
-  - de quel matériel avez-vous besoin ? (que vous pouvez fournir ou que nous pouvons éventuellement acheter)
-  - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 au 10) ?
-  - êtes-vous disponible un soir de novembre pour présenter votre projet en amont du hackathon ?
-  - voulez-vous proposer ce projet avec d'autres personnes ? (si oui, indiquez les disponibilités de chaque personne pour le soir de présentation et le week-end du 8-10 décembre)
-  - quel expertise proposez-vous ?
-  - (optionnel) image présentant le projet (pour convier rapidement une idée sur le projet lors de la publication sur le site)
+  - de quel matériel avez-vous besoin ?
+  - quelle expertise proposez-vous ? quelle compétences cherchez vous ?
+  - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 soir au 10 soir) ?
+  - (optionnel) êtes-vous disponible un soir de novembre pour présenter votre projet en amont du hackathon ?
+  - (optionnel) image présentant le projet
   - (optionnel) page(s) web en lien avec le projet
-- (lien du formulaire très très bientôt disponible)
 
 Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {arobase} inria[point]fr
 
