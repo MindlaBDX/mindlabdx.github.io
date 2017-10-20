@@ -33,8 +33,7 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi et d
 
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
-
-<img src="http://www.cap-sciences.net/sites/default/files/kcfinder/files/VIGNETTE_PRES127.jpg" align="middle">
+<img src="/images/from_website/VIGNETTE_PRES127.jpg" align="middle">
 
 
 ## Quoi ?  <a name="quoi"></a>
@@ -98,8 +97,8 @@ Information sur le formulaire :
   - de quel matériel avez-vous besoin ? (que vous pouvez fournir ou que nous pouvons éventuellement acheter)
   - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 au 10) ?
   - êtes-vous disponible un soir de novembre pour présenter votre projet en amont du hackathon ?
-  - voulez-vous proposer ce projet avec d'autres personnes ? (si oui, indiquez les disponibilités de chaque personne pour le soir de présentation et le week-end)
-  - quel expertise proposez-vous ? (et quels sont les parties du projet qui font parties de votre expertise et celles qui n'en sont pas et qu'un des participant-e-s pourra avoir)
+  - voulez-vous proposer ce projet avec d'autres personnes ? (si oui, indiquez les disponibilités de chaque personne pour le soir de présentation et le week-end du 8-10 décembre)
+  - quel expertise proposez-vous ?
   - (optionnel) image présentant le projet (pour convier rapidement une idée sur le projet lors de la publication sur le site)
   - (optionnel) page(s) web en lien avec le projet
 - (lien du formulaire très très bientôt disponible)
@@ -143,15 +142,14 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
-
-[//]: # (autre lien cap science juste le logo grisé en petit : http://www.cap-sciences.net/sites/default/files/kcfinder/files/20150625-AB-CapSciences-W-Homepage-modif%20logos.jpg)
-
-<img src="https://i.ytimg.com/vi/RH9H8lKyQ9Y/maxresdefault.jpg" align="middle" width="650">
+<img src="/images/from_website/capsciences_maxresdefault.jpg" align="middle" width="650">
 
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
+<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500">
 
-<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="450">
-
+## Aidez !
+Vous voulez nous aider à organiser le hackathon ? Inscrivez-vous sur le [Slack](mindlabdx.slack.com) à l'adresse ci-dessous et dites "je veux aider #hack1cerveau !" :
+- [mindlabdx.herokuapp.com](http://mindlabdx.herokuapp.com)
 
 ## Partagez ... <a name="partagez"></a>
 Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
