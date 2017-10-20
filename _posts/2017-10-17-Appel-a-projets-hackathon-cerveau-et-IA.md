@@ -158,4 +158,5 @@ Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
 Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
 
 Pour finir, des #mots-dièse dans le désordre :
-#cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovation #cap-sciences #fablab #idées #synesthésies #pixel-art #réseaux-de-neurones #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl #graphisme #design #art #art-et-science #replication #open-science #psychologie #informatique #block-chain #ethereum #apprentissage-machine #machine-learning #analyse-de-données #data-mining #open-data #robotique
+
+ #cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovation #cap-sciences #fablab #idées #synesthésies #pixel-art #réseaux-de-neurones #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl #graphisme #design #art #art-et-science #replication #open-science #psychologie #informatique #block-chain #ethereum #apprentissage-machine #machine-learning #analyse-de-données #data-mining #open-data #robotique
