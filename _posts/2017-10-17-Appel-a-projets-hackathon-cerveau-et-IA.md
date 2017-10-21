@@ -138,7 +138,7 @@ We will mainly talk French, but several people will be able to help you and tran
 ## Des questions ?<a name="contact">
 Contactez-nous par email à mindlabordeaux(arobase)gmail[point]com ! :point_up:
 
-(Pourquoi une adresse email si bizarre ? C'est parce que nous n'aimons pas les robots (enfin si, mais pas les robots qui envoient du SPAM ou autres pourriels). --> Remplacez le (arobose) par @ et le [point] par .)
+(Pourquoi une adresse email si bizarre ? C'est parce que nous n'aimons pas les robots (enfin si, mais pas les robots qui envoient du SPAM ou autres pourriels). --> Remplacez le (arobase) par @ et le [point] par .)
 
 Pour discuter, vous tenir au courant de l'actualité et découvrir les autres événements sur le Cerveau et l'Intelligence Artificielle ... Rejoignez-nous sur le [Slack du MindLaBdx](http://mindlabdx.slack.com) en cliquant [=> ICI <=](http://mindlabdx.herokuapp.com).
 
