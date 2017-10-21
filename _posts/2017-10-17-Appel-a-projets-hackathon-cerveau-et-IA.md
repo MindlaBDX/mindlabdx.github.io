@@ -49,6 +49,9 @@ Le hackathon commencera le vendredi soir par une présentation des projets propo
 
 #### Matériel
 L'imprimante 3D, la découpeuse laser, la découpeuse vinyle, les bombes de peinture, ... attendent impatiemment les participants. [En savoir plus sur le matériel du 127°](https://www.fablab127.net/?_escaped_fragment_=/machines#!/machines).
+![Découpeuse laser](https://www.fablab127.net/uploads/machine_image/1/large_machine_image.jpg)
+![Découpeuse vinyle](https://www.fablab127.net/uploads/machine_image/14/large_machine_image.jpg)
+![Imprimante 3D](https://www.fablab127.net/uploads/machine_image/8/large_machine_image.jpg)
 
 #### Déroulement
 Du samedi matin au dimanche milieu d’après-midi, les équipes travailleront sur leurs projets respectifs.
@@ -89,8 +92,8 @@ Date limite : 1er novembre
 
 Comment faire pour proposer un projet ? Rien de plus simple : remplissez [ce formulaire](https://framaforms.org/appel-a-projets-pour-hack1-cerveau-1508447544).
 
-Information sur le formulaire :
-- préparez-vous à répondre aux questions suivantes
+Informations sur le formulaire :
+- préparez-vous à répondre aux questions suivantes :
   - prénom(s), nom(s) et email(s) des porteur/se-s du projet
   - titre du projet
   - mots-clés
