@@ -93,19 +93,19 @@ Date limite : 1er novembre
 
 Comment faire pour proposer un projet ? Rien de plus simple : remplissez [ce formulaire](https://framaforms.org/appel-a-projets-pour-hack1-cerveau-1508447544).
 
-Informations sur le formulaire :
-- préparez-vous à répondre aux questions suivantes :
-  - prénom(s), nom(s) et email(s) des porteur/se-s du projet
-  - titre du projet
-  - mots-clés
-  - résumé de 10 à 20 lignes présentant le projet
-  - domaine(s) concerné(s) (ex: IA, neurosciences, sciences cognitives, machine learning, data mining / analyse de données, vulgarisation, ...)
-  - de quel matériel avez-vous besoin ?
-  - quelle expertise proposez-vous ? quelle compétences cherchez vous ?
-  - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 soir au 10 soir) ?
-  - (optionnel) êtes-vous disponible un soir de novembre pour présenter votre projet en amont du hackathon ?
-  - (optionnel) image présentant le projet
-  - (optionnel) page(s) web en lien avec le projet
+[//]: # (Informations sur le formulaire :)
+[//]: # (- préparez-vous à répondre aux questions suivantes :)
+[//]: # (  - prénom(s), nom(s) et email(s) des porteur/se-s du projet)
+[//]: # (  - titre du projet)
+[//]: # (  - mots-clés)
+[//]: # (  - résumé de 10 à 20 lignes présentant le projet)
+[//]: # (  - domaine(s) concerné(s) (ex: IA, neurosciences, sciences cognitives, machine learning, data mining / analyse de données, vulgarisation, ...))
+[//]: # (  - de quel matériel avez-vous besoin ?)
+[//]: # (  - quelle expertise proposez-vous ? quelle compétences cherchez vous ?)
+[//]: # (  - êtes-vous disponible tout ou partie du 2e week-end de décembre (du 8 soir au 10 soir) ?)
+[//]: # (  - (optionnel) êtes-vous disponible un soir de novembre pour présenter votre projet en amont du hackathon ?)
+[//]: # (  - (optionnel) image présentant le projet)
+[//]: # (  - (optionnel) page(s) web en lien avec le projet)
 
 Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {arobase} inria[point]fr
 
