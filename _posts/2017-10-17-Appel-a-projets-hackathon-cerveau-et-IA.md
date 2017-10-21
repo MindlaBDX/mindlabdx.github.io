@@ -11,20 +11,20 @@ permalink: /hack1cerveau/
 <img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
 
 ## En bref
-* [Qui ?](#qui) : les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
-* [Quand ?](#quand) : le week-end __du 8 au 10 décembre 2017__.
-* [Où ?](#ou) : __au 127°__, le __fablab de Cap Sciences__, à Bordeaux.
-* [Quoi ?](#quoi) : un hackathon : un marathon pour réaliser des projets innovants !
-* [Comment ?](#comment) : par équipes autour d'un projet proposé par un-e expert-e.
-* [Pour qui?](#pour_qui) : pour toutes et tous de 15 ans à 115 ans !
+* [Qui ?](#qui) les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
+* [Quand ?](#quand) le week-end __du 8 au 10 décembre 2017__.
+* [Où ?](#ou) __au 127°__, le __fablab de Cap Sciences__, à Bordeaux.
+* [Quoi ?](#quoi) un hackathon : un marathon pour réaliser des projets innovants !
+* [Comment ?](#comment) par équipes autour d'un projet proposé par un-e expert-e.
+* [Pour qui?](#pour_qui) pour toutes et tous de 15 ans à 115 ans !
 * [Appel à projets](#AAP) : expert-e-s en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet : __l'appel à projets ouvert jusqu'au 1er novembre__ !
-* [Pourquoi ?](#pourquoi) : pour se rencontrer, créer, imaginer, réaliser ...
-* [Participez](#participez) : vous voulez participer au hackathon ?
+* [Pourquoi ?](#pourquoi) pour se rencontrer, créer, imaginer, réaliser ...
+* [Participez !](#participez) vous voulez participer au hackathon ?
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
 * [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
 * [Partenaires](#partenaires) : ceux qui nous soutiennent !
 * [Aidez](#aidez) : vous voulez nous donner un coup de main ?
-* [Partagez](#partagez) : parlez-en autour de vous !
+* [Partagez !](#partagez) parlez-en autour de vous !
 
 ## Qui ?  <a name="qui"></a>
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
