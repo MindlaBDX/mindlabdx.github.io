@@ -49,9 +49,9 @@ Le hackathon commencera le vendredi soir par une présentation des projets propo
 
 #### Matériel
 L'imprimante 3D, la découpeuse laser, la découpeuse vinyle, les bombes de peinture, ... attendent impatiemment les participants. [En savoir plus sur le matériel du 127°](https://www.fablab127.net/?_escaped_fragment_=/machines#!/machines).
-![Découpeuse laser](https://www.fablab127.net/uploads/machine_image/1/large_machine_image.jpg)
-![Découpeuse vinyle](https://www.fablab127.net/uploads/machine_image/14/large_machine_image.jpg)
-![Imprimante 3D](https://www.fablab127.net/uploads/machine_image/8/large_machine_image.jpg)
+<img src="![Découpeuse laser](https://www.fablab127.net/uploads/machine_image/1/large_machine_image.jpg)" width="200">
+<img src="![Découpeuse vinyle](https://www.fablab127.net/uploads/machine_image/14/large_machine_image.jpg)" width="200">
+<img src="![Imprimante 3D](https://www.fablab127.net/uploads/machine_image/8/large_machine_image.jpg)" width="200">
 
 #### Déroulement
 Du samedi matin au dimanche milieu d’après-midi, les équipes travailleront sur leurs projets respectifs.
