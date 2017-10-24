@@ -39,9 +39,9 @@ Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/at
 
 
 ## Quoi ?  <a name="quoi"></a>
-Nous proposons un « hackathon » sur les thématiques des Sciences Cognitives et de l’Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivé-e-s, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
+Nous proposons un « hackathon » sur les thématiques des Neurosciences, Sciences Cognitives et Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivé-e-s, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
 
-Nous organisons un hackathon sur le cerveau et l’intelligence en mettant en place des « garde-fous » pour que les projets restent réalistes. Les potentiels projets seront proposés et encadrés par des scientifiques et professionnels des domaines concernés. Le fait de proposer des projets réalisables en un week-end et potentiellement orientés vers la médiation scientifique permettra aux personnes venant de tous horizons (scientifiques, designers, artistes … ou simples passionnés) de partager leurs compétences et connaissances, car la pluridisciplinarité sera de mise.
+Nous organisons ce hackathon en mettant en place des « garde-fous » pour que les projets restent réalistes. Les potentiels projets seront proposés et encadrés par des scientifiques et professionnels des domaines concernés. Le fait de proposer des projets réalisables en un week-end et potentiellement orientés vers la médiation scientifique permettra aux personnes venant de tous horizons (scientifiques, designers, artistes … ou simples passionnés) de partager leurs compétences et connaissances, car la pluridisciplinarité sera de mise.
 
 ## Comment ?  <a name="comment"></a>
 #### Equipes guidées par des expert-e-s
@@ -55,6 +55,7 @@ L'imprimante 3D, la découpeuse laser, la découpeuse vinyle, les bombes de pein
 <img src="https://www.fablab127.net/uploads/machine_image/14/large_machine_image.jpg" width="240">
 
 #### Déroulement
+Le vendredi soir entre 18h et 21h les "expert-e-s" présenterons leur projets et les participants formeront des équipes de 4/6 personnes autours de chaque projets.
 Du samedi matin au dimanche milieu d’après-midi, les équipes travailleront sur leurs projets respectifs.
 A l'issu du week-end (le dimanche vers 17h), chaque équipe présentera le projet qu’elle aura réalisé et un jury décernera des prix aux projets les plus innovants et aboutis, avec un prix spécial pour la meilleure vulgarisation.
 A noter que dans la mesure du possible, les équipes seront encouragées à proposer un prototype de leur réalisation au public de Cap Sciences.
