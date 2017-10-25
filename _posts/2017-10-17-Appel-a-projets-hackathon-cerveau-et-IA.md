@@ -39,7 +39,9 @@ Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/at
 
 
 ## Quoi ?  <a name="quoi"></a>
-Nous proposons un « hackathon » sur les thématiques des Neurosciences, Sciences Cognitives et Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivé-e-s, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
+Nous proposons un « Hackathon », contraction de Hacker et Marathon, sur les thématiques des Neurosciences, Sciences Cognitives et Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivé-e-s, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
+
+[//]: # (Lien potentiel pour expliquer ce qu'est un hackeur au sens large, et pas comme un pirate informatique https://fr.wikipedia.org/wiki/Hacking#Hacking_moderne )
 
 Nous organisons ce hackathon en mettant en place des « garde-fous » pour que les projets restent réalistes. Les potentiels projets seront proposés et encadrés par des scientifiques et professionnels des domaines concernés. Le fait de proposer des projets réalisables en un week-end et potentiellement orientés vers la médiation scientifique permettra aux personnes venant de tous horizons (scientifiques, designers, artistes … ou simples passionnés) de partager leurs compétences et connaissances, car la pluridisciplinarité sera de mise.
 
@@ -159,6 +161,8 @@ Vous voulez nous aider à organiser le hackathon ? Inscrivez-vous sur le [Slack]
 ## Partagez ! <a name="partagez"></a>
 Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
 Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
+
+Si vous avez des friends sur facebook, vous pouvez leur partager la page de l'événement : https://www.facebook.com/events/136751500303756/
 
 Pour finir, des #mots-dièse dans le désordre :
 
