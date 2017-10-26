@@ -96,6 +96,12 @@ Date limite : 1er novembre
 
 Comment faire pour proposer un projet ? Rien de plus simple : remplissez [ce formulaire](https://framaforms.org/appel-a-projets-pour-hack1-cerveau-1508447544).
 
+Nous sommes sûr que vous allez déborder d'idées pour trouver des projets ... juste au cas où les idées ont du mal à s'enclencher, vous pouvez aller faire un tour sur ces pages pour trouver de l'inspiration :
+* [github.com/ohbm/hackathon2017](https://github.com/ohbm/hackathon2017/wiki)
+* [brainhack.org](http://www.brainhack.org)
+* [kaggle.com](https://www.kaggle.com)
+
+
 [//]: # (Informations sur le formulaire :)
 [//]: # (- préparez-vous à répondre aux questions suivantes :)
 [//]: # (  - prénom(s), nom(s) et email(s) des porteur/se-s du projet)
@@ -162,7 +168,7 @@ Vous voulez nous aider à organiser le hackathon ? Inscrivez-vous sur le [Slack]
 Si vous parlez de l'événement autour de vous, dites __#hack1cerveau__ !
 Et si vous avez encore envie de parler de nous dites [@mindlabdx](https://twitter.com/mindlabdx) et [@Ascoergo](https://twitter.com/Ascoergo) !
 
-Si vous avez des vrais amis sur facebook, vous pouvez leur partager [la page de l'événement Facebook](https://www.facebook.com/events/136751500303756/) !
+Si vous avez des vrais amis sur facebook, vous pouvez leur partager [la page de l'événement Facebook](https://www.facebook.com/events/136751500303756/).
 
 Pour finir, des #mots-dièse dans le désordre :
 
