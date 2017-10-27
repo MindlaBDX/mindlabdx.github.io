@@ -120,7 +120,7 @@ Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {aro
 
 ## Pourquoi ?  <a name="pourquoi"></a>
 #### Les objectifs
-Les objectifs sont de créer des projets innovants pouvant être utiles au monde académique ou industriel, d’une part, et de créer des contenus de vulgarisation d’autre part. Un objectif sous-jacent est de créer des ponts et des discussions entre grand public, professionnels des domaines (chercheur/ses, enseignant-e-s, doctorant-e-s, entrepreneur/ses …), professionnels d’autres domaines (designers, ingénieur-e-s, journalistes …). Cela sera une occasion incroyable de partager toutes ces différentes visions et point de vues.
+Les objectifs sont de créer des projets innovants pouvant être utiles au monde académique ou industriel, d’une part, et de créer des contenus de vulgarisation d’autre part. Un objectif sous-jacent est de créer des ponts et des discussions entre grand public, professionnels des domaines (chercheur/ses, enseignant-e-s, doctorant-e-s, entrepreneur/ses …), professionnels d’autres domaines (designers, ingénieur-e-s, journalistes …). Cela sera une occasion incroyable de partager toutes ces différentes visions et point de vue.
 
 Ainsi, le grand public peut être [hack]teur et même producteur de l’innovation, de la vulgarisation et de la diffusion scientifique, et pas seulement consommateur ... car la tentation semble grande de nos jours de percevoir les résultats en neurosciences, sciences cognitives et intelligence artificielle comme des choses « magiques » inaccessibles, incompréhensibles, reservés à une élite ... Ce hackathon est là pour prouver le contraire !
 
