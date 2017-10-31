@@ -22,7 +22,7 @@ permalink: /hack1cerveau/
 * [Participez !](#participez) vous voulez participer au hackathon ?
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
 * [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
-* [Partenaires](#partenaires) : ceux qui nous soutiennent !
+* [Partenaires](#partenaires) : ceux qui nous soutiennent et nous aident !
 * [Aidez](#aidez) : vous voulez nous donner un coup de main ?
 * [Partagez !](#partagez) parlez-en autour de vous !
 
@@ -151,19 +151,22 @@ Contactez-nous par email à mindlabordeaux(arobase)gmail[point]com ! :point_up:
 
 Pour discuter, vous tenir au courant de l'actualité et découvrir les autres événements sur le Cerveau et l'Intelligence Artificielle ... Rejoignez-nous sur le [Slack du MindLaBdx](http://mindlabdx.slack.com) en cliquant [=> ICI <=](http://mindlabdx.herokuapp.com).
 
-## Partenaires de l'événement <a name="partenaires"></a>
+## Partenaires <a name="partenaires"></a>
+
+#### Soutien financier
+
+- La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
+<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500">
+
+#### Partenaires de l'événement
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
 <img src="/images/from_website/capsciences_maxresdefault.jpg" align="middle" width="650">
 
 - [Inria](https://www.inria.fr/centre/bordeaux)
-<img src="/images/inr_logo_fr_rouge.png" align="middle" width="400">
-
-## Soutien financier
-
-- La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
-<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500">
+<br>
+<img src="/images/inr_logo_fr_rouge.png" align="middle" width="300">
 
 ## Aidez ... <a name="aidez"></a>
 Vous voulez nous aider à organiser le hackathon ? Inscrivez-vous sur le [Slack](mindlabdx.slack.com) à l'adresse ci-dessous et dites "je veux aider #hack1cerveau !" :
