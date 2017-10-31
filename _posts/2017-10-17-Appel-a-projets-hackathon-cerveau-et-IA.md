@@ -158,7 +158,7 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 <img src="/images/from_website/capsciences_maxresdefault.jpg" align="middle" width="650">
 
 - [Inria](https://www.inria.fr/centre/bordeaux)
-<img src="/images/inr_logo_fr_rouge.png" align="middle" width="400"
+<img src="/images/inr_logo_fr_rouge.png" align="middle" width="400">
 
 ## Soutien financier
 
