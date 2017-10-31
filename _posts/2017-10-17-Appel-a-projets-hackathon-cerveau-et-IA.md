@@ -166,7 +166,7 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 
 - [Inria](https://www.inria.fr/centre/bordeaux)
 <br>
-<img src="/images/inr_logo_fr_rouge.png" align="middle" width="300">
+<center><img src="/images/inr_logo_fr_rouge.png" align="middle" width="300"></center>
 
 ## Aidez ... <a name="aidez"></a>
 Vous voulez nous aider à organiser le hackathon ? Inscrivez-vous sur le [Slack](mindlabdx.slack.com) à l'adresse ci-dessous et dites "je veux aider #hack1cerveau !" :
