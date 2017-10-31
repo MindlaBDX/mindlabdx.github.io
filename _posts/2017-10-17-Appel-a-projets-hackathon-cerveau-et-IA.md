@@ -157,6 +157,11 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
 <img src="/images/from_website/capsciences_maxresdefault.jpg" align="middle" width="650">
 
+- [Inria](https://www.inria.fr/centre/bordeaux)
+<img src="/images/inr_logo_fr_rouge.png" align="middle" width="400"
+
+## Soutien financier
+
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
 <img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500">
 
