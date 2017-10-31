@@ -35,7 +35,7 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi de 9
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
 
-![Le 127°](/images/from_website/VIGNETTE_PRES127.jpg){: .center-image }
+<center>![Le 127°](/images/from_website/VIGNETTE_PRES127.jpg)</center>
 
 
 ## Quoi ?  <a name="quoi"></a>
@@ -156,13 +156,13 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 #### Soutien financier
 
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
-<img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500">
+<center><img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500"></center>
 
 #### Partenaires de l'événement
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
-<img src="/images/from_website/capsciences_maxresdefault.jpg" align="middle" width="650">
+<center><img src="/images/from_website/capsciences_maxresdefault.jpg" align="middle" width="650"></center>
 
 - [Inria](https://www.inria.fr/centre/bordeaux)
 <br>
