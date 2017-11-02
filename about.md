@@ -4,7 +4,7 @@ title: A propos du Mindlabdx
 permalink: /about/
 ---
 
-**Laboratoire citoyen ouvert** en _Intelligence Artificielle_ et _Sciences Cognitives_
+**Laboratoire citoyen ouvert** en _Sciences Cognitives_ et _Intelligence Artificielle_
 
 C'est pour qui ? N’importe quelle personne intéressée par les sciences cognitives ou par l’intelligence artificielle sur Bordeaux peut rejoindre le Lab et participer. Il est destiné à accueillir, héberger et soutenir des projets en IA et SciCog, lesquels seront ouverts. Le MindLaBdx n’est pas, pour l’instant une association. C’est un Slack avec un peu plus de 30 personnes inscrites, intéressées pour réaliser des projets ensemble. Il regroupe des étudiants de licence MIASHS, Master Sciences Cognitives, étudiants d’ingésup, de DUT informatique ainsi qu’une dizaine de doctorants et chercheurs de l’INRIA (équipes POTIOC, Mnemosyne et Flowers).
 
