@@ -51,10 +51,10 @@ et en fonctionnement: http://naming-game.bordeaux.inria.fr
 **Domaine(s) concerné(s) :** Neurosciences, Sciences Cognitives, Imagerie mentale, Ingénieurie
 
 
-Création d’un casque comme le dream light de Stephen Laberge et mesure de l’impact des flash lumineux sur le sommeil en phase de REM.
-Le but consisterait dans un premier temps à recréer avec une Arduino, un casque permettant d’envoyer au dormeur des flash lumineux à des fréquences répétées pour essayer de lui induire un rêve lucide. Le dormeur sera au courant que pendant ses rêves il pourrait constater des flash lumineux. Ses flash lumineux serait sensé aider le rêveur à prendre conscience qu’il rêve.
-De plus essayer de comprendre comment sont intégrés les signaux des flashs pendant différentes phases du sommeil (très peu de chance qu'on voit quelque chose en EEG dans ces conditions) mais pourquoi pas à l'échelle du rêve ou de l'induction d'hallucinations hypnagogiques liées aux flashs)
-Cependant quel est l’impact de ses flash sur un dormeur en phase de REM.
+Création d’un casque comme le dream light de Stephen Laberge et mesure de l’impact des flashs lumineux sur le sommeil en phase de REM.
+Le but consisterait dans un premier temps à recréer avec une Arduino, un casque permettant d’envoyer au dormeur des flashs lumineux à des fréquences répétées pour essayer de lui induire un rêve lucide. Le dormeur sera au courant que pendant ses rêves il pourrait constater des flashs lumineux. Ces flashs lumineux seraient censés aider le rêveur à prendre conscience qu’il rêve.
+De plus, essayer de comprendre comment sont intégrés les signaux des flashs pendant différentes phases du sommeil (très peu de chance qu'on voit quelque chose en EEG dans ces conditions) mais pourquoi pas à l'échelle du rêve ou de l'induction d'hallucinations hypnagogiques liées aux flashs)
+Cependant quel est l’impact de ses flashs sur un dormeur en phase de REM.
 Ce projet aura donc pour but de :
 - Demander à un groupe de 5 personnes de réaliser un prototype reproduisant le comportement du Dream Light de Laberge.
 - Enregistrer le signal EEG d’une personne en train de rêver sans Dream Light et avec Dream Light.
