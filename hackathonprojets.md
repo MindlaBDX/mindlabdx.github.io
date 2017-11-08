@@ -5,11 +5,11 @@ permalink: /projet_hackathon/
 ---
 
 ## En bref
-* [Naming Game](###Le Naming Game: créons un langage en commun) 
+* [Naming Game](### Le Naming Game: créons un langage en commun) 
 
 
 
-###Projet 1 - Le Naming Game: créons un langage en commun
+### Projet 1 - Le Naming Game: créons un langage en commun
 
 *Projet présenté par :* William Schueller - william.schueller at gmail.com
 *Mots-clés décrivant le projet :* émergence du langage, curiosité, exploration conceptuelle, apprentissage actif
@@ -33,7 +33,7 @@ sources: http://github.com/wschuell/ng_userxp
 et en fonctionnement: http://naming-game.bordeaux.inria.fr
 
 
-###Projet 2 - DIY : Induction de rêves Lucides par flash lumineux
+### Projet 2 - DIY : Induction de rêves Lucides par flash lumineux
 
 *Projet présenté par :*  Emma CHABANI -  emma.chabani at gmail.com
 *Mots-clés décrivant le projet :* Rêve Lucide, Casque d'induction de rêve lucide, Conscience, Sommeil, EEG
