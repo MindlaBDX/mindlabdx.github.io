@@ -16,7 +16,9 @@ permalink: /projet_hackathon/
 ### Projet 1 - Le Naming Game: créons un langage en commun
 
 **Projet présenté par :** William Schueller - william.schueller at gmail.com
+
 **Mots-clés décrivant le projet :** émergence du langage, curiosité, exploration conceptuelle, apprentissage actif
+
 **Domaine(s) concerné(s) :** Intelligence artificielle, Modélisation des systèmes complexes, linguistique computationnelle, Semiotique experimentale,
 
 Comment choisit-on les mots pour de nouveaux concepts? Et surtout, comment se met-on d'accord à l'échelle du groupe? Ce phénomène a lieu presque tous les jours sans que nous nous en rendions compte, de manière décentralisée.
@@ -40,7 +42,9 @@ et en fonctionnement: http://naming-game.bordeaux.inria.fr
 ### Projet 2 - DIY : Induction de rêves Lucides par flash lumineux
 
 **Projet présenté par :**  Emma CHABANI -  emma.chabani at gmail.com , Philippe Giraudeau (philippe at giraudeau.eu)
+
 **Mots-clés décrivant le projet :** Rêve Lucide, Casque d'induction de rêve lucide, Conscience, Sommeil, EEG
+
 **Domaine(s) concerné(s) :** Neurosciences, Sciences Cognitives, Imagerie mentale, Ingénieurie
 
 
@@ -56,7 +60,9 @@ Ce projet aura donc pour but de :
 ### Projet 3 - MoreWrong
 
 **Projet présenté par :** Basile Garcia - (basilegarcia at gmail.com) , Aurélien Nioche - ( nioche.aurelien at gmail.com)
+
 **Mots-clés décrivant le projet :** modélisation ; prise de décision ; rationalité ; théorie des jeux ; behavioral game theory ; tablettes ; économie expérimentale
+
 **Domaine(s) concerné(s) :** Théorie des jeux ; Économie comportementale et expérimentale
 
 La théorie des jeux s'attache à décrire les interactions entre individus évoluant dans le cadre d'un jeu. 
@@ -81,7 +87,9 @@ lecture complémentaires : https://en.wikipedia.org/wiki/Ultimatum_game ; http:/
 ### Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion.
 
 **Projet présenté par :** de Checchi Kévin - dechecchi.kevin@live.fr
+
 **Mots-clés décrivant le projet :** biais cognitif - discours - persuasion
+
 **Domaine(s) concerné(s) :** sciences cognitives, sciences du langage, sciences de l'éducation, sciences politiques
 
 L’une des facettes en Sciences Cognitives qui a le plus suscité d’intérêt concerne les limites des fonctions mentales et les biais liés à leur fonctionnement. Une application peu connue et pourtant lourde de conséquence est l’optimisation de discours persuasifs à l’aune de ces biais cognitifs. Il s’agit donc ici de s'intéresser à comment les sciences cognitives nous renseignent sur les discours qui « hack » notre cerveau. Ce projet visera à produire un contenu éducatif présentant les différents biais cognitifs permettant d’orienter la construction d’un discours afin optimiser sa fonction persuasive.
@@ -91,7 +99,9 @@ L’une des facettes en Sciences Cognitives qui a le plus suscité d’intérêt
 
 
 **Projet présenté par :** Jérémy Laviole - (laviole at rea.lity.tech) , Philippe Giraudeau (philippe at giraudeau.eu)
+
 **Mots-clés décrivant le projet :** Réalité augmentée, interface tangible, processing, réseaux de neuronnes, vision par ordinateur
+
 **Domaine(s) concerné(s) :** Vulgarisation sur machine learning
 
 L'objectif du projet est d'aboutir à un réseau de neurones capable de distinguer des classes d'images. 
@@ -113,7 +123,9 @@ Les compétences idéales d'une équipe:
 
 
 **Projet présenté par :** Yoan Mollard - (yoan at arbalet-project.org) Baptiste Busch, Sébastien Forestier, Bhargav teja Nallapu
+
 **Mots-clés décrivant le projet :**  machine learning, apprentissage, pixel art, tetris, retrogaming, arcade
+
 **Domaine(s) concerné(s) :**  machine learning, reinforcement learning, apprentissage
 
 Arbalet 127 est un mur pixelisé de 3m2 composé de 300 pixels colorés pilotables par ordinateur. Arbalet 127 est avant tout une oeuvre d'art, sur le thème du Pixel Art/Pop art, mais c'est également une oeuvre interactive qui permet de jouer à des jeux retro comme Tetris, Snake, Pong etc et qui est entièrement programmable en Python. Actuellement Arbalet 127 est en exposition au fablab de Cap Sciences, et les visiteurs peuvent se saisir de la manette pour jouer.
