@@ -4,16 +4,19 @@ title: Les projets du hackathon
 permalink: /projet_hackathon/
 ---
 
+<img src="/images/hackathon.png" width="315">
+
+
 ## En bref
-* [Naming Game](### Projet 1 - Le Naming Game: créons un langage en commun) 
-* [Induction de rêves Lucides par flash lumineux](### Projet 2 - DIY : Induction de rêves Lucides par flash lumineux)
-* [MoreWrong](### Projet 3 - MoreWrong)
-* [Conquérir par le langage : biais cognitif, discours, et persuasion.](### Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion.)
-* [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](### Projet 5 - Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles.)
-* [IA Tetris/Snake pour Arbalet 127](### Projet 6 - IA Tetris/Snake pour Arbalet 127)
+* [Naming Game](## Projet 1 - Le Naming Game: créons un langage en commun) 
+* [Induction de rêves Lucides par flash lumineux](## Projet 2 - DIY : Induction de rêves Lucides par flash lumineux)
+* [MoreWrong](## Projet 3 - MoreWrong)
+* [Conquérir par le langage : biais cognitif, discours, et persuasion.](## Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion.)
+* [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](## Projet 5 - Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles.)
+* [IA Tetris/Snake pour Arbalet 127](## Projet 6 - IA Tetris/Snake pour Arbalet 127)
 
 
-### Projet 1 - Le Naming Game: créons un langage en commun
+## Projet 1 - Le Naming Game: créons un langage en commun
 
 **Projet présenté par :** William Schueller - william.schueller at gmail.com
 
@@ -39,7 +42,7 @@ sources: http://github.com/wschuell/ng_userxp
 et en fonctionnement: http://naming-game.bordeaux.inria.fr
 
 
-### Projet 2 - DIY : Induction de rêves Lucides par flash lumineux
+## Projet 2 - DIY : Induction de rêves Lucides par flash lumineux
 
 **Projet présenté par :**  Emma CHABANI -  emma.chabani at gmail.com , Philippe Giraudeau (philippe at giraudeau.eu)
 
@@ -57,7 +60,7 @@ Ce projet aura donc pour but de :
 - Enregistrer le signal EEG d’une personne en train de rêver sans Dream Light et avec Dream Light.
 - Analyser les résultats et les confronter à la littérature.
 
-### Projet 3 - MoreWrong
+## Projet 3 - MoreWrong
 
 **Projet présenté par :** Basile Garcia - (basilegarcia at gmail.com) , Aurélien Nioche - ( nioche.aurelien at gmail.com)
 
@@ -84,7 +87,7 @@ Une aide pourra être apportée à l'ensemble des tâches intervenant dans la r�
 lecture complémentaires : https://en.wikipedia.org/wiki/Ultimatum_game ; http://sci-hub.io/10.1023/A:1009914001822
 
 
-### Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion.
+## Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion.
 
 **Projet présenté par :** de Checchi Kévin - dechecchi.kevin@live.fr
 
@@ -95,7 +98,7 @@ lecture complémentaires : https://en.wikipedia.org/wiki/Ultimatum_game ; http:/
 L’une des facettes en Sciences Cognitives qui a le plus suscité d’intérêt concerne les limites des fonctions mentales et les biais liés à leur fonctionnement. Une application peu connue et pourtant lourde de conséquence est l’optimisation de discours persuasifs à l’aune de ces biais cognitifs. Il s’agit donc ici de s'intéresser à comment les sciences cognitives nous renseignent sur les discours qui « hack » notre cerveau. Ce projet visera à produire un contenu éducatif présentant les différents biais cognitifs permettant d’orienter la construction d’un discours afin optimiser sa fonction persuasive.
 
 
-### Projet 5 - Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles.
+## Projet 5 - Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles.
 
 
 **Projet présenté par :** Jérémy Laviole - (laviole at rea.lity.tech) , Philippe Giraudeau (philippe at giraudeau.eu)
@@ -119,7 +122,7 @@ Les compétences idéales d'une équipe:
 - Vulgarisation, scénarisation.
 
 
-### Projet 6 - IA Tetris/Snake pour Arbalet 127
+## Projet 6 - IA Tetris/Snake pour Arbalet 127
 
 
 **Projet présenté par :** Yoan Mollard - (yoan at arbalet-project.org) Baptiste Busch, Sébastien Forestier, Bhargav teja Nallapu
@@ -134,4 +137,4 @@ Ce projet consiste à créer une IA qui joue elle-même à Tetris ou Snake lorsq
 
 L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des parties de Tetris jouées par l'ordinateur sans jamais perdre (partie infinie) et/ou un Snake qui parvient à remplir les 300 pixels sans se mordre la queue. Selon le nombre de participants l'équipe pourra soit choisir un des deux jeux, soit se scinder en deux sur Tetris et Snake pour creuser chaque jeu. Une IA triviale utilisant des champs de potentiel est déjà implémentée pour Snake mais elle perd très rapidement ; sur Tetris en revanche, toute l'IA est à faire.
 
-Lien vers une (ou plusieurs) page web https://github.com/fablab127/arbasdk/wiki
+**Lien vers une (ou plusieurs) page web :** [https://github.com/fablab127/arbasdk/wiki](https://github.com/fablab127/arbasdk/wiki)
