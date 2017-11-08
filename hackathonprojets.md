@@ -4,7 +4,7 @@ title: Les projets du hackathon
 permalink: /projet_hackathon/
 ---
 
-<img src="/images/hackathon.png">
+<img src="/images/hackathon.png" width="828">
 
 
 ## En bref
