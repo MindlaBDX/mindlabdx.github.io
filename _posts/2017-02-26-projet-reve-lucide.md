@@ -64,4 +64,5 @@ Stumbrys T., Erlacher D., Schredl M. (2016) Effectiveness of motor practice in l
 Stumbrys T., Erlacher D., Johnson M., Schredl M. (2014) The Phenomenology of Lucid Dreaming: An Online Survey. American Journal of Psychology. Summer 2014, Vol. 127, No. 2 pp. 191–204 • © 2014 by the Board of Trustees of the University of Illinois
 
 ## Reportages
+
 http://www.dailymotion.com/video/x19886r_le-mystere-des-reves-lucides-arte-02-01-2014_news
