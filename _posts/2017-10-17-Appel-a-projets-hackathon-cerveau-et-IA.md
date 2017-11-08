@@ -7,8 +7,7 @@ permalink: /hack1cerveau/
 
 # --- le hackathon sur le Cerveau et l'IA ---
 
-<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
-<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
+<img src="/images/hackathon.png" width="828">
 
 ## En bref
 * [Qui ?](#qui) les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
