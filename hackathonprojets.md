@@ -5,8 +5,12 @@ permalink: /projet_hackathon/
 ---
 
 ## En bref
-* [Naming Game](### Le Naming Game: créons un langage en commun) 
-* 
+* [Naming Game](### Projet 1 - Le Naming Game: créons un langage en commun) 
+* [Induction de rêves Lucides par flash lumineux](### Projet 2 - DIY : Induction de rêves Lucides par flash lumineux)
+* [MoreWrong](### Projet 3 - MoreWrong)
+* [Conquérir par le langage : biais cognitif, discours, et persuasion.](### Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion.)
+* [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](### Projet 5 - Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles.)
+* [IA Tetris/Snake pour Arbalet 127](### Projet 6 - IA Tetris/Snake pour Arbalet 127)
 
 
 ### Projet 1 - Le Naming Game: créons un langage en commun
