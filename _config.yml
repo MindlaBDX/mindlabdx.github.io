@@ -24,7 +24,7 @@ github_username:  "mindlabdx"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal
 gems:
   - jekyll-feed
   - jemoji
