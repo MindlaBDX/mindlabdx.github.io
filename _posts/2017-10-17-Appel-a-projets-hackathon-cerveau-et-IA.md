@@ -18,7 +18,8 @@ permalink: /hack1cerveau/
 * [Quoi ?](#quoi) un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) par équipes autour d'un projet proposé par un-e expert-e.
 * [Pour qui?](#pour_qui) pour toutes et tous de 15 ans à 115 ans !
-* [Appel à projets](#AAP) : expert-e-s en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet : __l'appel à projets ouvert jusqu'au 1er novembre__ !
+* [Appel à projets](#AAP) : expert-e-s en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet.
+* [Projets proposés](#projets) : découvrez les projets qui vous attendent !
 * [Pourquoi ?](#pourquoi) pour se rencontrer, créer, imaginer, réaliser ...
 * [Participez !](#participez) vous voulez participer au hackathon ?
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
@@ -30,7 +31,7 @@ permalink: /hack1cerveau/
 ## Qui ?  <a name="qui"></a>
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
 
-<img src="/images/LOGO_banniere_Mindlabdx.png"  width="350">
+<img src="/images/LOGO_banniere_Mindlabdx.png"  width="400">
 <img src="/images/LOGO_Ascoergo_small.png"  width="350">
 
 
@@ -99,12 +100,14 @@ Personne qui est suffisamment familière avec le domaine du sujet qu'il propose.
 #### Déposez un projet
 Date limite : 1er novembre
 
-Comment faire pour proposer un projet ? Rien de plus simple : remplissez [ce formulaire](https://framaforms.org/appel-a-projets-pour-hack1-cerveau-1508447544).
+**L'appel à projet est terminé.**
 
-Nous sommes sûr que vous allez déborder d'idées pour trouver des projets ... juste au cas où les idées ont du mal à s'enclencher, vous pouvez aller faire un tour sur ces pages pour trouver de l'inspiration :
-* [github.com/ohbm/hackathon2017](https://github.com/ohbm/hackathon2017/wiki)
-* [brainhack.org](http://www.brainhack.org)
-* [kaggle.com](https://www.kaggle.com)
+[//]: # (Comment faire pour proposer un projet ? Rien de plus simple : remplissez [ce formulaire](https://framaforms.org/appel-a-projets-pour-hack1-cerveau-1508447544).)
+
+[//]: # (Nous sommes sûr que vous allez déborder d'idées pour trouver des projets ... juste au cas où les idées ont du mal à s'enclencher, vous pouvez aller faire un tour sur ces pages pour trouver de l'inspiration :)
+[//]: # (* [github.com/ohbm/hackathon2017](https://github.com/ohbm/hackathon2017/wiki) )
+[//]: # (* [brainhack.org](http://www.brainhack.org) )
+[//]: # (* [kaggle.com](https://www.kaggle.com) )
 
 
 [//]: # (Informations sur le formulaire :)
@@ -122,6 +125,9 @@ Nous sommes sûr que vous allez déborder d'idées pour trouver des projets ... 
 [//]: # (  - (optionnel) page(s) web en lien avec le projet)
 
 Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {arobase} inria[point]fr
+
+## Projets proposés <a name="projets"></a>
+[Cliquez ici](/hackathonprojets.md) pour découvrir les projets qui vous attendent !
 
 ## Pourquoi ?  <a name="pourquoi"></a>
 #### Les objectifs
