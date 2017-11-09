@@ -158,11 +158,12 @@ L'idée est de profiter un maximum des ressources et machines du 127° (le fabla
 Juste un exemple parmi des millions sur ce qui pourra être fait : [une lampe en plexiglas](https://fablab.lacasemate.fr/?_escaped_fragment_=/projects/lampe-plexiglas-pilotable-en-wifi#!/projects/lampe-plexiglas-pilotable-en-wifi) avec une image d'image IRM\* gravée dessus. En mettant différentes "tranches" d'IRM et en mettant ces lampes les unes à côté des autres, on pourra donner l'impression d'avoir un cerveau complet illuminé !
 \*IRM : Imagerie par Résonance Magnétique
 
-<center><img src="https://fablab.lacasemate.fr/uploads/project_image/1598/project_image.jpg" width="400"></center>
+<center><img src="https://fablab.lacasemate.fr/uploads/project_image/1598/project_image.jpg" width="300"></center>
 
-
+<BR>
 Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [examples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
 
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
 
-[--- Revenir à la page principale du hackaton ---](/hack1cerveau/)
+<BR><BR>
+[**--- Revenir à la page principale du hackaton ---**](/hack1cerveau/)
