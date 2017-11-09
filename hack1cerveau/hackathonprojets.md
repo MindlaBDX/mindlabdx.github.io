@@ -155,11 +155,7 @@ L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des 
 
 L'idée est de profiter un maximum des ressources et machines du 127° (le fablab de Cap Sciences) afin de créer des objets artistiques autour du cerveau ; lampes, supports, badges, logos ou autres idées incongrues.
 
-Voici un exemple parmi des millions de ce qui pourra être fait : [une lampe en plexiglas](https://fablab.lacasemate.fr/?_escaped_fragment_=/projects/lampe-plexiglas-pilotable-en-wifi#!/projects/lampe-plexiglas-pilotable-en-wifi) avec une image d'image IRM\* gravée dessus. Par la superposition de différentes "tranches" d'IRM et en ajoutant ces lampes les unes à côté des autres, on pourra donner l'impression d'avoir un cerveau complet illuminé !
 
-\*IRM : Imagerie par Résonance Magnétique
-
-<center><img src="https://fablab.lacasemate.fr/uploads/project_image/1598/project_image.jpg" height="300"><img src="/images/CC0_creative_common_from_pixabay/mri-782459_1280.jpg" height="300"></center>
 
 <BR>
 Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exemples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
