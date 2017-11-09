@@ -18,8 +18,9 @@ permalink: /projet_hackathon/
 * [Naming Game](#projet6)
 * [Arts & Sciences 4 your Brain](#projet7)
 
-## <a name="projet1"></a> Projet 1 - IA Tetris/Snake pour Arbalet 127
+[Revenir à la page principale du hackaton](/hack1cerveau/)
 
+## <a name="projet1"></a> Projet 1 - IA Tetris/Snake pour Arbalet 127
 
 **Projet présenté par :** Yoan Mollard - (yoan at arbalet-project.org) Baptiste Busch, Sébastien Forestier, Bhargav teja Nallapu
 
@@ -171,9 +172,3 @@ Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exem
 
 <BR>
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
-
-<BR><BR>
-
-## Backspace
-
-[Revenir à la page principale du hackaton](/hack1cerveau/)
