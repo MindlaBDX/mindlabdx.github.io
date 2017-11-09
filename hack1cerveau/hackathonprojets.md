@@ -86,7 +86,7 @@ Enfin il faudra être capable de monter un protocole expérimental.
 
 Une aide pourra être apportée à l'ensemble des tâches intervenant dans la réalisation du projet.
 
-lecture complémentaires : https://en.wikipedia.org/wiki/Ultimatum_game ; http://sci-hub.io/10.1023/A:1009914001822
+**Lien web :** [wikipedia Ultimatum_game](https://en.wikipedia.org/wiki/Ultimatum_game) ; [Bornstein-Yaniv1998](http://ratio.huji.ac.il/sites/default/files/publications/dp154.pdf)
 
 
 ## <a name="projet4"></a> Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion.
