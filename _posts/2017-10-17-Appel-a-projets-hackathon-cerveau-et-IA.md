@@ -88,7 +88,7 @@ Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qu
 - etc.
 
 ## Projets proposés <a name="projets"></a>
-[Cliquez ici](projet_hackathon/) pour découvrir les projets qui vous attendent !
+[Cliquez ici](/hack1cerveau/projet_hackathon/) pour découvrir les projets qui vous attendent !
 
 ## Appel à projets <a name="AAP"></a>
 Vous êtes un "expert-e" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ?
