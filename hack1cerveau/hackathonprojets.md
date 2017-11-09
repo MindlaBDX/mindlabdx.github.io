@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Les projets du hackathon
-permalink: /projet_hackathon/
+permalink: /hack1cerveau/projet_hackathon/
 ---
 
 <img src="/images/hackathon.png" width="828">
 
 
 ## En bref
-* [Naming Game](#projet1) 
+* [Naming Game](#projet1)
 * [Induction de rêves Lucides par flash lumineux](#projet2)
 * [MoreWrong](#projet3)
 * [Conquérir par le langage : biais cognitif, discours, et persuasion.](#projet4)
@@ -33,12 +33,12 @@ De précédentes expériences de sémiotique expérimentale -- faisant interagir
 Comment effectuer une expérience à grande échelle avec interactions réitérées entre des utilisateurs humains, sans que l'absence prolongée ou l'abandon individuel n'influent sur les autres utilisateurs?
 
 Ce projet a plusieurs axes:
-- implémenter sous forme d'application web/mobile une solution à cette problématique, en passant par des agents simulés 'partagés' entre utilisateurs. 
+- implémenter sous forme d'application web/mobile une solution à cette problématique, en passant par des agents simulés 'partagés' entre utilisateurs.
 - implémenter la possibilité d'explorer toujours plus d'objets/concepts sur lesquels se mettre d'accord, et possibilité d'inventer des mots ou symboles de manière combinatoire.
 - rendre l'implémentation attractive et ludique. Design graphique, mais aussi possibilité de transférer le feedback et l'interaction à une petite figurine imprimée en 3D, dont le visage est animé.
 
 Une implémentation du jeu sous forme d'application web existe déjà (pour un utilisateur unique), et l'idée est de l'utiliser pour ne pas repartir de zéro.
-sources: http://github.com/wschuell/ng_userxp 
+sources: http://github.com/wschuell/ng_userxp
 et en fonctionnement: http://naming-game.bordeaux.inria.fr
 
 
@@ -68,17 +68,17 @@ Ce projet aura donc pour but de :
 
 **Domaine(s) concerné(s) :** Théorie des jeux ; Économie comportementale et expérimentale
 
-La théorie des jeux s'attache à décrire les interactions entre individus évoluant dans le cadre d'un jeu. 
-Afin de maximiser leurs gains potentiels, ces derniers sont amenés à établir des stratégies. La rationalité présumée des joueurs 
+La théorie des jeux s'attache à décrire les interactions entre individus évoluant dans le cadre d'un jeu.
+Afin de maximiser leurs gains potentiels, ces derniers sont amenés à établir des stratégies. La rationalité présumée des joueurs
 est garante de l'optimalité de leurs décisions.
 Ce type de joueur rationnel est couramment désigné sous l'expression d'Homo œconomicus.
 
-Or, lorsque des humains prennent part à ces jeux, il est fréquent d'observer des divergences 
+Or, lorsque des humains prennent part à ces jeux, il est fréquent d'observer des divergences
 entre les résultats obtenus et les issues prédites par la théorie.
 
 Les participants à ce projet devront répliquer les résultats de sujets humains intervenant dans un jeu de type "ultimatum", en testant l'hypothèse selon laquelle les groupes font des choix davantage rationnels que l'individu dans les situations occasionnées par ce jeu (cf article en lien).
 
-Afin de réaliser l'expérimentation, il sera nécessaire de programmer un jeu multijoueur sur la base d'une architecture client/serveur. Les joueurs constitueront les clients et seront munis de tablettes, tandis que le serveur (un PC) s'occupera de gérer les flux d'informations entre les différents périphériques. 
+Afin de réaliser l'expérimentation, il sera nécessaire de programmer un jeu multijoueur sur la base d'une architecture client/serveur. Les joueurs constitueront les clients et seront munis de tablettes, tandis que le serveur (un PC) s'occupera de gérer les flux d'informations entre les différents périphériques.
 Des notions de réseau seront donc requises, ainsi que de programmation : Java/Unity pour les tablettes + un quelconque langage disposant d'une libraire permettant l'envoi et la réception de requêtes sur un réseau local (python par exemple).
 Enfin il faudra être capable de monter un protocole expérimental.
 
@@ -112,18 +112,18 @@ Plus particulièrement, le projet propose de s’organiser autour de plusieurs 
 
 **Domaine(s) concerné(s) :** Vulgarisation sur machine learning
 
-L'objectif du projet est d'aboutir à un réseau de neurones capable de distinguer des classes d'images. 
-Ce projet suis un principe de design appelé «tangible bits». C'est à dire que l'essentiel des éléments du système est incarné dans des objets. Ainsi nous proposons de créer lors du Hackathon: 
-- Des classes d'images comme base de l'apprentissage. Ces images seront dessinées physiquement sur les petites cartes. 
-- Des réseaux de neurones où chaque neurone est incarné par un petit objet coloré. 
+L'objectif du projet est d'aboutir à un réseau de neurones capable de distinguer des classes d'images.
+Ce projet suis un principe de design appelé «tangible bits». C'est à dire que l'essentiel des éléments du système est incarné dans des objets. Ainsi nous proposons de créer lors du Hackathon:
+- Des classes d'images comme base de l'apprentissage. Ces images seront dessinées physiquement sur les petites cartes.
+- Des réseaux de neurones où chaque neurone est incarné par un petit objet coloré.
 
 Ça serait très intéressant de partir d'une vidéo d'introduction ou d'exemples interactifs très simple pour créer des réseaux qui distinguent des formes très simples. Le but est trouver les limites de chaque réseau, et imaginer ce que pourrait être des réseaux complexes et puissants.
 
-Les compétences idéales d'une équipe: 
-- Développement logiciel: Java / Processing / Ruby. (expertise Jérémy). 
-- Notions de base sur le perceptron multi-couche. (expertise Philippe). 
+Les compétences idéales d'une équipe:
+- Développement logiciel: Java / Processing / Ruby. (expertise Jérémy).
+- Notions de base sur le perceptron multi-couche. (expertise Philippe).
 - Expérience utilisateur, création d'interfaces, UX design.
-- Design 2D + découpe Laser + peinture. 
+- Design 2D + découpe Laser + peinture.
 - Vulgarisation, scénarisation.
 
 

@@ -91,6 +91,8 @@ Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qu
 [Cliquez ici](/hack1cerveau/projet_hackathon/) pour découvrir les projets qui vous attendent !
 
 ## Appel à projets <a name="AAP"></a>
+**L'appel à projet est terminé.**
+
 Vous êtes un "expert-e" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ?
 
 Nous faisons un appel aux expert-e-s dans les domaines des neurosciences, des sciences cognitives, de l'apprentissage machine, vulgarisation, etc. afin qu’ils proposent des projets innovants qui soient « réalisables en un week-end intensif » tout en restant ambitieux bien sûr. C’est pour cela que __nous avons besoin de vous__ qui êtes expert-e d’un ou plusieurs de ces domaines.
