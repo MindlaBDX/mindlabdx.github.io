@@ -7,7 +7,7 @@ permalink: /hack1cerveau/
 
 # --- le hackathon sur le Cerveau et l'IA ---
 
-<img src="/images/hackathon.png" width="828">
+<img src="/images/bandeau_hack1cerveau_avec_dates-lieu_sans_autres_logos.png" width="828">
 
 ## En bref
 * [Qui ?](#qui) les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
@@ -30,6 +30,10 @@ permalink: /hack1cerveau/
 
 ## Qui ?  <a name="qui"></a>
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
+
+<img src="/images/LOGO_banniere_Mindlabdx.png">
+<img src="/images/LOGO_Ascoergo_small.png">
+
 
 ## Quand ?  <a name="quand"></a>
 Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi de 9h à 21h et dimanche de 9h30 à 18h.
@@ -164,7 +168,7 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
-<center><img src="/images/LOGO_cap_sciences_en_largeur.png" align="middle" width="650"></center>
+<center><img src="/images/LOGO_cap_sciences_en_largeur.png" align="middle" width="500"></center>
 
 - [Inria](https://www.inria.fr/centre/bordeaux)
 <br>
