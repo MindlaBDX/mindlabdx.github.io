@@ -16,7 +16,7 @@ permalink: /projet_hackathon/
 * [Conquérir par le langage : biais cognitif, discours, et persuasion.](#projet4)
 * [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](#projet5)
 * [IA Tetris/Snake pour Arbalet 127](#projet6)
-[//]: # (* [Art & Sciences (projet bonus)](#projet7) )
+* [Art & Sciences (projet bonus)](#projet7)
 
 ## <a name="projet1"></a> Projet 1 - Le Naming Game: créons un langage en commun
 
