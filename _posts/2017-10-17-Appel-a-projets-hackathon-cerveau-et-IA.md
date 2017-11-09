@@ -25,6 +25,9 @@ permalink: /hack1cerveau/
 * [Aidez](#aidez) : vous voulez nous donner un coup de main ?
 * [Partagez !](#partagez) parlez-en autour de vous !
 
+<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
+<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
+
 ## Qui ?  <a name="qui"></a>
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
 
@@ -161,7 +164,7 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
-<center><img src="/images/from_website/capsciences_maxresdefault.jpg" align="middle" width="650"></center>
+<center><img src="/images/LOGO_cap_sciences_en_largeur.png" align="middle" width="650"></center>
 
 - [Inria](https://www.inria.fr/centre/bordeaux)
 <br>
