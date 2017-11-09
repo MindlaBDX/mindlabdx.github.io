@@ -40,8 +40,10 @@ Ce projet a plusieurs axes:
 - rendre l'implémentation attractive et ludique. Design graphique, mais aussi possibilité de transférer le feedback et l'interaction à une petite figurine imprimée en 3D, dont le visage est animé.
 
 Une implémentation du jeu sous forme d'application web existe déjà (pour un utilisateur unique), et l'idée est de l'utiliser pour ne pas repartir de zéro.
-sources: http://github.com/wschuell/ng_userxp
-et en fonctionnement: http://naming-game.bordeaux.inria.fr
+
+**Liens web :**
+- sources : http://github.com/wschuell/ng_userxp
+- exemple de fonctionnement : http://naming-game.bordeaux.inria.fr
 
 
 ## <a name="projet2"></a> Projet 2 - DIY : Induction de rêves Lucides par flash lumineux
@@ -64,7 +66,7 @@ Ce projet aura donc pour but de :
 
 ## <a name="projet3"></a> Projet 3 - MoreWrong
 
-**Projet présenté par :** Basile Garcia - (basilegarcia at gmail.com) , Aurélien Nioche - ( nioche.aurelien at gmail.com)
+**Projet présenté par :** Basile Garcia - (basilegarcia at gmail.com) , Aurélien Nioche - (nioche.aurelien at gmail.com)
 
 **Mots-clés décrivant le projet :** modélisation ; prise de décision ; rationalité ; théorie des jeux ; behavioral game theory ; tablettes ; économie expérimentale
 
@@ -86,12 +88,12 @@ Enfin il faudra être capable de monter un protocole expérimental.
 
 Une aide pourra être apportée à l'ensemble des tâches intervenant dans la réalisation du projet.
 
-**Lien web :** [wikipedia Ultimatum_game](https://en.wikipedia.org/wiki/Ultimatum_game) ; [Bornstein-Yaniv1998](http://ratio.huji.ac.il/sites/default/files/publications/dp154.pdf)
+**Liens web :** [wikipedia Ultimatum_game](https://en.wikipedia.org/wiki/Ultimatum_game) ; [Bornstein-Yaniv1998](http://ratio.huji.ac.il/sites/default/files/publications/dp154.pdf)
 
 
 ## <a name="projet4"></a> Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion.
 
-**Projet présenté par :** de Checchi Kévin - dechecchi.kevin@live.fr
+**Projet présenté par :** de Checchi Kévin - dechecchi.kevin (at) live.fr
 
 **Mots-clés décrivant le projet :** biais cognitif - discours - persuasion
 
@@ -148,7 +150,7 @@ L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des 
 **Lien web :** [https://github.com/fablab127/arbasdk/wiki](https://github.com/fablab127/arbasdk/wiki)
 
 ## <a name="projet7"></a> Projet 7 - Arts & Sciences 4 your Brain (projet bonus)
-**Projet présenté par :** Xavier Hinaut - (xavier.hinaut [at] inria [point] fr)
+**Projet présenté par :** Xavier Hinaut - (xavier.hinaut (at) inria (point) fr)
 
 **Mots-clés décrivant le projet :** art, fablab, découpeuse laser, découpeuse vinyle, imprimante 3D, IRM, images scientifiques, carte gpio, émetteur d'ondes radios, prises chacons, carte type raspberry
 
@@ -156,7 +158,11 @@ L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des 
 
 L'idée est de profiter un maximum des ressources et machines du 127° (le fablab de Cap Sciences) afin de créer des objets artistiques autour du cerveau ; lampes, supports, badges, logos ou autres idées incongrues.
 
+Voici un exemple parmi des millions de ce qui pourra être fait : [une lampe en plexiglas](https://fablab.lacasemate.fr/?_escaped_fragment_=/projects/lampe-plexiglas-pilotable-en-wifi#!/projects/lampe-plexiglas-pilotable-en-wifi) avec une image d'image IRM\* gravée dessus. Par la superposition de différentes "tranches" d'IRM et en ajoutant ces lampes les unes à côté des autres, on pourra donner l'impression d'avoir un cerveau complet illuminé !
 
+\*IRM : Imagerie par Résonance Magnétique
+
+<center><img src="https://fablab.lacasemate.fr/uploads/project_image/1598/project_image.jpg" height="300"><img src="/images/CC0_creative_common_from_pixabay/mri-782459_1280.jpg" height="300"></center>
 
 <BR>
 Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exemples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
