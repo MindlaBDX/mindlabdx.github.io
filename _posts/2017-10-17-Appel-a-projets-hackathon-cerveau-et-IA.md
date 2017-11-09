@@ -31,8 +31,8 @@ permalink: /hack1cerveau/
 ## Qui ?  <a name="qui"></a>
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
 
-<img src="/images/LOGO_banniere_Mindlabdx.png"  width="400">
-<img src="/images/LOGO_Ascoergo_small.png"  width="350">
+<img src="/images/LOGO_banniere_Mindlabdx.png"  width="420">
+<img src="/images/LOGO_Ascoergo_small.png"  width="280">
 
 
 ## Quand ?  <a name="quand"></a>
@@ -87,6 +87,9 @@ Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qu
   - informatique / apprentissage machine / analyse de données / robotique / ...
 - etc.
 
+## Projets proposés <a name="projets"></a>
+[Cliquez ici](projet_hackathon/) pour découvrir les projets qui vous attendent !
+
 ## Appel à projets <a name="AAP"></a>
 Vous êtes un "expert-e" de votre domaine ? Vous avez une idée de projet à proposer pour ce Hackathon ?
 
@@ -125,9 +128,6 @@ Date limite : 1er novembre
 [//]: # (  - (optionnel) page(s) web en lien avec le projet)
 
 Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {arobase} inria[point]fr
-
-## Projets proposés <a name="projets"></a>
-[Cliquez ici](/hackathonprojets.md) pour découvrir les projets qui vous attendent !
 
 ## Pourquoi ?  <a name="pourquoi"></a>
 #### Les objectifs
