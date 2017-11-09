@@ -16,7 +16,7 @@ permalink: /projet_hackathon/
 * [Conquérir par le langage : biais cognitif, discours, et persuasion.](#projet4)
 * [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](#projet5)
 * [IA Tetris/Snake pour Arbalet 127](#projet6)
-
+[//]: # (* [Art & Sciences (projet bonus)](#projet7) )
 
 ## <a name="projet1"></a> Projet 1 - Le Naming Game: créons un langage en commun
 
@@ -145,3 +145,23 @@ Ce projet consiste à créer une IA qui joue elle-même à Tetris ou Snake lorsq
 L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des parties de Tetris jouées par l'ordinateur sans jamais perdre (partie infinie) et/ou un Snake qui parvient à remplir les 300 pixels sans se mordre la queue. Selon le nombre de participants l'équipe pourra soit choisir un des deux jeux, soit se scinder en deux sur Tetris et Snake pour creuser chaque jeu. Une IA triviale utilisant des champs de potentiel est déjà implémentée pour Snake mais elle perd très rapidement ; sur Tetris en revanche, toute l'IA est à faire.
 
 **Lien vers une (ou plusieurs) page web :** [https://github.com/fablab127/arbasdk/wiki](https://github.com/fablab127/arbasdk/wiki)
+
+## <a name="projet7"></a> Projet 7 - Art & Sciences for your brain (projet bonus)
+**Projet présenté par :** Xavier Hinaut - (xavier.hinaut [at] inria [point] fr)
+
+**Mots-clés décrivant le projet :** art, fablab, découpeuse laser, découpeuse vinyle, imprimante 3D, IRM, images scientifiques
+
+**Domaine(s) concerné(s) :** art, matériel fablab, graphisme, neurosciences,
+
+L'idée est de profiter un maximum des ressources et machines du 127° (le fablab de Cap Sciences) afin de créer des objets artistiques autour du cerveau ! Comme par exemple des lampes, supports, badges, logos, etc.
+
+Juste un exemple parmi des millions sur ce qui pourra être fait : [une lampe en plexiglas](https://fablab.lacasemate.fr/?_escaped_fragment_=/projects/lampe-plexiglas-pilotable-en-wifi#!/projects/lampe-plexiglas-pilotable-en-wifi) avec une image d'image IRM\* gravée dessus. En mettant différentes "tranches" d'IRM et en mettant ces lampes les unes à côté des autres, on pourra donner l'impression d'avoir un cerveau complet illuminé !
+\*IRM : Imagerie par Résonance Magnétique
+
+<center><img src="https://fablab.lacasemate.fr/uploads/project_image/1598/project_image.jpg" width="400"></center>
+
+Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [examples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
+
+N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
+
+<center>**--- [Revenir à la page principale du hackaton](/hack1cerveau/) ---**</center>
