@@ -160,8 +160,10 @@ Juste un exemple parmi des millions sur ce qui pourra être fait : [une lampe en
 
 <center><img src="https://fablab.lacasemate.fr/uploads/project_image/1598/project_image.jpg" width="400"></center>
 
+<BR>
 Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [examples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
 
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
 
-<center>**--- [Revenir à la page principale du hackaton](/hack1cerveau/) ---**</center>
+<BR><BR>
+<center>[**--- Revenir à la page principale du hackaton ---**](/hack1cerveau/)</center>
