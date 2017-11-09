@@ -36,7 +36,7 @@ L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des 
 **Lien web :** [https://github.com/fablab127/arbasdk/wiki](https://github.com/fablab127/arbasdk/wiki)
 
 
-## <a name="projet5"></a> Projet 5 - Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles.
+## <a name="projet2"></a> Projet 2 - Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles.
 
 
 **Projet présenté par :** Jérémy Laviole - (laviole at rea.lity.tech) , Philippe Giraudeau (philippe at giraudeau.eu)
