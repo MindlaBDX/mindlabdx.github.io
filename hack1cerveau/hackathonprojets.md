@@ -159,8 +159,7 @@ Voici un exemple parmi des millions de ce qui pourra être fait : [une lampe en 
 
 \*IRM : Imagerie par Résonance Magnétique
 
-<center><img src="https://fablab.lacasemate.fr/uploads/project_image/1598/project_image.jpg" width="300"></center>
-
+<center><img src="https://fablab.lacasemate.fr/uploads/project_image/1598/project_image.jpg" width="300"><img src="/images/CC0_creative_common_from_pixabay/mri-782459_1280.jpg" width="300"></center>
 
 <BR>
 Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exemples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
@@ -170,6 +169,5 @@ Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exem
 <BR>
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
 
-<BR><BR>
 
 [--- Revenir à la page principale du hackaton ---](/hack1cerveau/)
