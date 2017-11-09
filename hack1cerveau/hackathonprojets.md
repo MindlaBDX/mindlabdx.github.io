@@ -4,8 +4,9 @@ title: Les projets du hackathon
 permalink: /hack1cerveau/projet_hackathon/
 ---
 
-<img src="/images/hackathon.png" width="828">
-
+<img src="/images/bandeau_hack1cerveau_avec_dates-lieu_sans_autres_logos.png" width="828">
+<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
+<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
 
 ## En bref
 * [Naming Game](#projet1)
@@ -16,7 +17,7 @@ permalink: /hack1cerveau/projet_hackathon/
 * [IA Tetris/Snake pour Arbalet 127](#projet6)
 
 
-## Projet 1 - Le Naming Game: créons un langage en commun <a name="projet1"></a>
+## <a name="projet1"></a> Projet 1 - Le Naming Game: créons un langage en commun
 
 **Projet présenté par :** William Schueller - william.schueller at gmail.com
 
@@ -42,7 +43,7 @@ sources: http://github.com/wschuell/ng_userxp
 et en fonctionnement: http://naming-game.bordeaux.inria.fr
 
 
-## Projet 2 - DIY : Induction de rêves Lucides par flash lumineux <a name="projet2"></a>
+## <a name="projet2"></a> Projet 2 - DIY : Induction de rêves Lucides par flash lumineux
 
 **Projet présenté par :**  Emma CHABANI -  emma.chabani at gmail.com , Philippe Giraudeau (philippe at giraudeau.eu)
 
@@ -60,7 +61,7 @@ Ce projet aura donc pour but de :
 - Enregistrer le signal EEG d’une personne en train de rêver sans Dream Light et avec Dream Light.
 - Analyser les résultats et les confronter à la littérature.
 
-## Projet 3 - MoreWrong <a name="projet3"></a>
+## <a name="projet3"></a> Projet 3 - MoreWrong
 
 **Projet présenté par :** Basile Garcia - (basilegarcia at gmail.com) , Aurélien Nioche - ( nioche.aurelien at gmail.com)
 
@@ -87,7 +88,7 @@ Une aide pourra être apportée à l'ensemble des tâches intervenant dans la r�
 lecture complémentaires : https://en.wikipedia.org/wiki/Ultimatum_game ; http://sci-hub.io/10.1023/A:1009914001822
 
 
-## Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion. <a name="projet4"></a>
+## <a name="projet4"></a> Projet 4 - Conquérir par le langage : biais cognitif, discours, et persuasion.
 
 **Projet présenté par :** de Checchi Kévin - dechecchi.kevin@live.fr
 
@@ -103,7 +104,7 @@ Plus particulièrement, le projet propose de s’organiser autour de plusieurs 
 - La construction d’un discours persuasif réinvestissant au maximum les biais cognitifs sélectionnés. Il est conseillé de se pencher sur un discours traitant d’un sujet non consensuel et abordant un point de vue non majoritaire. Il peut reprendre un discours déjà existant et étant considéré par l’opinion public comme non persuasive.
 - Le discours pourra être filmé. Un travail de montage vidéo permettra de faire apparaitre les différents biais cognitifs au moment de leur intervention dans le discours. Enfin, il peut être intéressant de mettre en comparaison le discours d’origine et celui produit par l’équipe de travail.
 
-## Projet 5 - Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles. <a name="projet5"></a>
+## <a name="projet5"></a> Projet 5 - Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles.
 
 
 **Projet présenté par :** Jérémy Laviole - (laviole at rea.lity.tech) , Philippe Giraudeau (philippe at giraudeau.eu)
@@ -127,7 +128,7 @@ Les compétences idéales d'une équipe:
 - Vulgarisation, scénarisation.
 
 
-## Projet 6 - IA Tetris/Snake pour Arbalet 127 <a name="projet6"></a>
+## <a name="projet6"></a> Projet 6 - IA Tetris/Snake pour Arbalet 127
 
 
 **Projet présenté par :** Yoan Mollard - (yoan at arbalet-project.org) Baptiste Busch, Sébastien Forestier, Bhargav teja Nallapu
