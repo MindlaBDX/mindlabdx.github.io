@@ -176,4 +176,4 @@ N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
 
 ## Backspace
 
-[--- Revenir à la page principale du hackaton ---](/hack1cerveau/)
+[Revenir à la page principale du hackaton](/hack1cerveau/)
