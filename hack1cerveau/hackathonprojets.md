@@ -149,13 +149,13 @@ L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des 
 ## <a name="projet7"></a> Projet 7 - Arts & Sciences 4 your Brain (projet bonus)
 **Projet présenté par :** Xavier Hinaut - (xavier.hinaut [at] inria [point] fr)
 
-**Mots-clés décrivant le projet :** art, fablab, découpeuse laser, découpeuse vinyle, imprimante 3D, IRM, images scientifiques
+**Mots-clés décrivant le projet :** art, fablab, découpeuse laser, découpeuse vinyle, imprimante 3D, IRM, images scientifiques, carte gpio, émetteur d'ondes radios, prises chacons, carte type raspberry
 
 **Domaine(s) concerné(s) :** art, matériel fablab, graphisme, neurosciences,
 
-L'idée est de profiter un maximum des ressources et machines du 127° (le fablab de Cap Sciences) afin de créer des objets artistiques autour du cerveau ! Comme par exemple des lampes, supports, badges, logos, etc.
+L'idée est de profiter un maximum des ressources et machines du 127° (le fablab de Cap Sciences) afin de créer des objets artistiques autour du cerveau ; lampes, supports, badges, logos ou autres idées incongrues.
 
-Juste un exemple parmi des millions sur ce qui pourra être fait : [une lampe en plexiglas](https://fablab.lacasemate.fr/?_escaped_fragment_=/projects/lampe-plexiglas-pilotable-en-wifi#!/projects/lampe-plexiglas-pilotable-en-wifi) avec une image d'image IRM\* gravée dessus. En mettant différentes "tranches" d'IRM et en mettant ces lampes les unes à côté des autres, on pourra donner l'impression d'avoir un cerveau complet illuminé !
+Voici un exemple parmi des millions de ce qui pourra être fait : [une lampe en plexiglas](https://fablab.lacasemate.fr/?_escaped_fragment_=/projects/lampe-plexiglas-pilotable-en-wifi#!/projects/lampe-plexiglas-pilotable-en-wifi) avec une image d'image IRM\* gravée dessus. Par la superposition de différentes "tranches" d'IRM et en ajoutant ces lampes les unes à côté des autres, on pourra donner l'impression d'avoir un cerveau complet illuminé !
 
 \*IRM : Imagerie par Résonance Magnétique
 
