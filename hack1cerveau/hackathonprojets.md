@@ -16,7 +16,7 @@ permalink: /projet_hackathon/
 * [Conquérir par le langage : biais cognitif, discours, et persuasion.](#projet4)
 * [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](#projet5)
 * [IA Tetris/Snake pour Arbalet 127](#projet6)
-* [Art & Sciences (projet bonus)](#projet7)
+* [Arts & Sciences 4 your Brain](#projet7)
 
 ## <a name="projet1"></a> Projet 1 - Le Naming Game: créons un langage en commun
 
@@ -146,7 +146,7 @@ L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des 
 
 **Lien vers une (ou plusieurs) page web :** [https://github.com/fablab127/arbasdk/wiki](https://github.com/fablab127/arbasdk/wiki)
 
-## <a name="projet7"></a> Projet 7 - Art & Sciences for your brain (projet bonus)
+## <a name="projet7"></a> Projet 7 - Arts & Sciences 4 your Brain (projet bonus)
 **Projet présenté par :** Xavier Hinaut - (xavier.hinaut [at] inria [point] fr)
 
 **Mots-clés décrivant le projet :** art, fablab, découpeuse laser, découpeuse vinyle, imprimante 3D, IRM, images scientifiques
