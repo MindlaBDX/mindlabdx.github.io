@@ -166,6 +166,7 @@ Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exem
 
 <center><img src="https://fablab.lesusinesnouvelles.com/uploads/project_image/567/project_image.jpg" width="300"><center>
 
+<BR>
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
 
 <BR><BR>
