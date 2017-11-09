@@ -171,4 +171,4 @@ Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exem
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
 
 <BR><BR>
-[--- Revenir à la page principale du hackaton ---](/hack1cerveau/){: style="color:gray; font-size: 80%; text-align: center;"}
+[--- Revenir à la page principale du hackaton ---](/hack1cerveau/)
