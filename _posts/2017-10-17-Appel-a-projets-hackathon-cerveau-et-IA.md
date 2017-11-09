@@ -8,6 +8,8 @@ permalink: /hack1cerveau/
 # --- le hackathon sur le Cerveau et l'IA ---
 
 <img src="/images/bandeau_hack1cerveau_avec_dates-lieu_sans_autres_logos.png" width="828">
+<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
+<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
 
 ## En bref
 * [Qui ?](#qui) les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
@@ -25,14 +27,11 @@ permalink: /hack1cerveau/
 * [Aidez](#aidez) : vous voulez nous donner un coup de main ?
 * [Partagez !](#partagez) parlez-en autour de vous !
 
-<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
-<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
-
 ## Qui ?  <a name="qui"></a>
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
 
-<img src="/images/LOGO_banniere_Mindlabdx.png">
-<img src="/images/LOGO_Ascoergo_small.png">
+<img src="/images/LOGO_banniere_Mindlabdx.png"  width="350">
+<img src="/images/LOGO_Ascoergo_small.png"  width="350">
 
 
 ## Quand ?  <a name="quand"></a>
