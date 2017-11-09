@@ -25,3 +25,6 @@ end
 
 # to enable emoji
 gem 'jemoji'
+
+# to enable redirections
+gem 'jekyll-redirect-from'

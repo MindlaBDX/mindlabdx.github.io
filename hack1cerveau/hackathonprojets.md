@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Les projets du hackathon
-permalink: /hack1cerveau/projet_hackathon/
+permalink: /projet_hackathon/
 ---
+[//]: # (/hack1cerveau/projet_hackathon/)
 
 <img src="/images/bandeau_hack1cerveau_avec_dates-lieu_sans_autres_logos.png" width="828">
 <img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
