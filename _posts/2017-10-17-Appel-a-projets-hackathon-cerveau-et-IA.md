@@ -11,6 +11,7 @@ permalink: /hack1cerveau/
 <img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="828">
 
 ## En bref
+* [Projets proposés](#projets) : découvrez les projets qui vous attendent !
 * [Qui ?](#qui) les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
 * [Quand ?](#quand) le week-end __du 8 au 10 décembre 2017__.
 * [Où ?](#ou) __au 127°__, le __fablab de Cap Sciences__, à Bordeaux.
@@ -18,7 +19,6 @@ permalink: /hack1cerveau/
 * [Comment ?](#comment) par équipes autour d'un projet proposé par un-e expert-e.
 * [Pour qui?](#pour_qui) pour toutes et tous de 15 ans à 115 ans !
 * [Appel à projets](#AAP) : expert-e-s en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet.
-* [Projets proposés](#projets) : découvrez les projets qui vous attendent !
 * [Pourquoi ?](#pourquoi) pour se rencontrer, créer, imaginer, réaliser ...
 * [Participez !](#participez) vous voulez participer au hackathon ?
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
@@ -26,6 +26,18 @@ permalink: /hack1cerveau/
 * [Partenaires](#partenaires) : ceux qui nous soutiennent et nous aident !
 * [Aidez](#aidez) : vous voulez nous donner un coup de main ?
 * [Partagez !](#partagez) parlez-en autour de vous !
+
+## Projets proposés <a name="projets"></a>
+[Cliquez ici](/projet_hackathon/) pour découvrir les projets qui vous attendent !
+
+#### Voici un aperçu des projets
+1. [IA Tetris/Snake pour Arbalet 127](/projet_hackathon/#projet1)
+2. [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](/projet_hackathon/#projet2)
+3. [Conquérir par le langage : biais cognitif, discours, et persuasion.](/projet_hackathon/#projet3)
+4. [MoreWrong](/projet_hackathon/#projet4)
+5. [Induction de rêves Lucides par flash lumineux](/projet_hackathon/#projet5)
+6. [Naming Game](/projet_hackathon/#projet6)
+7. [Arts & Sciences 4 your Brain](/projet_hackathon/#projet7)
 
 ## Qui ?  <a name="qui"></a>
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
@@ -85,9 +97,6 @@ Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qu
   - neurosciences / sciences cognitives / psychologie / ...
   - informatique / apprentissage machine / analyse de données / robotique / ...
 - etc.
-
-## Projets proposés <a name="projets"></a>
-[Cliquez ici](/projet_hackathon/) pour découvrir les projets qui vous attendent !
 
 ## Appel à projets <a name="AAP"></a>
 **L'appel à projet est terminé.**
@@ -149,7 +158,7 @@ Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le 
 
 ## Participez ! <a name="participez"></a>
 Vous voulez participer au hackathon ! Patientez encore un peu, les inscriptions seront bientôt ouvertes !
-Pour être au courant de l'ouverture des inscriptions, surveillez le [compte twitter du MindLaBdx].
+Pour être au courant de l'ouverture des inscriptions, surveillez le [compte twitter du MindLaBdx](https://twitter.com/mindlabdx).
 
 ## En quelle langue ?<a name="quelle_langue"></a>
 Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais toutes les langues sont les bienvenues, quels soient locales ou internationales. Si vous avez des amis ou collègues que cela peut intéressez, proposez leur de participer et de nous contacter.
