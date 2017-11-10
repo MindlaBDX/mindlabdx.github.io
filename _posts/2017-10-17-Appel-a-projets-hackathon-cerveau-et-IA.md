@@ -30,6 +30,9 @@ permalink: /hack1cerveau/
 ## Projets proposés <a name="projets"></a>
 [Cliquez ici](/projet_hackathon/) pour découvrir les projets qui vous attendent !
 
+## Les inscriptions sont ouvertes !
+[C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
+
 #### Voici un aperçu des projets
 1. [IA Tetris/Snake pour Arbalet 127](/projet_hackathon/#projet1)
 2. [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](/projet_hackathon/#projet2)
