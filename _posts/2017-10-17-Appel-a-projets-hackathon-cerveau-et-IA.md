@@ -1,5 +1,6 @@
 ---
 layout: page
+title:  "Hack'1 Cerveau!"
 categories: event
 permalink: /hack1cerveau/
 ---
