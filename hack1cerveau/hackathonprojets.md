@@ -9,7 +9,7 @@ permalink: /projet_hackathon/
 <img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
 <img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
 
-## En bref
+## Voici la liste des projets
 1. [IA Tetris/Snake pour Arbalet 127](#projet1)
 2. [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](#projet2)
 3. [Conquérir par le langage : biais cognitif, discours, et persuasion.](#projet3)
@@ -172,4 +172,4 @@ Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exem
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
 
 <BR><BR>
-<center>[--- Revenir à la page principale du hackaton ---](/hack1cerveau/)</center>
+[--- Revenir à la page principale du hackaton ---](/hack1cerveau/)
