@@ -11,6 +11,7 @@ permalink: /hack1cerveau/
 <img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="828">
 
 ## En bref
+* [Inscriptions](#inscriptions) : les inscriptions sont ouvertes !
 * [Projets proposés](#projets) : découvrez les projets qui vous attendent !
 * [Qui ?](#qui) les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
 * [Quand ?](#quand) le week-end __du 8 au 10 décembre 2017__.
@@ -27,11 +28,11 @@ permalink: /hack1cerveau/
 * [Aidez](#aidez) : vous voulez nous donner un coup de main ?
 * [Partagez !](#partagez) parlez-en autour de vous !
 
+## Les inscriptions sont ouvertes ! <a name="inscriptions"></a>
+[C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
+
 ## Projets proposés <a name="projets"></a>
 [Cliquez ici](/projet_hackathon/) pour découvrir les projets qui vous attendent !
-
-## Les inscriptions sont ouvertes !
-[C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
 
 #### Voici un aperçu des projets
 1. [IA Tetris/Snake pour Arbalet 127](/projet_hackathon/#projet1)
