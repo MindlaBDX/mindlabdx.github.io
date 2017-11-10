@@ -6,8 +6,8 @@ permalink: /projet_hackathon/
 [//]: # (/hack1cerveau/projet_hackathon/)
 
 <img src="/images/bandeau_hack1cerveau_avec_dates-lieu_sans_autres_logos.png" width="828">
-<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">
-<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
+<!--<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">-->
+<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="828">
 
 ## Voici la liste des projets
 1. [IA Tetris/Snake pour Arbalet 127](#projet1)
