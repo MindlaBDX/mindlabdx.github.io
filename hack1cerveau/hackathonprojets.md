@@ -18,6 +18,9 @@ permalink: /projet_hackathon/
 6. [Naming Game](#projet6)
 7. [Arts & Sciences 4 your Brain](#projet7)
 
+## Les inscriptions sont ouvertes !
+[C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
+
 ## <a name="projet1"></a> Projet 1 - IA Tetris/Snake pour Arbalet 127
 
 **Projet présenté par :** Yoan Mollard - (yoan at arbalet-project.org) Baptiste Busch, Sébastien Forestier, Bhargav teja Nallapu
