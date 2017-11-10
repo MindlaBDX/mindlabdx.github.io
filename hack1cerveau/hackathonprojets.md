@@ -145,8 +145,8 @@ Ce projet a plusieurs axes:
 Une implémentation du jeu sous forme d'application web existe déjà (pour un utilisateur unique), et l'idée est de l'utiliser pour ne pas repartir de zéro.
 
 **Liens web :**
-- sources : http://github.com/wschuell/ng_userxp
-- exemple de fonctionnement : http://naming-game.bordeaux.inria.fr
+- sources : [github.com/wschuell/ng_userxp](http://github.com/wschuell/ng_userxp)
+- exemple de fonctionnement : [naming-game.bordeaux.inria.fr](http://naming-game.bordeaux.inria.fr)
 
 ## <a name="projet7"></a> Projet 7 - Arts & Sciences 4 your Brain (projet bonus)
 **Projet présenté par :** Xavier Hinaut - (xavier.hinaut (at) inria (point) fr)
