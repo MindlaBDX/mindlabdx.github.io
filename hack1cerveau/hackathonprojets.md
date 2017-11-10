@@ -10,15 +10,13 @@ permalink: /projet_hackathon/
 <img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="375">
 
 ## En bref
-* [IA Tetris/Snake pour Arbalet 127](#projet1)
-* [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](#projet2)
-* [Conquérir par le langage : biais cognitif, discours, et persuasion.](#projet3)
-* [MoreWrong](#projet4)
-* [Induction de rêves Lucides par flash lumineux](#projet5)
-* [Naming Game](#projet6)
-* [Arts & Sciences 4 your Brain](#projet7)
-
-[Revenir à la page principale du hackaton](/hack1cerveau/)
+1. [IA Tetris/Snake pour Arbalet 127](#projet1)
+2. [Vulgarisation du machine learning par réseaux de neuronnes avec des interfaces tangibles](#projet2)
+3. [Conquérir par le langage : biais cognitif, discours, et persuasion.](#projet3)
+4. [MoreWrong](#projet4)
+5. [Induction de rêves Lucides par flash lumineux](#projet5)
+6. [Naming Game](#projet6)
+7. [Arts & Sciences 4 your Brain](#projet7)
 
 ## <a name="projet1"></a> Projet 1 - IA Tetris/Snake pour Arbalet 127
 
@@ -168,7 +166,10 @@ Voici un exemple parmi des millions de ce qui pourra être fait : [une lampe en 
 <BR>
 Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exemples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
 
-<center><img src="https://fablab.lesusinesnouvelles.com/uploads/project_image/567/project_image.jpg" width="300"><center>
+<center><img src="https://fablab.lesusinesnouvelles.com/uploads/project_image/567/project_image.jpg" width="300"></center>
 
 <BR>
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
+
+<BR><BR>
+<center>[--- Revenir à la page principale du hackaton ---](/hack1cerveau/)</center>
