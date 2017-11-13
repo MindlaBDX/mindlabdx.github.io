@@ -37,6 +37,8 @@ L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des 
 
 **Pré-soirée de présentation du projet :** Le mercredi 22 novembre à partir de 18h, venez à l'Openlab du 127° pour venir discuter avec les porteurs du projet et découvrir ce beau mur de pixels !
 
+<center><img src="/images/projets/arbalet/20170525_143507_resized_redim_small.jpg" width="300"></center>
+
 **Lien web :** [https://github.com/fablab127/arbasdk/wiki](https://github.com/fablab127/arbasdk/wiki)
 
 
