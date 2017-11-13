@@ -31,13 +31,13 @@ permalink: /projet_hackathon/
 
 Arbalet 127 est un mur pixelisé de 3m2 composé de 300 pixels colorés pilotables par ordinateur. Arbalet 127 est avant tout une oeuvre d'art, sur le thème du Pixel Art/Pop art, mais c'est également une oeuvre interactive qui permet de jouer à des jeux retro comme Tetris, Snake, Pong etc et qui est entièrement programmable en Python. Actuellement Arbalet 127 est en exposition au fablab de Cap Sciences, et les visiteurs peuvent se saisir de la manette pour jouer.
 
+<center><img src="/images/projets/arbalet/20170525_143507_resized_redim_small.jpg" width="600"></center>
+
 Ce projet consiste à créer une IA qui joue elle-même à Tetris ou Snake lorsqu'aucun visiteur n'a la manette entre les mains. La littérature foisonne de tentatives de créer des IA pour ces jeux cultes, reste à s'en inspirer pour les implémenter sur Arbalet 127, voire les améliorer. Les techniques de machine learning à utiliser ne sont pas définies à l'avance, un état de l'art des méthodes utilisées dans la littérature fera partie du hackathon. L'IA doit être implémentée en Python pour pouvoir utiliser le SDK d'Arbalet.
 
 L'objectif à la fin du hackathon est de pouvoir visualiser sur Arbalet 127 des parties de Tetris jouées par l'ordinateur sans jamais perdre (partie infinie) et/ou un Snake qui parvient à remplir les 300 pixels sans se mordre la queue. Selon le nombre de participants l'équipe pourra soit choisir un des deux jeux, soit se scinder en deux sur Tetris et Snake pour creuser chaque jeu. Une IA triviale utilisant des champs de potentiel est déjà implémentée pour Snake mais elle perd très rapidement ; sur Tetris en revanche, toute l'IA est à faire.
 
 **Pré-soirée de présentation du projet :** Le mercredi 22 novembre à partir de 18h, venez à l'Openlab du 127° pour venir discuter avec les porteurs du projet et découvrir ce beau mur de pixels !
-
-<center><img src="/images/projets/arbalet/20170525_143507_resized_redim_small.jpg" width="300"></center>
 
 **Lien web :** [https://github.com/fablab127/arbasdk/wiki](https://github.com/fablab127/arbasdk/wiki)
 
