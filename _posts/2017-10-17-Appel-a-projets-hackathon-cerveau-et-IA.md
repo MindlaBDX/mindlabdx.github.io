@@ -46,8 +46,8 @@ permalink: /hack1cerveau/
 ## Qui ?  <a name="qui"></a>
 Les associations autour des sciences cognitives [MindLaBDX](/about/) et [Ascoergo](https://fr-fr.facebook.com/Ascoergo/), en partenariat avec Cap Sciences, vont organiser leur 1er Hackathon ayant pour thème « Cerveau et Intelligence Artificielle ».
 
-<img src="/images/LOGO_banniere_Mindlabdx.png"  width="420">
-<img src="/images/LOGO_Ascoergo_small.png"  width="280">
+<img src="/images/LOGO_banniere_Mindlabdx.png"  width="700">
+<img src="/images/LOGO_Ascoergo_small.png"  width="400">
 
 
 ## Quand ?  <a name="quand"></a>
