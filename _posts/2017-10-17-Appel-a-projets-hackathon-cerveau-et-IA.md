@@ -215,7 +215,7 @@ Pour finir, des #mots-dièse dans le désordre :
  #cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovation #cap-sciences #fablab #idées #synesthésies #pixel-art #réseaux-de-neurones #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl #graphisme #design #art #art-et-science #replication #open-science #psychologie #informatique #block-chain #ethereum #apprentissage-machine #machine-learning #analyse-de-données #data-mining #open-data #robotique
 
 ## Qui est derrière tout ça ? <a name="organisateurs"></a>
-- [Xavier Hinaut](https://www.xavierhinaut.com), chercheur à Inria Bordeaux, [@neuronalX (twitter)](https://twitter.com/neuronalX), [@neuronalX (github)](https://github.com/neuronalX)
+- [Xavier Hinaut](http://www.xavierhinaut.com), chercheur à Inria Bordeaux, [@neuronalX (twitter)](https://twitter.com/neuronalX), [@neuronalX (github)](https://github.com/neuronalX)
 - Philippe Giraudeau, doctorant à Inria Bordeaux, [@philippeIA (twitter)](https://twitter.com/philippeIA), [@masterchef8 (github)](https://github.com/masterchef8)
 - [Mélody Labarchède](https://www.linkedin.com/in/m%C3%A9lody-labarch%C3%A8de-446a67a9), étudiante M2 Neurosciences à Bordeaux
 - [Yen Pham](https://www.linkedin.com/in/hoang-yen-pham-025a73b7), étudiante à l'ENSC de Bordeaux
