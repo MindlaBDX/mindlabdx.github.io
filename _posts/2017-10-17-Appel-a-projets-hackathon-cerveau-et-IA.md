@@ -183,6 +183,12 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
 <center><img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500"></center>
 
+- La région [Bordeaux Neurocampus](http://www.bordeaux-neurocampus.fr/fr/index.html)
+<center><img src="/images/LOGO_neurocampus_from_Word-doc.png" align="middle" width="400"></center>
+
+- La région [FSDIE / Université de Bordeaux](https://www.u-bordeaux.fr/Campus/Vie-associative/Projets-etudiants-FSDIE)
+<center><img src="/images/LOGO_FSDIE_brun.png" align="middle" width="300"></center>
+
 #### Partenaires de l'événement
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 
