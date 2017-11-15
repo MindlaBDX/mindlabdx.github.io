@@ -57,6 +57,9 @@ Ce projet suis un principe de design appelé «tangible bits». C'est à dire qu
 - Des classes d'images comme base de l'apprentissage. Ces images seront dessinées physiquement sur les petites cartes.
 - Des réseaux de neurones où chaque neurone est incarné par un petit objet coloré.
 
+<center><img src="/images/projets/projet2_RV_ANN_concept.png" width="400"></center>
+<BR>
+
 Ça serait très intéressant de partir d'une vidéo d'introduction ou d'exemples interactifs très simple pour créer des réseaux qui distinguent des formes très simples. Le but est trouver les limites de chaque réseau, et imaginer ce que pourrait être des réseaux complexes et puissants.
 
 Les compétences idéales d'une équipe:
