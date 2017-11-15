@@ -27,6 +27,7 @@ permalink: /hack1cerveau/
 * [Partenaires](#partenaires) : ceux qui nous soutiennent et nous aident !
 * [Aidez](#aidez) : vous voulez nous donner un coup de main ?
 * [Partagez !](#partagez) parlez-en autour de vous !
+* [Qui est derrière tout ça ?](#organisateurs)
 
 ## Les inscriptions sont ouvertes ! <a name="inscriptions"></a>
 [C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
@@ -212,3 +213,9 @@ Si vous avez des vrais amis sur facebook, vous pouvez leur partager [la page de 
 Pour finir, des #mots-dièse dans le désordre :
 
  #cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovation #cap-sciences #fablab #idées #synesthésies #pixel-art #réseaux-de-neurones #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl #graphisme #design #art #art-et-science #replication #open-science #psychologie #informatique #block-chain #ethereum #apprentissage-machine #machine-learning #analyse-de-données #data-mining #open-data #robotique
+
+## Qui est derrière tout ça ? <a name="organisateurs"></a>
+- [Xavier Hinaut](www.xavierhinaut.com), chercheur à Inria Bordeaux, [@neuronalX (twitter)](https://twitter.com/neuronalX), [@neuronalX (github)](https://github.com/neuronalX)
+- Philippe Giraudeau, doctorant à Inria Bordeaux, [@philippeIA (twitter)](https://twitter.com/philippeIA), [@masterchef8 (github)](https://github.com/masterchef8)
+- [Mélody Labarchède](https://www.linkedin.com/in/m%C3%A9lody-labarch%C3%A8de-446a67a9), étudiante M2 Neurosciences à Bordeaux
+- [Yen Pham](https://www.linkedin.com/in/hoang-yen-pham-025a73b7), étudiante à l'ENSC de Bordeaux
