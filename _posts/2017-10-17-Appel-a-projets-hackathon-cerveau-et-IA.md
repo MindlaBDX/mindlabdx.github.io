@@ -179,7 +179,7 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 
 ## Partenaires <a name="partenaires"></a>
 
-#### Soutien financier
+#### Soutiens financiers
 
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
 <center><img src="/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500"></center>
