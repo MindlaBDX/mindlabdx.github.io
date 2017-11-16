@@ -219,3 +219,4 @@ Pour finir, des #mots-dièse dans le désordre :
 - Philippe Giraudeau, doctorant à Inria Bordeaux, [@philippeIA (twitter)](https://twitter.com/philippeIA), [@masterchef8 (github)](https://github.com/masterchef8)
 - [Mélody Labarchède](https://www.linkedin.com/in/m%C3%A9lody-labarch%C3%A8de-446a67a9), étudiante M2 Neurosciences à Bordeaux
 - [Yen Pham](https://www.linkedin.com/in/hoang-yen-pham-025a73b7), étudiante à l'ENSC de Bordeaux
+- Basile Garcia, étudiant M2 Sciences Cognitives à Bordeaux, [@getzneet (github)](https://github.com/getzneet)
