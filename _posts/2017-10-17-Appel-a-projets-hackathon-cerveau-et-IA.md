@@ -57,7 +57,7 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi de 9
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
 
-<center><img src="/images/LOGO_127.png" alt="Le 127°"></center>
+<center><img src="/images/LOGO_127.png" alt="Le 127°" width="400"></center>
 
 
 ## Quoi ?  <a name="quoi"></a>
@@ -188,13 +188,13 @@ Pour discuter, vous tenir au courant de l'actualité et découvrir les autres é
 <center><img src="/images/LOGO_neurocampus_from_Word-doc.png" align="middle" width="400"></center>
 
 - La région [FSDIE / Université de Bordeaux](https://www.u-bordeaux.fr/Campus/Vie-associative/Projets-etudiants-FSDIE)
-<center><img src="/images/LOGO_FSDIE_brun.png" align="middle" width="300"></center>
+<center><img src="/images/LOGO_FSDIE_brun.png" align="middle" width="250"></center>
 
 #### Partenaires de l'événement
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
-<center><img src="/images/LOGO_cap_sciences_en_largeur.png" align="middle" width="400"><img src="/images/LOGO_127.png" align="middle" width="300"></center>
+<center><img src="/images/LOGO_cap_sciences_en_largeur.png" align="middle" width="400"><img src="/images/LOGO_127.png" align="middle" width="350"></center>
 
 - [Inria](https://www.inria.fr/centre/bordeaux)
 <br>
