@@ -143,6 +143,9 @@ Ce projet aura donc pour but de :
 Comment choisit-on les mots pour de nouveaux concepts? Et surtout, comment se met-on d'accord à l'échelle du groupe? Ce phénomène a lieu presque tous les jours sans que nous nous en rendions compte, de manière décentralisée.
 Le Naming Game est un modèle computationnel de cette dynamique, faisant appel à des mécanismes assez simples mais permettant de recréer certaines dynamiques à des échelles diverses: dans un petit réseau social, comment se forment des groupes en désaccord, ou à l'échelle d un pays, quelles sont les régions susceptibles de développer une langue créole, ou quel est le nombre moyen de noms de couleurs différents dans une langue. Des simulations avec des 'agents fictifs' ou des robots permettent de comparer les résultats du modèle aux observations réelles.
 
+<center><img src="/images/projets/projet6_naminggame.png" width="600"></center>
+<BR>
+
 Cependant, on ne sait pas si les stratégies individuelles mises en oeuvre dans ce type de modèle sont proches du comportement humain individuel ou non. Comment choisit-on ce dont on parle? Comment choisit-on de ne privilégier qu'un seul mot parmi plusieurs synonymes? Et quand choisit-on d'inventer de nouveaux mots?
 
 De précédentes expériences de sémiotique expérimentale -- faisant interagir plusieurs personnes par ordinateur interposé -- commencent à répondre à cette problématique, mais ont fait apparaître une difficulté particulière:
