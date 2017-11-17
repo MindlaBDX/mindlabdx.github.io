@@ -185,13 +185,15 @@ Voici un exemple parmi des millions de ce qui pourra être fait : [une lampe en 
 
 <BR>
 
-Voici un exemple de gravure d'une image IRM sur bois réalisée au 127° avec la découpeuse laser. (Pour la gravure on peut utiliser tous matériaux sauf PVC.) :
+Voici un exemple de gravure d'une image IRM sur bois réalisée au 127° avec la découpeuse laser :
 <center><img alt="Credit: (CC BY-NC) Xavier Hinaut" src="/images/projets/projet7_IRM_test_gravure_sous-bock.jpeg" width="400"></center>
 <center>Image : Xavier Hinaut (CC BY-NC)</center>
 
 
 <BR>
-Pour vous inspirer, voici des exemples par dizaines de projets du fablab : [exemples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
+Pour la gravure on peut utiliser tous matériaux sauf PVC.
+
+Pour vous inspirer, voici d'autres exemples par dizaines de projets du fablab : [exemples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
 
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
 
