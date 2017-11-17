@@ -35,7 +35,7 @@ L'inscription est payante et obligatoire. Le prix de l'inscription est une petit
 
 Tarifs : étudiant-e (8€) / autres (12€).
 
-Pour s'inscrire ? [C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
+Pour s'inscrire ? :point_right: [C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
 
 Pour être au courant avant le début des événements (notamment la pré-soirée du mercredi 22 où le [Projet 1](/projet_hackathon/#projet1) sera présenté au 127° à partir de 18h30), surveillez le [compte twitter du MindLaBdx](https://twitter.com/mindlabdx).
 
