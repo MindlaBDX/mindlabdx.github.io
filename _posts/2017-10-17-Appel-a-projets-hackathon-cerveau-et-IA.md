@@ -57,7 +57,7 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi de 9
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
 
-<center><img src="/images/LOGO_127.png" alt="Le 127°" width="400"></center>
+<center><img src="/images/LOGO_127.png" alt="Le 127°" width="200"></center>
 
 
 ## Quoi ?  <a name="quoi"></a>
