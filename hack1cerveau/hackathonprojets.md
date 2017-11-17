@@ -127,7 +127,7 @@ Création d’un casque comme le "dream light" de Stephen Laberge et mesure de l
 Le but consisterait dans un premier temps à recréer avec un Arduino, un casque permettant d’envoyer au dormeur des flashs lumineux à des fréquences répétées pour essayer de lui induire un rêve lucide. Le dormeur sera au courant que pendant ses rêves il pourrait constater des flashs lumineux. Ces flashs lumineux seraient censés aider le rêveur à prendre conscience qu’il rêve.
 
 <center><img alt="Credit: Flickr Susan Ackeridge (CC BY 2.0) https://www.flickr.com/photos/redfoxinict/26318855975" src="https://c1.staticflickr.com/2/1567/26318855975_eace87ef67_b.jpg" width="600"></center>
-<center>photo: Flickr Susan Ackeridge (CC BY 2.0)</center>
+<center>Image : Flickr Susan Ackeridge (CC BY 2.0)</center>
 <BR>
 
 
@@ -187,7 +187,7 @@ Voici un exemple parmi des millions de ce qui pourra être fait : [une lampe en 
 
 Voici un exemple de gravure d'une image IRM sur bois réalisée au 127° avec la découpeuse laser. (Pour la gravure on peut utiliser tous matériaux sauf PVC.) :
 <center><img alt="Credit: (CC BY-NC) Xavier Hinaut" src="/images/projets/projet7_IRM_test_gravure_sous-bock.jpeg" width="400"></center>
-<center>photo: (CC BY-NC) Xavier Hinaut</center>
+<center>Image : Xavier Hinaut (CC BY-NC)</center>
 
 
 <BR>
