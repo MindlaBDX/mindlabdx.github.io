@@ -193,7 +193,7 @@ Voici un exemple de gravure d'une image IRM sur bois réalisée au 127° avec la
 <BR>
 Pour la gravure on peut utiliser tous matériaux sauf PVC.
 
-Pour vous inspirer, voici d'autres exemples par dizaines de projets du fablab : [exemples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t)
+Pour vous inspirer, voici d'autres exemples par dizaines de projets du fablab : [exemples projet 127°](https://www.fablab127.net/#!/projects?whole_network=t).
 
 N'hésitez pas à me contacter si vous voulez discuter d'oeuvres à réaliser !
 
