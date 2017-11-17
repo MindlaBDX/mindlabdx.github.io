@@ -11,7 +11,7 @@ permalink: /hack1cerveau/
 <img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="828">
 
 ## En bref
-* [Inscriptions](#inscriptions) : les inscriptions sont ouvertes !
+* [Participez !](#participez) les inscriptions sont ouvertes !
 * [Projets proposés](#projets) : découvrez les projets qui vous attendent !
 * [Qui ?](#qui) les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
 * [Quand ?](#quand) le week-end __du 8 au 10 décembre 2017__.
@@ -21,7 +21,6 @@ permalink: /hack1cerveau/
 * [Pour qui?](#pour_qui) pour toutes et tous de 15 ans à 115 ans !
 * [Appel à projets](#AAP) : expert-e-s en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet.
 * [Pourquoi ?](#pourquoi) pour se rencontrer, créer, imaginer, réaliser ...
-* [Participez !](#participez) vous voulez participer au hackathon ?
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
 * [Contact](#contact) : besoin de plus d'infos ? Contactez-nous.
 * [Partenaires](#partenaires) : ceux qui nous soutiennent et nous aident !
@@ -29,8 +28,16 @@ permalink: /hack1cerveau/
 * [Partagez !](#partagez) parlez-en autour de vous !
 * [Qui est derrière tout ça ?](#organisateurs)
 
-## Les inscriptions sont ouvertes ! <a name="inscriptions"></a>
+## Participez ! <a name="participez"></a>
+
+#### Les inscriptions sont ouvertes ! <a name="inscriptions"></a>
+L'inscription est payante et obligatoire. Le prix de l'inscription est une petite participation aux frais de nourriture et boissons (repas proposés durant le week-end), à l'achat du matériel, etc. L'inscription au hackathon permet de devenir membre de l'association MindLaBDX (ce qui permettra de continuer des projets de ce type au cours de l'année 2018).
+
+Tarifs : étudiant-e (8€) / autres (12€).
+
 [C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
+
+Pour être au courant avant le début des événements (notamment la pré-soirée du mercredi 22 où le [Projet 1](/projet_hackathon/#projet1) sera présenté au 127° à partir de 18h30), surveillez le [compte twitter du MindLaBdx](https://twitter.com/mindlabdx).
 
 ## Projets proposés <a name="projets"></a>
 [Cliquez ici](/projet_hackathon/) pour découvrir les projets qui vous attendent !
@@ -57,8 +64,7 @@ Du vendredi 8 au dimanche 10 décembre 2017. Vendredi de 18h à 21h, samedi de 9
 ## Où ?  <a name="ou"></a>
 Le hackathon aura lieu au [Fablab 127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html) de [Cap Sciences](http://www.cap-sciences.net). À deux pas de l'arrêt du tram B "Cité du vin", prêt du pont Jacques Chaban-Delmas. [La carte ici !](http://nominatim.openstreetmap.org/details.php?place_id=104093463)
 
-<center><img src="/images/LOGO_127.png" alt="Le 127°" width="200"></center>
-
+<center><img src="/images/LOGO_127.png" alt="Le 127°" width="300"></center>
 
 ## Quoi ?  <a name="quoi"></a>
 Nous proposons un « Hackathon », contraction de Hacker et Marathon, sur les thématiques des Neurosciences, Sciences Cognitives et Intelligence Artificielle (IA). Une soirée et deux jours intenses où des bénévoles motivé-e-s, venant de divers horizons, vont tout faire pour venir à bout de projets ambitieux et innovants.
@@ -160,10 +166,6 @@ Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le 
 - Le développement d’__outils scientifiques et « open source »__ : de plus en plus d’outils et logiciels utilisés dans les laboratoires sont « open source », c’est-à-dire accessibles et pouvant être modifiées et adaptés par tout un chacun pour ses propres besoins. Le fait que le code source d'un logiciel soit accessible permet de savoir ce qui est "vraiment fait" par un programme, et de garantir qu'il n'y a pas de "fonctions cachées" (cela rejoint donc la problématique de la réplicabilité).
 - La __« réplicabilité » d’expériences scientifiques__ : le problème de non réplicabilité en sciences prend de plus en plus d’ampleur, et c’est par exemple une des raisons de la création du [journal ReScience](http://rescience.github.io) (gratuit, en ligne et processus de review publics) par l'équipe Mnemosyne d’Inria Bordeaux. Il est important de sensibiliser le public à ces questions dont les problématiques ne sont pas évidentes au premier abord (« Pourquoi aurait-on besoin de refaire une expérience qui a déjà été faite ? »).
 - La __vulgarisation__ : les participants seront encouragés à réaliser des projets sous forme d'ateliers, de mini-expos, de jeux de société, de posters ... qui pourront être utilisés tels quels ou adaptés pour être réutilisés par des lieux comme Cap Sciences, ou par des associations de vulgarisation comme Cogni’Junior.
-
-## Participez ! <a name="participez"></a>
-Vous voulez participer au hackathon ! Patientez encore un peu, les inscriptions seront bientôt ouvertes !
-Pour être au courant de l'ouverture des inscriptions, surveillez le [compte twitter du MindLaBdx](https://twitter.com/mindlabdx).
 
 ## En quelle langue ?<a name="quelle_langue"></a>
 Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais toutes les langues sont les bienvenues, quels soient locales ou internationales. Si vous avez des amis ou collègues que cela peut intéressez, proposez leur de participer et de nous contacter.
