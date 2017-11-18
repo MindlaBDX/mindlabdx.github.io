@@ -85,11 +85,11 @@ L'imprimante 3D, la découpeuse laser, la découpeuse vinyle, les bombes de pein
 <img src="https://www.fablab127.net/uploads/machine_image/14/large_machine_image.jpg" width="240">
 
 #### Déroulement
-Le vendredi soir entre 18h et 21h les "expert-e-s" présenterons leur projets et les participants formeront des équipes de 4/6 personnes autours de chaque projets.
-Du samedi matin au dimanche milieu d’après-midi, les équipes travailleront sur leurs projets respectifs.
+Le vendredi soir entre 18h et 21h les "expert-e-s" présenteront leur projet et les participants formeront des équipes de 4/6 personnes autours de chaque projets.
+Du samedi matin au dimanche milieu d’après-midi, les équipes travailleront sur leur projet respectif.
 A l'issu du week-end (le dimanche vers 17h), chaque équipe présentera le projet qu’elle aura réalisé et un jury décernera des prix aux projets les plus innovants et aboutis, avec un prix spécial pour la meilleure vulgarisation.
 A noter que dans la mesure du possible, les équipes seront encouragées à proposer un prototype de leur réalisation au public de Cap Sciences.
-(A chaque fin de journée, les participants, bénévoles et expert-e-s auront l'occasion de se retrouver autour d'un verre pour continuer de discuter et de refaire le monde.)
+(A chaque fin de journée, les participants, bénévoles et expert-e-s auront l'occasion de se retrouver autour d'un verre pour continuer à discuter et refaire le monde.)
 
 ## Pour qui ?  <a name="pour_qui"></a>
 Public concerné : Tout le monde ! (de 15 à 115 ans)
@@ -152,7 +152,7 @@ Des questions sur l'appel à projets ? Contactez nous : xavier(point)hinaut {aro
 
 ## Pourquoi ?  <a name="pourquoi"></a>
 #### Les objectifs
-Les objectifs sont de créer des projets innovants pouvant être utiles au monde académique ou industriel, d’une part, et de créer des contenus de vulgarisation d’autre part. Un objectif sous-jacent est de créer des ponts et des discussions entre grand public, professionnels des domaines (chercheur/ses, enseignant-e-s, doctorant-e-s, entrepreneur/ses …), professionnels d’autres domaines (designers, ingénieur-e-s, journalistes …). Cela sera une occasion incroyable de partager toutes ces différentes visions et point de vue.
+Les objectifs sont de créer des projets innovants pouvant être utiles au monde académique ou industriel, d’une part, et de créer des contenus de vulgarisation d’autre part. Un objectif sous-jacent est de créer des ponts et des discussions entre grand public, professionnels des domaines (chercheur/ses, enseignant-e-s, doctorant-e-s, entrepreneur/ses …), professionnels d’autres domaines (designers, ingénieur-e-s, journalistes …). Cela sera une occasion incroyable de partager toutes ces différents points de vue.
 
 Ainsi, le grand public peut être [hack]teur et même producteur de l’innovation, de la vulgarisation et de la diffusion scientifique, et pas seulement consommateur ... car la tentation semble grande de nos jours de percevoir les résultats en neurosciences, sciences cognitives et intelligence artificielle comme des choses « magiques » inaccessibles, incompréhensibles, reservés à une élite ... Ce hackathon est là pour prouver le contraire !
 
@@ -163,12 +163,12 @@ A l'occasion de ce hackathon, cela sera l'occasion de mettre en contact :
 
 #### Objectifs à long terme ...
 Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le hackathon s'inscrit :
-- Le développement d’__outils scientifiques et « open source »__ : de plus en plus d’outils et logiciels utilisés dans les laboratoires sont « open source », c’est-à-dire accessibles et pouvant être modifiées et adaptés par tout un chacun pour ses propres besoins. Le fait que le code source d'un logiciel soit accessible permet de savoir ce qui est "vraiment fait" par un programme, et de garantir qu'il n'y a pas de "fonctions cachées" (cela rejoint donc la problématique de la réplicabilité).
+- Le développement d’__outils scientifiques et « open source »__ : de plus en plus d’outils et logiciels utilisés dans les laboratoires sont « open source », c’est-à-dire accessibles et pouvant être modifiés et adaptés par tout un chacun pour ses propres besoins. Le fait que le code source d'un logiciel soit accessible permet de savoir ce qui est "vraiment fait" par un programme, et de garantir qu'il n'y a pas de "fonctions cachées" (cela rejoint donc la problématique de la réplicabilité).
 - La __« réplicabilité » d’expériences scientifiques__ : le problème de non réplicabilité en sciences prend de plus en plus d’ampleur, et c’est par exemple une des raisons de la création du [journal ReScience](http://rescience.github.io) (gratuit, en ligne et processus de review publics) par l'équipe Mnemosyne d’Inria Bordeaux. Il est important de sensibiliser le public à ces questions dont les problématiques ne sont pas évidentes au premier abord (« Pourquoi aurait-on besoin de refaire une expérience qui a déjà été faite ? »).
-- La __vulgarisation__ : les participants seront encouragés à réaliser des projets sous forme d'ateliers, de mini-expos, de jeux de société, de posters ... qui pourront être utilisés tels quels ou adaptés pour être réutilisés par des lieux comme Cap Sciences, ou par des associations de vulgarisation comme Cogni’Junior.
+- La __vulgarisation__ : les participants seront encouragés à réaliser des projets sous forme d'ateliers, de mini-expos, de jeux de société, de posters ... qui pourront être réutilisés et adaptés par des lieux comme Cap Sciences, ou par des associations de vulgarisation comme Cogni’Junior.
 
 ## En quelle langue ?<a name="quelle_langue"></a>
-Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais toutes les langues sont les bienvenues, quels soient locales ou internationales. Si vous avez des amis ou collègues que cela peut intéressez, proposez leur de participer et de nous contacter.
+Nous utiliserons principalement la langue de Molière pendant ce hackathon. Mais toutes les langues sont les bienvenues, qu'elles soient locales ou internationales. Si vous avez des amis ou collègues que cela peut intéresser, proposez leur de participer et de nous contacter.
 
 We will mainly talk French, but several people will be able to help you and translate to English, Spanish, Italian, German, ... Just contact us to know more about this possibility, so we can plan it in advance!
 
@@ -214,7 +214,7 @@ Si vous avez des vrais amis sur facebook, vous pouvez leur partager [la page de 
 
 Pour finir, des #mots-dièse dans le désordre :
 
- #cerveau #neurosciences #sciences-cognitives #intelligence-artificielle #innovation #cap-sciences #fablab #idées #synesthésies #pixel-art #réseaux-de-neurones #imprimante-3D #decoupeuse-laser #decoupeuse-vinyl #graphisme #design #art #art-et-science #replication #open-science #psychologie #informatique #block-chain #ethereum #apprentissage-machine #machine-learning #analyse-de-données #data-mining #open-data #robotique
+ #cerveau #neurosciences #théorie-des-jeux #game-theory #sciences-cognitives #intelligence-artificielle #innovation #cap-sciences #fablab #idées #synesthésies #pixel-art #réseaux-de-neurones #imprimante-3D #decoupeuse-laser #decoupeuse-vinyle #graphisme #design #art #art-et-science #replication #open-science #psychologie #informatique #apprentissage-machine #machine-learning #analyse-de-données #data-mining #open-data #robotique
 
 ## Qui est derrière tout ça ? <a name="organisateurs"></a>
 - [Xavier Hinaut](http://www.xavierhinaut.com), chercheur à Inria Bordeaux, [@neuronalX (twitter)](https://twitter.com/neuronalX), [@neuronalX (github)](https://github.com/neuronalX)
