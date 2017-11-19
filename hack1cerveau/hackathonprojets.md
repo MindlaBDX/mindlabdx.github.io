@@ -85,7 +85,7 @@ Plus particulièrement, le projet propose de s’organiser autour de plusieurs 
 - Une phase visant, grâce à la littérature, à chercher, définir, trier et sélectionner les biais cognitifs pertinents pour la thématique
 - Une mise en lien entre les différents biais sélectionnés et la façon dont ils peuvent orienter la construction d’un discours en spécifiant le contexte
 - La construction d’un discours persuasif réinvestissant au maximum les biais cognitifs sélectionnés. Il est conseillé de se pencher sur un discours traitant d’un sujet non consensuel et abordant un point de vue non majoritaire. Il peut reprendre un discours déjà existant et étant considéré par l’opinion public comme non persuasive.
-- Le discours pourra être filmé. Un travail de montage vidéo permettra de faire apparaitre les différents biais cognitifs au moment de leur intervention dans le discours. Enfin, il peut être intéressant de mettre en comparaison le discours d’origine et celui produit par l’équipe de travail.
+- Le discours pourra être filmé. Un travail de montage vidéo permettra de faire apparaître les différents biais cognitifs au moment de leur intervention dans le discours. Enfin, il peut être intéressant de mettre en comparaison le discours d’origine et celui produit par l’équipe de travail.
 
 ## <a name="projet4"></a> Projet 4 - MoreWrong
 
@@ -114,7 +114,7 @@ Une aide pourra être apportée à l'ensemble des tâches intervenant dans la r�
 **Liens web :** [wikipedia Ultimatum_game](https://en.wikipedia.org/wiki/Ultimatum_game) ; [Bornstein-Yaniv1998](http://ratio.huji.ac.il/sites/default/files/publications/dp154.pdf)
 
 
-## <a name="projet5"></a> Projet 5 - DIY : Induction de rêves Lucides par flash lumineux
+## <a name="projet5"></a> Projet 5 - DIY : Induction de rêves lucides par flashs lumineux
 
 **Projet présenté par :**  Emma CHABANI -  emma.chabani at gmail.com , Philippe Giraudeau (philippe at giraudeau.eu)
 
@@ -123,20 +123,22 @@ Une aide pourra être apportée à l'ensemble des tâches intervenant dans la r�
 **Domaine(s) concerné(s) :** Neurosciences, Sciences Cognitives, Imagerie mentale, Ingénieurie
 
 
-Création d’un casque comme le "dream light" de Stephen Laberge et mesure de l’impact des flashs lumineux sur le sommeil en phase de REM.
-Le but consisterait dans un premier temps à recréer avec un Arduino, un casque permettant d’envoyer au dormeur des flashs lumineux à des fréquences répétées pour essayer de lui induire un rêve lucide. Le dormeur sera au courant que pendant ses rêves il pourrait constater des flashs lumineux. Ces flashs lumineux seraient censés aider le rêveur à prendre conscience qu’il rêve.
+Notre but serait, dans un premier temps, de créer un casque d'induction de rêve lucide sur le modèle du "dream light" de Stephen Laberge qui envoit des flashs lumineux penfant le sommeil pour déclancher des épisodes de lucidités pendant les rêves. L'enjeu serait alors de mesurer l’impact de ces flashs lumineux sur le sommeil en phase de REM (stade de sommeil qui contient le plus de rêve imagés et sénarisés).
+Le dormeur sera au courant que pendant ses rêves il pourrait constater des flashs lumineux qui sont supposé aider le rêveur à prendre conscience qu’il rêve.
 
 <center><img alt="Credit: Flickr Susan Ackeridge (CC BY 2.0) https://www.flickr.com/photos/redfoxinict/26318855975" src="https://c1.staticflickr.com/2/1567/26318855975_eace87ef67_b.jpg" width="600"></center>
 <center>Image : Flickr Susan Ackeridge (CC BY 2.0)</center>
 <BR>
 
 
-De plus, on pourrait essayer de comprendre comment sont intégrés les signaux des flashs pendant différentes phases du sommeil (très peu de chance qu'on voit quelque chose en EEG dans ces conditions) mais pourquoi pas à l'échelle du rêve ou de l'induction d'hallucinations hypnagogiques liées aux flashs).
-Cependant quel serait l’impact de ses flashs sur un dormeur en phase de REM ?
+De plus, nous pourrions essayer de comprendre comment sont intégrés les signaux des flashs pendant différentes phases du sommeil grâce à un monitoring grace à un casque EEG permettant de saisir l'activité cérébrale durant le sommeil.
+
 Ce projet aura donc pour but de :
 - Demander à un groupe de 5 personnes de réaliser un prototype reproduisant le comportement du Dream Light de Laberge.
 - Enregistrer le signal EEG d’une personne en train de rêver sans Dream Light et avec Dream Light.
 - Analyser les résultats et les confronter à la littérature.
+
+*
 
 ## <a name="projet6"></a> Projet 6 - Le Naming Game: créons un langage en commun
 
@@ -155,7 +157,7 @@ Le Naming Game est un modèle computationnel de cette dynamique, faisant appel �
 Cependant, on ne sait pas si les stratégies individuelles mises en oeuvre dans ce type de modèle sont proches du comportement humain individuel ou non. Comment choisit-on ce dont on parle? Comment choisit-on de ne privilégier qu'un seul mot parmi plusieurs synonymes? Et quand choisit-on d'inventer de nouveaux mots?
 
 De précédentes expériences de sémiotique expérimentale -- faisant interagir plusieurs personnes par ordinateur interposé -- commencent à répondre à cette problématique, mais ont fait apparaître une difficulté particulière:
-Comment effectuer une expérience à grande échelle avec interactions réitérées entre des utilisateurs humains, sans que l'absence prolongée ou l'abandon individuel n'influent sur les autres utilisateurs?
+comment effectuer une expérience à grande échelle avec interactions réitérées entre des utilisateurs humains, sans que l'absence prolongée ou l'abandon individuel n'influent sur les autres utilisateurs?
 
 Ce projet a plusieurs axes:
 - implémenter sous forme d'application web/mobile une solution à cette problématique, en passant par des agents simulés 'partagés' entre utilisateurs.
