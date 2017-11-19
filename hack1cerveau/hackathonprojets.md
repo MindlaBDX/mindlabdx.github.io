@@ -128,8 +128,6 @@ Le dormeur sera au courant que pendant ses rêves il pourrait constater des flas
 
 <center><img alt="Credit: Flickr Susan Ackeridge (CC BY 2.0) https://www.flickr.com/photos/redfoxinict/26318855975" src="https://c1.staticflickr.com/2/1567/26318855975_eace87ef67_b.jpg" width="600"></center>
 <center>Image : Flickr Susan Ackeridge (CC BY 2.0)</center>
-<BR>
-
 
 De plus, nous pourrions essayer de comprendre comment sont intégrés les signaux des flashs pendant différentes phases du sommeil grâce à un monitoring grace à un casque EEG permettant de saisir l'activité cérébrale durant le sommeil.
 
