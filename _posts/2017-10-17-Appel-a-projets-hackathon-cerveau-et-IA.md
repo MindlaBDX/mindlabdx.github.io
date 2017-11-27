@@ -31,11 +31,16 @@ permalink: /hack1cerveau/
 ## Participez ! <a name="participez"></a>
 
 #### Les inscriptions sont ouvertes ! <a name="inscriptions"></a>
-L'inscription est payante et obligatoire. Le prix de l'inscription est une petite participation aux frais de nourriture et boissons (repas proposés durant le week-end), à l'achat du matériel, etc. L'inscription au hackathon permet de devenir membre de l'association MindLaBDX (ce qui permettra de continuer des projets de ce type au cours de l'année 2018).
+L'inscription est payante et obligatoire. Le prix de l'inscription est une petite participation aux frais de nourriture et boissons (repas proposés durant le week-end), à l'achat du matériel, etc.
+[//]: # (# L'inscription au hackathon permet de devenir membre de l'association MindLaBDX (ce qui permettra de continuer des projets de ce type au cours de l'année 2018). )
 
-Tarifs : étudiant-e (8€) / autres (12€).
+Tarifs : étudiant-e (8€) / autres (11€).
 
 Pour s'inscrire ? :point_right: [C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
+
+Pour finaliser votre inscription (une fois le forumulaire "framaforms" rempli) sur le site de [HelloAsso](https://www.helloasso.com/associations/mindlabdx/evenements/hack-1-cerveau) (ce qui vous permettra de régler l'inscription et d'obtenir votre billet).
+
+<iframe id="haWidget" src="https://www.helloasso.com/associations/mindlabdx/evenements/hack-1-cerveau/widget-vignette" style="width:350px;height:450px;border:none;"></iframe><div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div>
 
 Pour être au courant avant le début des événements (notamment la pré-soirée du mercredi 22 où le [Projet 1](/projet_hackathon/#projet1) sera présenté au 127° à partir de 18h30), surveillez le [compte twitter du MindLaBdx](https://twitter.com/mindlabdx).
 
