@@ -8,7 +8,11 @@ permalink: /hack1cerveau/
 [//]: # (# --- le hackathon sur le Cerveau et l'IA ---)
 
 <img src="/images/bandeau_hack1cerveau_avec_dates-lieu_sans_autres_logos.png" width="828">
-<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="828">
+<img src="/images/HACK1CERVEAU_LOGO_18mindlab-08.jpg">
+
+
+[//]: # (# <img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="828"> )
+
 
 ## En bref
 * [Participez !](#participez) les inscriptions sont ouvertes !
