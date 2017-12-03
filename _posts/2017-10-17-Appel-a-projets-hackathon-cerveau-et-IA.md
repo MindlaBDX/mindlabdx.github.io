@@ -35,15 +35,18 @@ permalink: /hack1cerveau/
 ## Participez ! <a name="participez"></a>
 
 #### Les inscriptions sont ouvertes ! <a name="inscriptions"></a>
-L'inscription est payante et obligatoire. Le prix de l'inscription est une petite participation aux frais de nourriture et boissons (repas proposés durant le week-end), à l'achat du matériel, etc.
+L'inscription comprend l'utilisation des machines, le matériel, la nourriture et les boissons : tous les repas sont inclus durant le week-end (petit déjeuner, déjeuner, en-cas et apéro dinatoire).
+C'est pourquoi le nombre de places est limité à 35 personnes et que l'inscription est obligatoire.
 
-Tarifs : étudiant-e (8€) / autres (11€).
+Dépêchez-vous les inscriptions sont ouvertes jusqu'au jeudi 7 dans la limite des places disponibles.
 
 Pour s'inscrire ? :point_right: [C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
 
-Pour finaliser votre inscription : :point_right: [C'est par là !](https://www.helloasso.com/associations/mindlabdx/evenements/hack-1-cerveau)
+[//]: # (Pour finaliser votre inscription : :point_right: [C'est par là !](https://www.helloasso.com/associations/mindlabdx/evenements/hack-1-cerveau) )
 
-Une fois le forumulaire "framaforms" rempli, vous pourrez régler l'inscription et obtenir votre billet sur le site sécurisé de [HelloAsso](https://www.helloasso.com/associations/mindlabdx/evenements/hack-1-cerveau).
+Une fois le formulaire rempli, vous pourrez obtenir votre billet sur le site de [HelloAsso](https://www.helloasso.com/associations/mindlabdx/evenements/hack-1-cerveau).
+
+Tarifs : étudiant-e (8€) / autres (11€).
 
 Pour être au courant avant le début des événements (notamment la pré-soirée du mercredi 22 où le [Projet 1](/projet_hackathon/#projet1) sera présenté au 127° à partir de 18h30), surveillez le [compte twitter du MindLaBdx](https://twitter.com/mindlabdx).
 
