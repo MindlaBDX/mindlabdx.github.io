@@ -15,8 +15,8 @@ permalink: /hack1cerveau/
 
 
 ## En bref
-* [Communiqué de presse](#CP)
-* [Participez !](#participez) les inscriptions sont ouvertes !
+* [Communiqué de presse](#CP) disponible !
+* [Participez !](#participez) il reste encore des places disponibles pour s'inscrire (fermeture des inscription jeudi 7 décembre) !
 * [Projets proposés](#projets) : découvrez les projets qui vous attendent !
 * [Qui ?](#qui) les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
 * [Quand ?](#quand) le week-end __du 8 au 10 décembre 2017__.
