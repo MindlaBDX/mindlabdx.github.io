@@ -15,6 +15,7 @@ permalink: /hack1cerveau/
 
 
 ## En bref
+* [Communiqué de presse](#CP)
 * [Participez !](#participez) les inscriptions sont ouvertes !
 * [Projets proposés](#projets) : découvrez les projets qui vous attendent !
 * [Qui ?](#qui) les associations MindLaBDX et Ascoergo, en partenariat avec Cap Sciences/127°.
@@ -31,6 +32,10 @@ permalink: /hack1cerveau/
 * [Aidez](#aidez) : vous voulez nous donner un coup de main ?
 * [Partagez !](#partagez) parlez-en autour de vous !
 * [Qui est derrière tout ça ?](#organisateurs)
+
+## Communiqué de Presse <a name="CP"></a>
+
+Le communiqué de presse est :point_right: [téléchargeable ici](/communique_presse/CP-Hackathon-Hack1_Cerveau.pdf) !
 
 ## Participez ! <a name="participez"></a>
 
