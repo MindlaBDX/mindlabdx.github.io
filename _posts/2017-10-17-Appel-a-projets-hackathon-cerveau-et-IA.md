@@ -35,7 +35,7 @@ permalink: /hack1cerveau/
 
 ## Communiqué de Presse <a name="CP"></a>
 
-Le communiqué de presse est :point_right: [téléchargeable ici](/communique_presse/CP-Hackathon-Hack1_Cerveau.pdf) !
+Le communiqué de presse est :point_right: [téléchargeable ici](/CP/Hack1Cerveau.pdf) !
 
 ## Participez ! <a name="participez"></a>
 
