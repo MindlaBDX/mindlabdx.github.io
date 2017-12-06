@@ -235,19 +235,19 @@ Pour finir, des #mots-dièse dans le désordre :
 ## Qui est derrière tout ça ? <a name="organisateurs"></a>
 Organisateur-trice-s :
 - MindLaBDX : Xavier Hinaut & Philippe Giraudeau
-  - [Xavier Hinaut](http://www.xavierhinaut.com), Président de l'association MindLaBDX, chercheur à Inria Bordeaux, [@neuronalX (twitter)](https://twitter.com/neuronalX), [@neuronalX (github)](https://github.com/neuronalX)
-  - Philippe Giraudeau, Trésorier de l'association MindLaBDX, doctorant à Inria Bordeaux, [@philippeIA (twitter)](https://twitter.com/philippeIA), [@masterchef8 (github)](https://github.com/masterchef8)
+  - [Xavier Hinaut](http://www.xavierhinaut.com), Président de l'association MindLaBDX, chercheur à Inria Bordeaux (équipe Mnemosyne) [@neuronalX (twitter)](https://twitter.com/neuronalX), [@neuronalX (github)](https://github.com/neuronalX)
+  - Philippe Giraudeau, Trésorier de l'association MindLaBDX, doctorant à Inria Bordeaux (équipe Potioc) [@philippeIA (twitter)](https://twitter.com/philippeIA), [@masterchef8 (github)](https://github.com/masterchef8)
 - Ascoergo : [Yen Pham](https://www.linkedin.com/in/hoang-yen-pham-025a73b7), Présidente de l'association Ascoergo, étudiante à l'ENSC de Bordeaux
 - Cap Sciences : Amélie Sinard & Lamia Slaoua
 - Fablab 127° : Clément Pasquet & Emie Martin
 
-Soutien organisation :
-- Mado de La Quintinie, Floriane Fustec & [Mélody Labarchède](https://www.linkedin.com/in/m%C3%A9lody-labarch%C3%A8de-446a67a9) ()étudiante M2 Neurosciences à Bordeaux)
+Super soutien à l'organisation :
+- Mado de La Quintinie, Floriane Fustec & [Mélody Labarchède](https://www.linkedin.com/in/m%C3%A9lody-labarch%C3%A8de-446a67a9) (étudiante M2 Neurosciences à Bordeaux)
 
 Expert-e-s porteurs de [projets](/projet_hackathon/) :
-- Yoan Mollard
-- Jérémy laviole
-- Checchi Kévin
-- Emma Chabani
+- Yoan Mollard, ingénieur à Inria Bordeaux (équipe Flowers)
+- Jérémy laviole, entrepreneur (rea.lity.tech)
+- Checchi Kévin, doctorant (Montpellier)
+- Emma Chabani, doctorante (Paris)
 - Basile Garcia, étudiant M2 Sciences Cognitives à Bordeaux, [@getzneet (github)](https://github.com/getzneet)
-- William Schueller
+- William Schueller, doctorant à Inria Bordeaux (équipe Flowers)
