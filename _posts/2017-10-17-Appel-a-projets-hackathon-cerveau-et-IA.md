@@ -237,6 +237,7 @@ Organisateur-trice-s :
 - [Xavier Hinaut](http://www.xavierhinaut.com), Président de l'association MindLaBDX, chercheur à Inria Bordeaux, [@neuronalX (twitter)](https://twitter.com/neuronalX), [@neuronalX (github)](https://github.com/neuronalX)
 - Philippe Giraudeau, Trésorier de l'association MindLaBDX, doctorant à Inria Bordeaux, [@philippeIA (twitter)](https://twitter.com/philippeIA), [@masterchef8 (github)](https://github.com/masterchef8)
 - [Yen Pham](https://www.linkedin.com/in/hoang-yen-pham-025a73b7), Présidente de l'association Ascoergo, étudiante à l'ENSC de Bordeaux
+- 127° et Cap Sciences
 
 Soutien organisation :
 - Floriane Fustec
