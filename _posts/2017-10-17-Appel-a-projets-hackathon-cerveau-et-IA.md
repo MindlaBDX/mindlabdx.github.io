@@ -15,6 +15,7 @@ permalink: /hack1cerveau/
 
 
 ## En bref
+* [NEW: Planning](#planning) pour connaître le déroulé du week-end !
 * [Communiqué de presse](#CP) disponible !
 * [Participez !](#participez) il reste encore des places disponibles pour s'inscrire (fermeture des inscription jeudi 7 décembre) !
 * [Projets proposés](#projets) : découvrez les projets qui vous attendent !
@@ -24,7 +25,6 @@ permalink: /hack1cerveau/
 * [Quoi ?](#quoi) un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) par équipes autour d'un projet proposé par un-e expert-e.
 * [Pour qui?](#pour_qui) pour toutes et tous de 15 ans à 115 ans !
-* [NEW: Planning](#planning) pour connaître le déroulé du week-end !
 * [Appel à projets](#AAP) : expert-e-s en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet.
 * [Pourquoi ?](#pourquoi) pour se rencontrer, créer, imaginer, réaliser ...
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
@@ -33,6 +33,9 @@ permalink: /hack1cerveau/
 * [Aidez](#aidez) : vous voulez nous donner un coup de main ?
 * [Partagez !](#partagez) parlez-en autour de vous !
 * [Qui est derrière tout ça ?](#organisateurs)
+
+## News
+Le planning du weekend est disponible [ici](#planning).
 
 ## Communiqué de Presse <a name="CP"></a>
 
