@@ -24,6 +24,7 @@ permalink: /hack1cerveau/
 * [Quoi ?](#quoi) un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) par équipes autour d'un projet proposé par un-e expert-e.
 * [Pour qui?](#pour_qui) pour toutes et tous de 15 ans à 115 ans !
+* [NEW: Planning](#planning) pour connaître le déroulé du week-end !
 * [Appel à projets](#AAP) : expert-e-s en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet.
 * [Pourquoi ?](#pourquoi) pour se rencontrer, créer, imaginer, réaliser ...
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
@@ -101,9 +102,11 @@ L'imprimante 3D, la découpeuse laser, la découpeuse vinyle, les bombes de pein
 <img src="https://www.fablab127.net/uploads/machine_image/14/large_machine_image.jpg" width="240">
 
 #### Déroulement
+**Mise à jour** : déroulé du week-end [ici](#planning).
+
 Le vendredi soir entre 18h et 21h les "expert-e-s" présenteront leur projet et les participants formeront des équipes de 4/6 personnes autours de chaque projets.
 Du samedi matin au dimanche milieu d’après-midi, les équipes travailleront sur leur projet respectif.
-A l'issu du week-end (le dimanche vers 17h), chaque équipe présentera le projet qu’elle aura réalisé et un jury décernera des prix aux projets les plus innovants et aboutis, avec un prix spécial pour la meilleure vulgarisation.
+A l'issu du week-end (le dimanche à 16h), chaque équipe présentera le projet qu’elle aura réalisé et un jury décernera des prix aux projets les plus innovants et aboutis, avec un prix spécial pour la meilleure vulgarisation.
 A noter que dans la mesure du possible, les équipes seront encouragées à proposer un prototype de leur réalisation au public de Cap Sciences.
 (A chaque fin de journée, les participants, bénévoles et expert-e-s auront l'occasion de se retrouver autour d'un verre pour continuer à discuter et refaire le monde.)
 
@@ -124,6 +127,57 @@ Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qu
   - neurosciences / sciences cognitives / psychologie / ...
   - informatique / apprentissage machine / analyse de données / robotique / ...
 - etc.
+
+## Planning du week-end <a name="planning"></a>
+Voici le déroulé du week-end :
+
+#### Vendredi 8/12
+
+18h : Arrivée des participants
+
+18h15: Présentations générale et présentation des associations Ascoergo / Mindlabx
+
+18h20: Visite du fablab
+
+18h40 : Présentation des projets par les experts
+
+19h30: Fin des présentations / Apéro et constitution des équipes
+
+20h30 : Fermeture des portes & Direction un bar du centre ville :)
+
+
+#### Samedi 9/12
+
+9h00: Petit déjeuner
+
+9h30 : début du Hackathon par équipe
+
+13h-14h : Pause déjeuner
+
+20h30 : Arrêt machines
+
+21h: Fermeture des portes
+
+Samedi soir : Social event dans un bar du centre ville :)
+
+
+#### Dimanche 10/12
+
+9h : Petit dej !
+
+9h30 : poursuite du Hackathon par équipe
+
+12h30-13h30 : pause déjeuner
+
+15h : arrêt des machines -> préparation des présentations
+
+16h : présentations par équipes
+
+17h : délibération du jury + pot de fin de hackathon
+
+17h45 : remise des prix
+
+18h30 : fin du hackathon !!!
 
 ## Appel à projets <a name="AAP"></a>
 **L'appel à projet est terminé.**
