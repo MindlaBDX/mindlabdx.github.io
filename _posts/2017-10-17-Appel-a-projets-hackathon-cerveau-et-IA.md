@@ -304,7 +304,7 @@ Super soutien à l'organisation :
 Expert-e-s porteurs de [projets](/projet_hackathon/) :
 - Yoan Mollard, ingénieur à Inria Bordeaux (équipe Flowers)
 - Jérémy laviole, entrepreneur (rea.lity.tech)
-- Checchi Kévin, doctorant (Montpellier)
+- De Checchi Kévin, doctorant (Montpellier)
 - Emma Chabani, doctorante (Paris)
 - Basile Garcia, étudiant M2 Sciences Cognitives à Bordeaux, [@getzneet (github)](https://github.com/getzneet)
 - William Schueller, doctorant à Inria Bordeaux (équipe Flowers)
