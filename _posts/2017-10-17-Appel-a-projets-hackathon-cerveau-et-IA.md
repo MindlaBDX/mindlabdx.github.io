@@ -37,7 +37,8 @@ permalink: /hack1cerveau/
 ## Merci !!!
 Merci à toutes et à tous !
 
-<center><img src="/images/photos/IMG_8094_decoupe.jpg" width="350"><img src="/images/photos/IMG_8096_decoupe.jpg" width="350"></center>
+<center><img src="/images/photos/IMG_8094_decoupe.jpg" width="700"></center>
+<center><img src="/images/photos/IMG_8096_decoupe.jpg" width="700"></center>
 
 ## News
 Le planning du weekend est disponible [ici](#planning).
@@ -314,7 +315,7 @@ Expert-e-s porteurs de [projets](/projet_hackathon/) :
 - Basile Garcia, étudiant M2 Sciences Cognitives à Bordeaux, [@getzneet (github)](https://github.com/getzneet)
 - William Schueller, doctorant à Inria Bordeaux (équipe Flowers)
 
-Le jury qui a évalué les projets à la fin du hackathon:
+Le jury qui a évalué les projets à la fin du hackathon :
 - Clément Pasquet
 - Floriane Fustec
 - Juliette Chabassier
