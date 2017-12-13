@@ -300,7 +300,7 @@ Organisateur-trice-s :
   - [Xavier Hinaut](http://www.xavierhinaut.com), Président de l'association MindLaBDX, chercheur à Inria Bordeaux (équipe Mnemosyne) [@neuronalX (twitter)](https://twitter.com/neuronalX), [@neuronalX (github)](https://github.com/neuronalX)
   - Philippe Giraudeau, Trésorier de l'association MindLaBDX, doctorant à Inria Bordeaux (équipe Potioc) [@philippeIA (twitter)](https://twitter.com/philippeIA), [@masterchef8 (github)](https://github.com/masterchef8)
 - Ascoergo : [Yen Pham](https://www.linkedin.com/in/hoang-yen-pham-025a73b7), Présidente de l'association Ascoergo, étudiante à l'ENSC de Bordeaux
-- Cap Sciences : Amélie Sinard & Lamia Slaoua
+- Cap Sciences : Amélie Sinard, Lamia Slaoua, Emilie Gouet & Cyrielle Morfea
 - Fablab 127° : Clément Pasquet & Emie Martin
 
 Super soutien à l'organisation :
@@ -313,3 +313,11 @@ Expert-e-s porteurs de [projets](/projet_hackathon/) :
 - Emma Chabani, doctorante (Paris)
 - Basile Garcia, étudiant M2 Sciences Cognitives à Bordeaux, [@getzneet (github)](https://github.com/getzneet)
 - William Schueller, doctorant à Inria Bordeaux (équipe Flowers)
+
+Le jury qui a évalué les projets à la fin du hackathon:
+- Clément Pasquet
+- Floriane Fustec
+- Juliette Chabassier
+- Martin Hachet
+- Nicolas Rougier
+- Thomas Boraud
