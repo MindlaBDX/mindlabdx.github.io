@@ -34,6 +34,11 @@ permalink: /hack1cerveau/
 * [Partagez !](#partagez) parlez-en autour de vous !
 * [Qui est derrière tout ça ?](#organisateurs)
 
+## Merci !!!
+Merci à toutes et à tous !
+
+<center><img src="/images/photos/IMG_8094_decoupe.jpg" width="350"><img src="/images/photos/IMG_8096_decoupe.jpg" width="350"></center>
+
 ## News
 Le planning du weekend est disponible [ici](#planning).
 
