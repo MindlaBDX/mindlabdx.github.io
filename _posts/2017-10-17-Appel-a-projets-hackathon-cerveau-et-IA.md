@@ -15,7 +15,7 @@ permalink: /hack1cerveau/
 
 
 ## En bref
-* [NEW: Planning](#planning) pour connaître le déroulé du week-end !
+* [Planning](#planning) pour connaître le déroulé du week-end !
 * [Communiqué de presse](#CP) disponible !
 * [Participez !](#participez) il reste encore des places disponibles pour s'inscrire (fermeture des inscription jeudi 7 décembre) !
 * [Projets proposés](#projets) : découvrez les projets qui vous attendent !
@@ -25,6 +25,7 @@ permalink: /hack1cerveau/
 * [Quoi ?](#quoi) un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) par équipes autour d'un projet proposé par un-e expert-e.
 * [Pour qui?](#pour_qui) pour toutes et tous de 15 ans à 115 ans !
+* [Planning](#planning) pour connaître le déroulé du week-end !
 * [Appel à projets](#AAP) : expert-e-s en Info, Neuro, Robots, SciCog, Vulgarisation ... proposez votre projet.
 * [Pourquoi ?](#pourquoi) pour se rencontrer, créer, imaginer, réaliser ...
 * [Langue](#quelle_langue) : Français principalement, mais ouvert aux autres langues !
@@ -38,10 +39,13 @@ permalink: /hack1cerveau/
 Merci à toutes et à tous !
 
 <center><img src="/images/photos/IMG_8094_decoupe.jpg" width="700"></center>
+<BR>
 <center><img src="/images/photos/IMG_8096_decoupe.jpg" width="700"></center>
 
+<BR>
+
 ## News
-Le planning du weekend est disponible [ici](#planning).
+Tous les projets réalisés sont disponibles sur le github sous licence "open source" ! [GitHub du MindLaBDX](https://github.com/MindlaBDX)
 
 ## Communiqué de Presse <a name="CP"></a>
 
