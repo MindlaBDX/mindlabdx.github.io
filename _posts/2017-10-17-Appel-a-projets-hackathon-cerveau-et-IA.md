@@ -45,7 +45,7 @@ Merci à toutes et à tous !
 <BR>
 
 ## News
-Tous les projets réalisés sont disponibles sur le github sous licence "open source" ! [GitHub du MindLaBDX](https://github.com/MindlaBDX)
+Tous les projets réalisés sont disponibles sur le github sous licence "open source" ! [GitHub du MindLaBDX](https://github.com/MindlaBDX/hack1cerveau)
 
 ## Communiqué de Presse <a name="CP"></a>
 
