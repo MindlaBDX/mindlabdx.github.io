@@ -327,3 +327,6 @@ Le jury qui a évalué les projets à la fin du hackathon :
 - Martin Hachet
 - Nicolas Rougier
 - Thomas Boraud
+
+#### Et le superbe logo !
+GAYA (Alex G.)
