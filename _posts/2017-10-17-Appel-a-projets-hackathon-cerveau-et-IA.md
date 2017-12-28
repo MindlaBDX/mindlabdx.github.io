@@ -15,6 +15,7 @@ permalink: /hack1cerveau/
 
 
 ## En bref
+* [Résumé de l'événement](#resume)
 * [Planning](#planning) pour connaître le déroulé du week-end !
 * [Communiqué de presse](#CP) disponible !
 * [Participez !](#participez) il reste encore des places disponibles pour s'inscrire (fermeture des inscription jeudi 7 décembre) !
@@ -35,7 +36,9 @@ permalink: /hack1cerveau/
 * [Partagez !](#partagez) parlez-en autour de vous !
 * [Qui est derrière tout ça ?](#organisateurs)
 
-## Merci !!!
+## Résumé de l'événement <a name="resume"></a>
+
+#### Merci !!!
 Merci à toutes et à tous !
 
 <center><img src="/images/photos/IMG_8094_decoupe.jpg" width="700"></center>
@@ -43,6 +46,10 @@ Merci à toutes et à tous !
 <center><img src="/images/photos/IMG_8096_decoupe.jpg" width="700"></center>
 
 <BR>
+
+#### Articles de blogs décrivant l'événement
+- Par une visiteure : [La Science en Passant](https://lascienceenpassant.wordpress.com/2017/12/11/hackaton-hack1-cerveau).
+- Par un participant : [Pensée Artificielle](http://penseeartificielle.fr/hack1-cerveau-2017-cerveau-cap-science).
 
 ## News
 Tous les projets réalisés sont disponibles sur le github sous licence "open source" ! [GitHub du MindLaBDX](https://github.com/MindlaBDX/hack1cerveau)
