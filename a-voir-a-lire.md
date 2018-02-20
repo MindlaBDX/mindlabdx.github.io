@@ -4,6 +4,8 @@ title: Avoir-A-Lire
 permalink: /avoiralire/
 ---
 
+
+
 ## À lire !
 - 2017 [Le temps des algorithmes](https://www.editions-lepommier.fr/le-temps-des-algorithmes) Gilles Dowek et Serge Abiteboul.
   - Écoutez l'[émission sur France Inter](#Le-temps-des-algorithmes--France-Inter) présentant le livre
@@ -12,6 +14,7 @@ permalink: /avoiralire/
 ### Conférence
 - 04/12/2017 [IA, robots, transhumanisme ... que du bonheur](https://www.franceculture.fr/conferences/ia-robots-transhumanisme-que-du-bonheur) Laurent Alexandre, Pascal Picq, Didier Pourquery.
   - L'intelligence artificielle s'annonce comme la prochaine révolution. Mais son essor s'accompagne de craintes légitimes : l'Homme sera-t-il un jour dépassé ? Comment repenser une société dans laquelle il délègue sa faculté de penser ?
+- 21/03/2017 [UniverSCité - Penser le transhumanisme](https://www.youtube.com/watch?v=tDHm0jjGqEg) Jean-Michel Besnier, Cédric Brun. Association « Dealers de Science », Université Bordeaux Montaigne, Librairie Mollat.
 
 ## À écouter !
 - 09/02/2017 [Le temps des algorithmes](https://www.franceinter.fr/emissions/la-tete-au-carre/la-tete-au-carre-09-fevrier-2017)<a name="Le-temps-des-algorithmes--France-Inter"></a> Gilles Dowek et Serge Abiteboul. La tête au carré, France Inter.
