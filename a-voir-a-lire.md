@@ -4,9 +4,13 @@ title: Avoir-A-Lire
 permalink: /avoiralire/
 ---
 
+**Avertissement** : tous les liens ci-dessous sont proposés comme des lectures/visionnages/écoutes d'un certain intérêt, mais en aucun cas nous cautionnons tout ce qui est dit sur les contenus où vous mèneront ces liens. Certains sont d'ailleurs à consulter avec une certaine dose d'esprit critique ! De toute façon, vous ne devriez pas croire tout ce que vous entendez sur l'IA, les robots ou le transhumanisme, ... en particulier car les auteurs de ces propos (surtout à la radio ou lors de conférences) sont souvent contraints de simplifier les contenus par manque de temps et d'espace.
 
+## À venir !
+- 7 et 8 mars 2018 : [L'humain à venir / face au transhumanisme](http://havfat.fr/)
 
 ## À lire !
+- 05/02/2018 [Bullshit Thérapie : ne flippez pas, l’intelligence artificielle n’existe pas](https://www.numerama.com/tech/326780-bullshit-therapie-ne-flippez-pas-lintelligence-artificielle-nexiste-pas.html)
 - 2017 [Le temps des algorithmes](https://www.editions-lepommier.fr/le-temps-des-algorithmes) Gilles Dowek et Serge Abiteboul.
   - Écoutez l'[émission sur France Inter](#Le-temps-des-algorithmes--France-Inter) présentant le livre
 
